@@ -10,7 +10,7 @@ function cargarPortada() {
 
             <div class="logo-container">
 
-            <img src="src/img/lh.jpg" width="200px" height="200px" class="db-mboton rounded-circle" ;="">
+            <img src="src/img/lh.jpg" class="db-mboton rounded-circle" ;="">
                 
             </div>
 

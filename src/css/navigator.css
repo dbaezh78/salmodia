@@ -10,23 +10,21 @@
 
 
 .nav-bottom-bar {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 60px;
-    background-color: rgba(255, 255, 255, 0.9);
-    /*background: #ffffff;*/
+    position: relative !important; /* Importante para que no flote sola */
     display: flex;
     justify-content: space-around;
     align-items: center;
+    height: 60px;
+    border-top: 1px solid var(--SangreDeCristo);
+    background-color: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px); /* Opcional: le da un toque moderno */
     box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
-    z-index: 9999;
-    font-family: sans-serif;
-    border-top: 1px solid rgb(128 169 230 / 31%);
+    border-top: 1px solid rgba(128, 169, 230, 0.3);
 }
 
+
 .nav-item {
+    position: absolute;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -36,9 +34,9 @@
     position: relative;
     background: none;
     border: none;
-    padding: 5px;
+    padding: 2px;
     width: 100%;
-    top: 4px;
+    top: 0px;
 }
 
 .nav-item:hover {
@@ -267,29 +265,15 @@ body { padding-bottom: 70px; }
 
 }
 
-
-/* La barra de navegación */
-/* Contenedor que agrupa flecha + barra */
-#nav-wrapper {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    z-index: 9999;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end; /* Alinea la flecha a la derecha como en tu imagen */
-}
-
-/* El botoncito de la flecha */
-/* Este es el contenedor que se mueve hacia abajo */
 /* Este es el contenedor que se mueve hacia abajo */
 #nav-wrapper {
     position: fixed;
-    bottom: 0;
+    bottom: 0 !important; /* Forzamos el pegado al fondo */
     left: 0;
-    width: 100%;
+    width: 100vw;
     z-index: 9999;
+    margin: 0;
+    padding: 0;
     transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -299,23 +283,23 @@ body { padding-bottom: 70px; }
 }
 
 /* El botón de la flecha */
+/* Ajuste del botón de flecha para que no flote mal */
 #nav-toggle {
     position: absolute;
-    top: -26px; /* Se coloca justo encima de la barra */
-    right: 0px;  /* Alineado a la IZQUIERDA */
+    top: -26px; /* Ajusta según el tamaño de tu botón */
+    right: 0px; 
     background: rgba(255, 255, 255, 0.95);
     border: 1px solid rgba(128, 169, 230, 0.3);
     border-bottom: none;
     border-radius: 8px 8px 0 0;
-    width: 45px;
-    height: 32px;
+    width: 52px;
+    height: 28px;
     display: flex;
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    box-shadow: 0 -2px 5px rgba(0,0,0,0.1);
-    opacity: 0.5;
 }
+
 
 #nav-toggle .material-symbols-outlined:hover {
     background: transparent !important;
@@ -332,8 +316,3 @@ body { padding-bottom: 70px; }
     transform: rotate(180deg);
 }
 
-/* Ajuste preventivo para la barra */
-.nav-bottom-bar {
-    position: relative !important; /* Importante para que no flote sola */
-    border-top: 1px solid var(--SangreDeCristo);
-}

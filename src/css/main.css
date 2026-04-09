@@ -8,6 +8,65 @@
   src: url('../font/material-symbols.woff2') format('woff2');
 }
 
+/* Variables de color para los tiempos */
+:root {
+    --color-adviento: purple;
+    --color-navidad: maroon;
+    --color-ordinario: green;
+    --color-cuaresma: #6a0dad; /* Morado fuerte */
+    --color-pascua: #008fcc;  /* Azul */
+    --color-santos: #007bff;   /* Azul estándar */
+    --color-solemnidades: #0069d9;
+    
+    --fuente-portada: 'Caveat', cursive;
+}
+
+/* Reseteo total para eliminar líneas blancas en los bordes */
+html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    overflow-x: hidden;
+}
+
+body {
+    font-family: var(--fuente-portada);
+    /* Imagen de fondo directamente aquí */
+    background-image: url('../img/BackGround.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+    /* Espacio para que el contenido no quede debajo del navigator */
+    padding-bottom: 70px; 
+    
+    /* Flexbox solo para la portada */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
+body.portada-body {
+    margin: 0;
+    padding: 0;
+    font-family: var(--fuente-portada);
+    color: white; /* Texto general en blanco */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow-x: hidden;
+    
+}
+
+#app {
+    width: 100%;
+}
+
+
 .material-symbols-outlined {
   font-family: 'Material Symbols Outlined';
   font-weight: normal;
@@ -24,58 +83,22 @@
   -webkit-font-smoothing: antialiased;
 }
 
-/* Variables de color para los tiempos */
-:root {
-    --color-adviento: purple;
-    --color-navidad: maroon;
-    --color-ordinario: green;
-    --color-cuaresma: #6a0dad; /* Morado fuerte */
-    --color-pascua: #008fcc;  /* Azul */
-    --color-santos: #007bff;   /* Azul estándar */
-    --color-solemnidades: #0069d9;
-    
-    --fuente-portada: 'Caveat', cursive;
-}
-
-body {
-    background-repeat: no-repeat;
-    background-size: cover ; /* Asegura que la imagen cubra toda la pantalla */
-    background-position: center;
-    background-attachment: fixed; /* Fija la imagen de fondo */
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px); /* Ajusté el blur para que sea uniforme */
-}
-
-
-body.portada-body {
-    margin: 0;
-    padding: 0;
-    font-family: var(--fuente-portada);
-    color: white; /* Texto general en blanco */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    overflow-x: hidden;
-}
-
 /* El fondo desenfocado */
-.background-overlay {
-    position: fixed;
-    top: 0; left: 0; width: 100%; height: 100%;
-    background-image: url('../img/BackGround.jpg'); /* Tu imagen de la Virgen */
-    background-size: cover;
-    background-position: center;
-/*    filter: blur(10px); /* Desenfoque */
-    transform: scale(1.1); /* Evita bordes blancos por el blur */
-    z-index: -1;
-}
+.fondo-index {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            z-index: -1; /* Lo manda al fondo de todo */
+        }
 
 .portada-container {
-    /*max-width: 600px;*/
-    width: 90%;
-    text-align: center;
-    padding: 20px 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Esto centra todo el bloque de la portada */
 }
 
 /* Título Principal */
@@ -101,17 +124,29 @@ body.portada-body {
 
 /* Botones Grandes */
 .main-buttons-container {
-    display: flex;
-    justify-content: center;
-    gap: 15px;
-    margin-bottom: 30px;
+    display: flex;             /* Activa Flexbox */
+    flex-direction: row;       /* FUERZA a que sea uno al lado del otro */
+    justify-content: center;   /* Centra los botones horizontalmente */
+    align-items: center;       /* Alineación vertical */
+    gap: 15px;                 /* Espacio entre botones */
+    
+    width: 100%;               /* Usa todo el ancho disponible */
+    margin: 20px 0;            /* Margen arriba y abajo */
+    padding: 10px 0;
+}
+
+/* Solo si quieres que en celulares muy pequeños se apilen por falta de espacio */
+@media (max-width: 480px) {
+    .main-buttons-container {
+        flex-wrap: wrap;       /* Si no caben, bajan, pero siguen centrados */
+    }
 }
 
 .btn-main {
     background: white;
     color: black;
     border: none;
-    padding: 10px 20px;
+    padding: 10px 5px;
     border-radius: 5px;
     font-family: var(--fuente-portada);
     font-size: 1.3em;
@@ -144,7 +179,14 @@ body.portada-body {
 }
 audio {
     width: 100%;
-    max-width: 400px;
+    height: 5%;
+    /*display: none;*/
+    /* border-radius: 0px 0px 0px 0px; */
+    /* outline: none; */
+    background-color: #f1f3f4;
+    left: 0px;
+    position: fixed;
+    top: 0px;
 }
 
 /* Icono Calendario */
@@ -236,3 +278,12 @@ audio {
 .btn-tiempo[data-tiempo="pascua"] { color: #00BFFF; }    /* Celeste/Azul */
 .btn-tiempo[data-tiempo="santos"] { color: #1E90FF; }    /* DodgerBlue */
 .btn-tiempo[data-tiempo="solemnidades"] { color: #0073e6; }
+
+
+.db-mboton {
+    width: 40%;
+    position: relative;
+    display: flex;
+    justify-self: center;
+    border-radius: 50%;
+}
