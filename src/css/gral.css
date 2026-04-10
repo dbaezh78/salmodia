@@ -89,6 +89,13 @@ body {
     white-space: pre-wrap; /* Mantiene los saltos de línea del JS */
 }
 
+.cuerpo-lectura{
+    line-height: 1.4;
+    white-space: pre-wrap;
+    text-align: justify ;
+
+}
+
 .Lectura-Breve, .Oracion {
     text-align: justify;
 }
@@ -151,16 +158,21 @@ body {
 .titulo {
     display: flex;
     color: red;
-    margin-top: 25px;
-    margin-bottom: 25px;
+    margin-top: 25px !important;
+    margin-bottom: 25px !important;
 }
 
 .antifona {
+    display: flex;
     margin-top: 25px !important;
     margin-bottom: 25px !important;
 }
 
 .abajo {
-    
+    display: flex;    
     margin-bottom: 20px !important;
+}
+
+.verso-linea {
+ display: inline;       /* Refuerza que no ocupen toda la línea */   
 }

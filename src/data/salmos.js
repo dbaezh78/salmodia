@@ -34,34 +34,6 @@ que no entrarán en mi descanso»
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
-// himno Pascua Semana 1, Jueves - Laudes
-
-const hps1jlaudest = "Himno: EL AGUA PURA, DON DE LA MAÑANA"
-const hps1jlaudes = `El agua pura, don de la mañana,
-da a los ojos el brillo de la vida,
-y el alma se despierta cuando escucha
-que el ángel dice: «¡Cristo resucita!»
-
-¡Cómo quieren las venas de mi cuerpo
-ser música, ser cuerdas de la lira,
-y cantar, salmodiar como los pájaros,
-en esta Pascua santa la alegría!
-
-Mirad cuál surge Cristo transparente:
-en medio de los hombres se perfila
-su cuerpo humano, cuerpo del amigo
-deseado, serena compañía.
-
-El que quiera palparlo, aquí se acerque,
-entre con su fe en el Hombre que humaniza,
-derrame su dolor y su quebranto,
-dé riendas al amor, su gozo diga.
-
-A ti, Jesús ungido, te ensalzamos,
-a ti, nuestro Señor, que depositas
-tu santo y bello cuerpo en este mundo,
-como en el campo se echa la semilla. Amén.`
-
 //SALMO 62, 2-9 - EL ALMA SEDIENTA DE DIOS
 const salmo62_2_9t = "SALMO 62, 2-9 - EL ALMA SEDIENTA DE DIOS"
 const salmo62_2_9 = `¡Oh Dios!, tú eres mi Dios, por ti madrugo,
@@ -218,32 +190,120 @@ por el camino de la paz.
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.
 `
+const sal117_1t = "Salmo 117 I - HIMNO DE ACCIÓN DE GRACIAS DESPUÉS DE LA VICTORIA."
+const sal117_1 = `Dad gracias al Señor porque es bueno,
+porque es eterna su misericordia.
 
-//**************************** */
-/* Ant 1. */ const ps1ant1 = "Cristo ha resucitado y con su claridad ilumina al pueblo rescatado con su sangre. Aleluya."
-/* Ant 2. */ const ps1ant2 = "Ha resucitado del sepulcro nuestro Redentor; cantemos un himno al Señor, nuestro Dios. Aleluya."
-/* Ant 3. */ const ps1ant3 = "Aleluya. Ha resucitado el Señor, tal como os lo había anunciado. Aleluya."
-/* Ant Ev. */ const ps1antEv = "Se presentó Jesús en medio de sus discípulos y les dijo: «La paz sea con vosotros.» Aleluya."
+Diga la casa de Israel:
+eterna es su misericordia.
+
+Diga la casa de Aarón:
+eterna es su misericordia.
+
+Digan los fieles del Señor:
+eterna es su misericordia.
+
+En el peligro grité al Señor,
+y me escuchó, poniéndome a salvo.
+
+El Señor está conmigo: no temo;
+¿qué podrá hacerme el hombre?
+El Señor está conmigo y me auxilia,
+veré la derrota de mis adversarios.
+
+Mejor es refugiarse en el Señor
+que fiarse de los hombres,
+mejor es refugiarse en el Señor
+que confiar en los magnates.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+const salmo117_2t = "Salmo 117 II"
+const salmo117_2 = `Todos los pueblos me rodeaban,
+en el nombre del Señor los rechacé;
+me rodeaban cerrando el cerco,
+en el nombre del Señor los rechacé;
+me rodeaban como avispas,
+ardiendo como fuego en las zarzas,
+en el nombre del Señor los rechacé.
+
+Empujaban y empujaban para derribarme,
+pero el Señor me ayudó;
+el Señor es mi fuerza y mi energía,
+él es mi salvación.
+
+Escuchad: hay cantos de victoria
+en las tiendas de los justos:
+«La diestra del Señor es poderosa,
+la diestra del Señor es excelsa,
+la diestra del Señor es poderosa.»
+
+No he de morir, viviré
+para contar las hazañas del Señor.
+Me castigó, me castigó el Señor,
+pero no me entregó a la muerte.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+const salmo117_3t = "Salmo 117 III"
+const salmo117_3 = `Abridme las puertas del triunfo,
+y entraré para dar gracias al Señor.
+
+Esta es la puerta del Señor:
+los vencedores entrarán por ella.
+
+Te doy gracias porque me escuchaste
+y fuiste mi salvación.
+
+La piedra que desecharon los arquitectos
+es ahora la piedra angular.
+Es el Señor quien lo ha hecho,
+ha sido un milagro patente.
+
+Éste es el día en que actuó el Señor:
+sea nuestra alegría y nuestro gozo.
+Señor, danos la salvación;
+Señor, danos prosperidad.
+
+Bendito el que viene en nombre del Señor,
+os bendecimos desde la casa del Señor;
+el Señor es Dios: él nos ilumina.
+
+Ordenad una procesión con ramos
+hasta los ángulos del altar.
+
+Tú eres mi Dios, te doy gracias;
+Dios mío, yo te ensalzo.
+
+Dad gracias al Señor porque es bueno,
+porque es eterna su misericordia.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
 
-/* */ const cEvangelico = "CÁNTICO EVANGÉLICO"
+
+
+
+
+
 
 const invitacion = "INVITACIÓN A LA ALABANZA DIVINA"
 
-const inv_tiempo_pacual = "Verdaderamente ha resucitado el Señor. Aleluya."
+/* */ const cEvangelico = "CÁNTICO EVANGÉLICO"
 
 
 
 
+const instruccion = "(Si Laudes no es la primera oración del día se sigue el esquema del Invitatorio explicado en el Oficio de Lectura)"
 
+const invitatorio1 = "Señor abre mis labios"
+const invitatorio2 = "Y mi boca proclamará tu alabanza"
 
-
-
-
-
-
-
-
+const invitatorio3 = "Dios mío, ven en mi auxilio"
+const invitatorio4 = "Señor, date prisa en socorrerme. Gloria al Padre, y al Hijo, y al Espíritu Santo. \n Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén. Aleluya."
 
 const Conclusion1 = "El Señor nos bendiga, nos guarde de todo mal y nos lleve a la vida eterna."
 const Conclusion2 = "Amén."

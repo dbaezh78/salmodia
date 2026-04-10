@@ -1,4 +1,4 @@
-import { dbLaudes } from '../data/db-laudes.js';
+import { dbLaudes } from '../data/db-Oficio.js';
 
 // Esta función se encarga de "armar" el HTML con los colores correctos
 function generarTemplateLaudes(datos) {
@@ -6,37 +6,31 @@ function generarTemplateLaudes(datos) {
     return `
         <t class="Salmodia">${datos.tt}</t>
         <br>
-        <t class="OraciondelaManana">${datos.sub}</t>
-    <br>
-    <br>
-        <div class="seccion-invitatorio">
+        <hr>
 
+        <div class="seccion-invitatorio">
         
         <p class="rubrica">${datos.invitatorio.titulo}</p>
-        <p class="rubrica instruccion">${datos.invitatorio.instruccion}</p>
         
-        
-        <br>
-        <span class="verso-linea"><span class="rubrica">V.</span> ${datos.invitatorio.v}</span>
-        <br>
-        <span class="verso-linea"><span class="rubrica">R.</span> ${datos.invitatorio.r}</span>
+        <p class="titulo instruccion">Si ésta es la primera oración del día:</p>        
+
+        <span class="verso-linea"><span class="rubrica">V.</span> ${datos.invitatorio.v1}</span><br>
+        <span class="verso-linea"><span class="rubrica">R.</span> ${datos.invitatorio.r1}</span>
         </div>
         
-
-        <div class="antifona">
+        <p class="titulo instruccion">Se añade el Salmo del Invitatorio con la siguiente antífona:</p>
+        
+        <div>
         <p><span class="rubrica">Ant. </span> ${datos.antifonaInvitatorio}</p>
         </div>
-        
-        <div class="salmo-completo">
-        <div class="salmo-Invitatorio">
-        <b class="titulo-salmo94">${datos.salmoInvitatorio.titulo}</b>
-        <b class="titulo-salmo94">${datos.salmoInvitatorio.subtitulo}</b>
-        </div>
-        
-        <div class="cuerpo-salmo ">${datos.salmoInvitatorio.contentInv}</div>
+        <hr>
+        <p class="abajo">Si antes se ha rezado ya alguna otra Hora</p>
 
-        <p class="antifona"><span class="rubrica">Ant. </span> ${datos.antifonaInvitatorio}</p>
-        
+        <span class="verso-linea"><span class="rubrica">V.</span> ${datos.invitatorio.v2}</span><br>
+        <span class="verso-linea"><span class="rubrica">R.</span> ${datos.invitatorio.r2}</span><br><br>
+        <hr>
+
+
         </div>
         
         <div>
@@ -66,18 +60,12 @@ function generarTemplateLaudes(datos) {
         <div class="cuerpo-salmo">${datos.Salmodias.SalmoTRES}</div>
         <p class="antifona"><span class="rubrica">Ant. </span> ${datos.Salmodias.Ant3}</p>
         </div>
+        
+        <p><span class="rubrica">V. </span> ${datos.Responde.Resp_antes_LectV}</p>
+        <p class="abajo"><span class="rubrica">R. </span> ${datos.Responde.Resp_antes_LectR}</p>
+        
+        
 
-        <div> ${ "" /* LLAVE LECTURA BREVE */}
-
-        <p><span class="rubrica">LECTURA BREVE   ${datos.LecturaBreve.LecturaCita}</span></p><br>
-        <div class="Lectura-Breve">${datos.LecturaBreve.LecturaTexto}</div><br>
-
-        <p><span class="rubrica">RESPONSORIO BREVE</span></p><br>
-
-        <p><span class="rubrica"> ${datos.LecturaBreve.nota}</span></p><br>
-        <div class="Lectura-Breve">${datos.LecturaBreve.responsorio}</div><br>
-
-        </div> ${ "" /* LLAVE LECTURA BREVE */}
 
         ${ "" /* REPRODUCTOR AUTOMÁTICO ENCADENADO */ }
     <div class="audio-container AudioFormato" >
@@ -89,12 +77,38 @@ function generarTemplateLaudes(datos) {
             </audio>
         </div>
 
+
+        <p class="antifona"><span class="rubrica"> PRIMERA LECTURA</span> </p>
+        
+        <p class="abajo"></span> ${datos.Lecturas.Lectura11}</p>
+        <p class="abajo rubrica">${datos.Lecturas.Lectura12}</span></p>
+        <p class="abajo cuerpo-lectura"></span> ${datos.Lecturas.Lectura14}</p>
+        <p class="antifona"><span class="rubrica">RESPONSORIO ${datos.Lecturas.Lectura13} </span></p>
+        <span class="verso-linea Oracion"><span class="rubrica">R.</span> ${datos.Lecturas.Lectura15}</span>
+        <span class="verso-linea Oracion"><span class="rubrica">*.</span> ${datos.Lecturas.Lectura17}</span><br>
+        <span class="verso-linea Oracion"><span class="rubrica">V.</span> ${datos.Lecturas.Lectura16}</span><br>
+        <span class="verso-linea Oracion abajo"><span class="rubrica">R.</span> ${datos.Lecturas.Lectura17}</span><br><br>
+
+        
+        ${ "" /* SEGUNDA LECTURA*/}
         <div class="fila-audio maudio staudio">
             <small class="rubrica Lect1Style">2da. Lectura</small>
             <audio class="saudio" id="audio2" controls style="flex: 1; height: 30px;">
                 <source src="${audio.fija}" type="audio/mpeg">
             </audio>
         </div>
+
+                <p class="antifona"><span class="rubrica"> SEGUNDA LECTURA</span> </p>
+        
+        <p class="abajo"></span> ${datos.Lecturas.Lectura21}</p>
+        <p class="abajo rubrica">${datos.Lecturas.Lectura22}</span></p>
+        <p class="abajo cuerpo-lectura"></span> ${datos.Lecturas.Lectura24}</p>
+        <p class="antifona"><span class="rubrica">RESPONSORIO ${datos.Lecturas.Lectura23} </span></p>
+        <span class="verso-linea Oracion"><span class="rubrica">R.</span> ${datos.Lecturas.Lectura25}</span>
+        <span class="verso-linea Oracion"><span class="rubrica">*.</span> ${datos.Lecturas.Lectura27}</span><br>
+        <span class="verso-linea Oracion"><span class="rubrica">V.</span> ${datos.Lecturas.Lectura26}</span><br>
+        <span class="verso-linea Oracion abajo"><span class="rubrica">R.</span> ${datos.Lecturas.Lectura27}</span><br><br>
+
 
     </div>
         
