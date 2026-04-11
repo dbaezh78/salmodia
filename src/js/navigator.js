@@ -7,7 +7,7 @@
 
     const linkSettings = document.createElement('link');
     linkSettings.rel = 'stylesheet';
-    linkSettings.href = '/src/css/setting.css';
+    linkSettings.href = '../css/setting.css';
     document.head.appendChild(linkSettings);
 
 // 2. Inyectar archivos JS de ajustes y Firebase
