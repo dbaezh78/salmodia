@@ -12,7 +12,7 @@
 
 // 2. Inyectar archivos JS de ajustes y Firebase
     const scriptsToLoad = [
-        { src: 'src/js/setting.js', type: 'text/javascript' }
+        { src: './src/js/setting.js', type: 'text/javascript' }
     ];
 
     scriptsToLoad.forEach(s => {
