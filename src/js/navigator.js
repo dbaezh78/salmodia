@@ -64,22 +64,22 @@
                         <a href="https://www.facebook.com/cantordelcaminoneocatecumenal" target="_blank"><span class="material-symbols-outlined">record_voice_over</span> Cantores</a>
                         
                         <a href="https://carmenhernandez.org/" target="_blank"> 
-                            <img src="/src/img/carmen_hernandez.jpg" alt="Carmen Hernández" class="img-perfil-link">
+                            <img src="src/img/carmen_hernandez.jpg" alt="Carmen Hernández" class="img-perfil-link">
                             <span>Carmen Hernández</span>
                         </a>
 
                         <a href="https://neocatechumenaleiter.org/historia/kiko-arguello/" target="_blank"> 
-                            <img src="/src/img/kiko_arguello.jpg" alt="Kiko Arguello" class="img-perfil-link">
+                            <img src="src/img/kiko_arguello.jpg" alt="Kiko Arguello" class="img-perfil-link">
                             <span>Kiko Argüello</span>
                         </a>
 
                         <a href="https://neocatechumenaleiter.org/historia/mario-pezzi/" target="_blank">
-                            <img src="/src/img/mariopezzi.jpg" alt="Mario Pezzi" class="img-perfil-link">
+                            <img src="src/img/mariopezzi.jpg" alt="Mario Pezzi" class="img-perfil-link">
                             <span>Mario Pezzi</span>
                         </a>
                         
                         <a href="https://neocatechumenaleiter.org/historia/maria-ascension/" target="_blank">
-                            <img src="/src/img/maria_ascension.jpg" alt="Maria Ascension" class="img-perfil-link">
+                            <img src="src/img/maria_ascension.jpg" alt="Maria Ascension" class="img-perfil-link">
                             <span>Maria Ascension</span>
                         </a>
                     </div>
