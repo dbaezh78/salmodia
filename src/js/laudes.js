@@ -279,7 +279,25 @@ function construirUrlLiturgica(datos) {
 
 // Para probarlo de inmediato, puedes ejecutarlo al cargar (luego se hará por evento)
 document.addEventListener('DOMContentLoaded', () => {
-    renderizarLaudes("tps1jsOF");
-
+    const params = new URLSearchParams(window.location.search);
     
+    // Intenta obtener 'oficio', y si no existe, intenta con 'laudes'
+    const idUrl = params.get('oficio') || params.get('laudes');
+
+    const container = document.getElementById('contenido-dinamico');
+
+    if (idUrl) {
+        // Buscamos en la base de datos el ID que llegó por URL
+        const datosLaudes = dbLaudes.find(item => item.id === idUrl);
+
+        if (datosLaudes) {
+            container.innerHTML = generarTemplateLaudes(datosLaudes);
+            console.log("Cargado con éxito:", datosLaudes.id);
+        } else {
+            container.innerHTML = `<h2>El ID "${idUrl}" no existe en la base de datos</h2>`;
+        }
+    } else {
+        // Si no hay ID en la URL, no carga el Jueves, muestra este mensaje:
+        container.innerHTML = `<h2>Por favor, selecciona un oficio del menú.</h2>`;
+    }
 });

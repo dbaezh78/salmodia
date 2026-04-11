@@ -156,3 +156,24 @@ Como vigilia de amor
 te ofrecemos nuestro sueño;
 tú que eres el paraíso,
 danos un puesto en tu reino. Amén.`
+
+const htps1vsLAt = "Himno: TU CUERPO ES LAZO DE AMORES"
+const htps1vsLA = `Tu cuerpo es lazo de amores,
+de Dios y el hombre atadura;
+amor que a tu cuerpo acude
+como tu cuerpo perdura.
+
+Tu cuerpo, surco de penas,
+hoy es de luz y rocío;
+que lo vean los que lloran
+con ojos enrojecidos.
+
+Tu cuerpo espiritual
+es la Iglesia congregada;
+tan fuerte como tu cruz,
+tan bella como tu Pascua.
+
+Tu cuerpo sacramental
+es de tu carne y tu sangre,
+y la Iglesia, que es tu Esposa,
+se acerca para abrazarte. Amén.`

@@ -1,4 +1,6 @@
-import { dbLaudes } from '../data/db-Oficio.js';
+import { dbOficio } from '../data/db-Oficio.js';
+
+//*********************************************************************** */
 
 // Esta función se encarga de "armar" el HTML con los colores correctos
 function generarTemplateLaudes(datos) {
@@ -9,19 +11,19 @@ function generarTemplateLaudes(datos) {
         <hr>
 
         <div class="seccion-invitatorio">
-        
         <p class="rubrica">${datos.invitatorio.titulo}</p>
         
         <p class="titulo instruccion">Si ésta es la primera oración del día:</p>        
-
+        
         <span class="verso-linea"><span class="rubrica">V.</span> ${datos.invitatorio.v1}</span><br>
         <span class="verso-linea"><span class="rubrica">R.</span> ${datos.invitatorio.r1}</span>
         </div>
         
         <p class="titulo instruccion">Se añade el Salmo del Invitatorio con la siguiente antífona:</p>
         
+        
         <div>
-        <p><span class="rubrica">Ant. </span> ${datos.antifonaInvitatorio}</p>
+        <p><span class="rubrica">Ant. </span> ${datos.invitatorio.antifonaInvitatorio}</p>
         </div>
         <hr>
         <p class="abajo">Si antes se ha rezado ya alguna otra Hora</p>
@@ -157,7 +159,7 @@ function generarTemplateLaudes(datos) {
 
 // 1. FUNCIÓN DE RENDERIZADO (LA QUE CAMBIA)
 export function renderizarLaudes(idBusqueda) {
-    const datos = dbLaudes.find(item => item.id === idBusqueda);
+    const datos = dbOficio.find(item => item.id === idBusqueda);
     const contenedor = document.getElementById('contenido-dinamico');
 
     if (!datos) {
@@ -289,11 +291,27 @@ function construirUrlLiturgica(datos) {
 // Función para determinar si el audio debe ser el de año par o impar
 
 
-
-
 // Para probarlo de inmediato, puedes ejecutarlo al cargar (luego se hará por evento)
 document.addEventListener('DOMContentLoaded', () => {
-    renderizarLaudes("tps1jsOF");
-
+    const params = new URLSearchParams(window.location.search);
     
+    // Intenta obtener 'oficio', y si no existe, intenta con 'laudes'
+    const idUrl = params.get('oficio') || params.get('laudes');
+
+    const container = document.getElementById('contenido-dinamico');
+
+    if (idUrl) {
+        // Buscamos en la base de datos el ID que llegó por URL
+        const datosOficio = dbOficio.find(item => item.id === idUrl);
+
+        if (datosOficio) {
+            container.innerHTML = generarTemplateLaudes(datosOficio);
+            console.log("Cargado con éxito:", datosOficio.id);
+        } else {
+            container.innerHTML = `<h2>El ID "${idUrl}" no existe en la base de datos</h2>`;
+        }
+    } else {
+        // Si no hay ID en la URL, no carga el Jueves, muestra este mensaje:
+        container.innerHTML = `<h2>Por favor, selecciona un oficio del menú.</h2>`;
+    }
 });
