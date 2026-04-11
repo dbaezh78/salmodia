@@ -2,17 +2,17 @@
     // 1. Inyectar los archivos CSS inmediatamente
     const linkNav = document.createElement('link');
     linkNav.rel = 'stylesheet';
-    linkNav.href = '/src/css/navigator.css';
+    linkNav.href = 'src/css/navigator.css';
     document.head.appendChild(linkNav);
 
     const linkSettings = document.createElement('link');
     linkSettings.rel = 'stylesheet';
-    linkSettings.href = '/src/css/setting.css';
+    linkSettings.href = 'src/css/setting.css';
     document.head.appendChild(linkSettings);
 
 // 2. Inyectar archivos JS de ajustes y Firebase
     const scriptsToLoad = [
-        { src: '/src/js/setting.js', type: 'text/javascript' }
+        { src: 'src/js/setting.js', type: 'text/javascript' }
     ];
 
     scriptsToLoad.forEach(s => {
