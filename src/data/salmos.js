@@ -1,5 +1,5 @@
 // SALMO 94, SI HOY ESCUCHAIS SU VOZ
-const salmo94t = "Salmo 94"
+const salmo94t = "Salmo 94 INVITACIÓN A LA ALABANZA DIVINA" //Salmo 94 Titulo Rojo
 const salmo94 = `Venid, aclamemos al Señor,
 demos vítores a la Roca que nos salva;
 entremos a su presencia dándole gracias,
