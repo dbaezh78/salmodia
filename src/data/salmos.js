@@ -1,5 +1,61 @@
+//SALMO 62, 2-9 - EL ALMA SEDIENTA DE DIOS
+const salmo62_2_9t = "SALMO 62, 2-9 - EL ALMA SEDIENTA DE DIOS"
+const salmo62_2_9 = `¡Oh Dios!, tú eres mi Dios, por ti madrugo,
+mi alma está sedienta de ti;
+mi carne tiene ansia de ti,
+como tierra reseca, agostada, sin agua.
+
+¡Cómo te contemplaba en el santuario
+viendo tu fuerza y tu gloria!
+Tu gracia vale más que la vida,
+te alabarán mis labios.
+
+Toda mi vida te bendeciré
+y alzaré las manos invocándote.
+Me saciaré de manjares exquisitos,
+y mis labios te alabarán jubilosos.
+
+En el lecho me acuerdo de ti
+y velando medito en ti,
+porque fuiste mi auxilio,
+y a la sombra de tus alas canto con júbilo;
+mi alma está unida a ti,
+y tu diestra me sostiene.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.
+`
+
+// Salmo 92 - GLORIA DEL DIOS CREADOR
+const salmo92t = "Salmo 92 - GLORIA DEL DIOS CREADOR"
+const salmo92 = `¡El Señor reina vestido de majestad,
+el Señor, vestido y ceñido de poder:
+así está firme el orbe y no vacila.
+
+Tu trono está firme desde siempre,
+y tú eres eterno.
+
+Levantan los ríos, Señor,
+levantan los ríos su voz,
+levantan los ríos su fragor;
+
+pero más que la voz de aguas caudalosas,
+más potente que el oleaje del mar,
+más potente en el cielo es el Señor.
+
+Tus mandatos son fieles y seguros;
+la santidad es el adorno de tu casa,
+Señor, por días sin término.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+
+
+
 // SALMO 94, SI HOY ESCUCHAIS SU VOZ
-const salmo94t = "Salmo 94 INVITACIÓN A LA ALABANZA DIVINA" //Salmo 94 Titulo Rojo
+const invitacion = "INVITACIÓN A LA ALABANZA DIVINA"
+const salmo94t = "Salmo 94"             // INVITACIÓN A LA ALABANZA DIVINA" //Salmo 94 Titulo Rojo
 const salmo94 = `Venid, aclamemos al Señor,
 demos vítores a la Roca que nos salva;
 entremos a su presencia dándole gracias,
@@ -34,99 +90,11 @@ que no entrarán en mi descanso»
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
-//SALMO 62, 2-9 - EL ALMA SEDIENTA DE DIOS
-const salmo62_2_9t = "SALMO 62, 2-9 - EL ALMA SEDIENTA DE DIOS"
-const salmo62_2_9 = `¡Oh Dios!, tú eres mi Dios, por ti madrugo,
-mi alma está sedienta de ti;
-mi carne tiene ansia de ti,
-como tierra reseca, agostada, sin agua.
-
-¡Cómo te contemplaba en el santuario
-viendo tu fuerza y tu gloria!
-Tu gracia vale más que la vida,
-te alabarán mis labios.
-
-Toda mi vida te bendeciré
-y alzaré las manos invocándote.
-Me saciaré de manjares exquisitos,
-y mis labios te alabarán jubilosos.
-
-En el lecho me acuerdo de ti
-y velando medito en ti,
-porque fuiste mi auxilio,
-y a la sombra de tus alas canto con júbilo;
-mi alma está unida a ti,
-y tu diestra me sostiene.
-
-Gloria al Padre, y al Hijo, y al Espíritu Santo.
-Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.
-`
 
 
-//**************************** */
-// CANTICO DE DANIEL
-const dn_3_57_88_56t = "Cántico: TODA LA CREACIÓN ALABE AL SEÑOR - Dn 3, 57-88. 56"
-const dn_3_57_88_56 = `Creaturas todas del Señor, bendecid al Señor,
-ensalzadlo con himnos por los siglos.
 
-Ángeles del Señor, bendecid al Señor;
-cielos, bendecid al Señor.
 
-Aguas del espacio, bendecid al Señor;
-ejércitos del Señor, bendecid al Señor.
 
-Sol y luna, bendecid al Señor;
-astros del cielo, bendecid al Señor.
-
-Lluvia y rocío, bendecid al Señor;
-vientos todos, bendecid al Señor.
-
-Fuego y calor, bendecid al Señor;
-fríos y heladas, bendecid al Señor.
-
-Rocíos y nevadas, bendecid al Señor;
-témpanos y hielos, bendecid al Señor.
-
-Escarchas y nieves, bendecid al Señor;
-noche y día, bendecid al Señor.
-
-Luz y tinieblas, bendecid al Señor;
-rayos y nubes, bendecid al Señor.
-
-Bendiga la tierra al Señor,
-ensálcelo con himnos por los siglos.
-
-Montes y cumbres, bendecid al Señor;
-cuanto germina en la tierra, bendiga al Señor.
-
-Manantiales, bendecid al Señor;
-mares y ríos, bendecid al Señor.
-
-Cetáceos y peces, bendecid al Señor;
-aves del cielo, bendecid al Señor.
-
-Fieras y ganados, bendecid al Señor,
-ensalzadlo con himnos por los siglos.
-
-Hijos de los hombres, bendecid al Señor;
-bendiga Israel al Señor.
-
-Sacerdotes del Señor, bendecid al Señor;
-siervos del Señor, bendecid al Señor.
-
-Almas y espíritus justos, bendecid al Señor;
-santos y humildes de corazón, bendecid al Señor.
-
-Ananías, Azarías y Misael, bendecid al Señor,
-ensalzadlo con himnos por los siglos.
-
-Bendigamos al Padre, al Hijo y al Espíritu Santo,
-ensalcémoslo con himnos por los siglos.
-
-Bendito el Señor en la bóveda del cielo,
-alabado y glorioso y ensalzado por los siglos.
-
-No se dice Gloria al Padre.`
 
 const salmo149t = "Salmo 149 - ALEGRÍA DE LOS SANTOS"
 const salmo149 = `Cantad al Señor un cántico nuevo,
@@ -154,6 +122,29 @@ es un honor para todos sus fieles.
 
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+const salmo150t = "Salmo 150 - ALABAD AL SEÑOR."
+const salmo150 = `Alabad al Señor en su templo,
+alabadlo en su augusto firmamento.
+
+Alabadlo por sus obras magníficas,
+alabadlo por su inmensa grandeza.
+
+Alabadlo tocando trompetas,
+alabadlo con arpas y cítaras,
+
+Alabadlo con tambores y danzas,
+alabadlo con trompas y flautas,
+
+alabadlo con platillos sonoros,
+alabadlo con platillos vibrantes.
+
+Todo ser que alienta, alabe al Señor.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+
 
 const canticoZacariast = "Cántico de Zacarías. EL MESÍAS Y SU PRECURSOR - Lc 1, 68-79"
 const canticoZacarias = `Bendito sea el Señor, Dios de Israel,
@@ -190,7 +181,7 @@ por el camino de la paz.
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.
 `
-const sal117_1t = "Salmo 117 I - HIMNO DE ACCIÓN DE GRACIAS DESPUÉS DE LA VICTORIA."
+const sal117_1t = "Salmo 117 - HIMNO DE ACCIÓN DE GRACIAS DESPUÉS DE LA VICTORIA."
 const sal117_1 = `Dad gracias al Señor porque es bueno,
 porque es eterna su misericordia.
 
@@ -215,6 +206,62 @@ Mejor es refugiarse en el Señor
 que fiarse de los hombres,
 mejor es refugiarse en el Señor
 que confiar en los magnates.
+
+Todos los pueblos me rodeaban,
+en el nombre del Señor los rechacé;
+me rodeaban cerrando el cerco,
+en el nombre del Señor los rechacé;
+me rodeaban como avispas,
+ardiendo como fuego en las zarzas,
+en el nombre del Señor los rechacé.
+
+Empujaban y empujaban para derribarme,
+pero el Señor me ayudó;
+el Señor es mi fuerza y mi energía,
+él es mi salvación.
+
+Escuchad: hay cantos de victoria
+en las tiendas de los justos:
+«La diestra del Señor es poderosa,
+la diestra del Señor es excelsa,
+la diestra del Señor es poderosa.»
+
+No he de morir, viviré
+para contar las hazañas del Señor.
+Me castigó, me castigó el Señor,
+pero no me entregó a la muerte.
+
+Abridme las puertas del triunfo,
+y entraré para dar gracias al Señor.
+
+Esta es la puerta del Señor:
+los vencedores entrarán por ella.
+
+Te doy gracias porque me escuchaste
+y fuiste mi salvación.
+
+La piedra que desecharon los arquitectos
+es ahora la piedra angular.
+Es el Señor quien lo ha hecho,
+ha sido un milagro patente.
+
+Éste es el día en que actuó el Señor:
+sea nuestra alegría y nuestro gozo.
+Señor, danos la salvación;
+Señor, danos prosperidad.
+
+Bendito el que viene en nombre del Señor,
+os bendecimos desde la casa del Señor;
+el Señor es Dios: él nos ilumina.
+
+Ordenad una procesión con ramos
+hasta los ángulos del altar.
+
+Tú eres mi Dios, te doy gracias;
+Dios mío, yo te ensalzo.
+
+Dad gracias al Señor porque es bueno,
+porque es eterna su misericordia.
 
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
@@ -283,14 +330,57 @@ porque es eterna su misericordia.
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
+//************************** */
+const salmo148t = "Salmo 148 - ALABANZA DEL DIOS CREADOR"
+const salmo148 = `Alabad al Señor en el cielo,
+alabad al Señor en lo alto.
+
+Alabadlo todos sus ángeles,
+alabadlo todos sus ejércitos.
+
+Alabadlo, sol y luna;
+alabadlo, estrellas lucientes.
+
+Alabadlo, espacios celestes,
+y aguas que cuelgan en el cielo.
+
+Alaben el nombre del Señor,
+porque él lo mandó, y existieron.
+
+Les dio consistencia perpetua
+y una ley que no pasará.
+
+Alabad al Señor en la tierra,
+cetáceos y abismos del mar.
+
+Rayos, granizo, nieve y bruma,
+viento huracanado que cumple sus órdenes.
+
+Montes y todas las sierras,
+árboles frutales y cedros.
+
+Fieras y animales domésticos,
+reptiles y pájaros que vuelan.
+
+Reyes y pueblos del orbe,
+príncipes y jefes del mundo.
+
+Los jóvenes y también las doncellas,
+los viejos junto con los niños.
+
+Alaben el nombre del Señor,
+el único nombre sublime.
+
+Su majestad sobre el cielo y la tierra;
+él acrece el vigor de su pueblo.
+
+Alabanza de todos sus fieles,
+de Israel, su pueblo escogido.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
 
-
-
-
-
-
-const invitacion = "INVITACIÓN A LA ALABANZA DIVINA"
 
 /* */ const cEvangelico = "CÁNTICO EVANGÉLICO"
 
@@ -307,3 +397,96 @@ const invitatorio4 = "Señor, date prisa en socorrerme. Gloria al Padre, y al Hi
 
 const Conclusion1 = "El Señor nos bendiga, nos guarde de todo mal y nos lleve a la vida eterna."
 const Conclusion2 = "Amén."
+
+
+//**************************** */
+// CANTICO DE DANIEL
+const dn_3_57_88_56t = "Cántico: TODA LA CREACIÓN ALABE AL SEÑOR - Dn 3, 57-88. 56"
+const dn_3_57_88_56 = `Creaturas todas del Señor, bendecid al Señor,
+ensalzadlo con himnos por los siglos.
+
+Ángeles del Señor, bendecid al Señor;
+cielos, bendecid al Señor.
+
+Aguas del espacio, bendecid al Señor;
+ejércitos del Señor, bendecid al Señor.
+
+Sol y luna, bendecid al Señor;
+astros del cielo, bendecid al Señor.
+
+Lluvia y rocío, bendecid al Señor;
+vientos todos, bendecid al Señor.
+
+Fuego y calor, bendecid al Señor;
+fríos y heladas, bendecid al Señor.
+
+Rocíos y nevadas, bendecid al Señor;
+témpanos y hielos, bendecid al Señor.
+
+Escarchas y nieves, bendecid al Señor;
+noche y día, bendecid al Señor.
+
+Luz y tinieblas, bendecid al Señor;
+rayos y nubes, bendecid al Señor.
+
+Bendiga la tierra al Señor,
+ensálcelo con himnos por los siglos.
+
+Montes y cumbres, bendecid al Señor;
+cuanto germina en la tierra, bendiga al Señor.
+
+Manantiales, bendecid al Señor;
+mares y ríos, bendecid al Señor.
+
+Cetáceos y peces, bendecid al Señor;
+aves del cielo, bendecid al Señor.
+
+Fieras y ganados, bendecid al Señor,
+ensalzadlo con himnos por los siglos.
+
+Hijos de los hombres, bendecid al Señor;
+bendiga Israel al Señor.
+
+Sacerdotes del Señor, bendecid al Señor;
+siervos del Señor, bendecid al Señor.
+
+Almas y espíritus justos, bendecid al Señor;
+santos y humildes de corazón, bendecid al Señor.
+
+Ananías, Azarías y Misael, bendecid al Señor,
+ensalzadlo con himnos por los siglos.
+
+Bendigamos al Padre, al Hijo y al Espíritu Santo,
+ensalcémoslo con himnos por los siglos.
+
+Bendito el Señor en la bóveda del cielo,
+alabado y glorioso y ensalzado por los siglos.
+
+No se dice Gloria al Padre.`
+
+const dn_3_52_57t = "Cántico: QUE LA CREACIÓN ENTERA ALABE AL SEÑOR Dn 3, 52-57"
+const dn_3_52_57 = `Bendito eres, Señor, Dios de nuestros padres:
+a ti gloria y alabanza por los siglos.
+
+Bendito tu nombre, Santo y glorioso:
+a él gloria y alabanza por los siglos.
+
+Bendito eres en el templo de tu santa gloria:
+a ti gloria y alabanza por los siglos.
+
+Bendito eres sobre el trono de tu reino:
+a ti gloria y alabanza por los siglos.
+
+Bendito eres tú, que sentado sobre querubines sondeas los abismos:
+a ti gloria y alabanza por los siglos.
+
+Bendito eres en la bóveda del cielo:
+a ti honor y alabanza por los siglos.
+
+Creaturas todas del Señor, bendecid al Señor,
+ensalzadlo con himnos por los siglos.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+

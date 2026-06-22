@@ -1,2 +1,12 @@
 const tps1jsLaud_oracion = "Oh Dios, que has reunido a pueblos diversos en la confesión de tu nombre, concede a los que han renacido en la fuente bautismal una misma fe en su espíritu y una misma caridad en sus vidas. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén"
 
+const tos1dmLA_oracion = "Dios todopoderoso y eterno, que proclamaste solemnemente a Cristo como tu Hijo amado, cuando era bautizado en el Jordán y descendía el Espíritu Santo sobre él, concede a tus hijos de adopción, renacidos del agua y del Espíritu Santo, que se conserven siempre dignos de tu complacencia. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén"
+const tos2dmLA_oracion = "Dios todopoderoso y eterno, que gobiernas a un tiempo cielo y tierra, escucha paternalmente las súplicas de tu pueblo y haz que los días de nuestra vida transcurran en tu paz. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén"
+const tos3dmLA_oracion = "Dios todopoderoso y eterno, dirige nuestras acciones según tu voluntad, para que, invocando el nombre de tu Hijo, abundemos en buenas obras. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén"
+const tos4dmLA_oracion = "Concédenos, Señor, Dios nuestro, venerarte con toda el alma y amar a todos los hombres con afecto espiritual. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén"
+const tos5dmLA_oracion = "Señor, protege a tu pueblo con tu amor siempre fiel y, ya que sólo en ti hemos puesto nuestra esperanza, defiéndenos siempre con tu poder. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén"
+const tos6dmLA_oracion = ""
+const tos7dmLA_oracion = ""
+const tos8dmLA_oracion = ""
+const tos9dmLA_oracion = ""
+const tos10dmLA_oracion = ""

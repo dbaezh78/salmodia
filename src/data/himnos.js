@@ -177,3 +177,227 @@ Tu cuerpo sacramental
 es de tu carne y tu sangre,
 y la Iglesia, que es tu Esposa,
 se acerca para abrazarte. Amén.`
+
+const htos1LAdmt = "Himno: A LA ORILLA DEL JORDÁN."
+const htos1LAdm = `A la orilla del Jordán,
+descalza el alma y los pies,
+bajan buscando pureza
+doce tribus de Israel.
+
+Piensan que a la puerta está
+el Mesías del Señor
+y que para recibirle
+gran limpieza es menester.
+
+Bajan hombres y mujeres,
+pobres y ricos también,
+y Juan, sobre todos ellos,
+derrama el agua y la fe.
+
+Mas ¿por qué se ha de lavar
+a la Pureza, por qué?
+Porque el bautismo hoy empieza
+y ha comenzado por él. Amén.`
+
+const htos2LAdmt = "Himno: CRISTO, EL SEÑOR"
+const htos2LAdm = `Cristo, el Señor,
+como la primavera,
+como una nueva aurora,
+resucitó.
+
+Cristo, nuestra Pascua,
+es nuestro rescate,
+nuestra salvación.
+
+Es grano en la tierra,
+muerto y florecido,
+tierno pan de amor.
+
+Se rompió el sepulcro,
+se movió la roca,
+y el fruto brotó.
+
+Dueño de la muerte,
+en el árbol grita
+su resurrección.
+
+Humilde en la tierra,
+Señor de los cielos,
+su cielo nos dio.
+
+Ábranse de gozo
+las puertas del Hombre,
+que al hombre salvó.
+
+Gloria para siempre
+al Cordero humilde
+que nos redimió. Amén.`
+
+const htos3LAdmt = "Himno: LAS SOMBRAS OSCURAS HUYEN."
+const htos3LAdm = `Las sombras oscuras huyen,
+ya va pasando la noche;
+y el sol, con su luz de fuego,
+nos disipa los temores.
+
+Ya se apagan las estrellas
+y se han encendido soles;
+el rocío cae de los cielos
+en el cáliz de las flores.
+
+Las criaturas van vistiendo
+sus galas y sus colores,
+porque al nacer nuevo día
+hacen nuevas las canciones.
+
+¡Lucero, Cristo, del alba,
+que paces entre esplendores,
+apacienta nuestras vidas
+ya sin sombras y sin noches!
+
+¡Hermoso Cristo, el Cordero,
+entre collados y montes! Amén.`
+
+const htos4LAdmt = "Himno: ES LA PASCUA REAL, NO YA LA SOMBRA."
+const htos4LAdm = `Es la Pascua real, no ya la sombra,
+la verdadera pascua del Señor;
+la sangre del pasado es solo un signo,
+la mera imagen de la gran unción.
+
+En verdad, tú, Jesús, nos protegiste
+con tus sangrientas manos paternales;
+envolviendo en tus alas nuestras almas,
+la verdadera alianza tú sellaste.
+
+Y, en tu triunfo, llevaste a nuestra carne
+reconciliada con tu Padre eterno;
+y, desde arriba, vienes a llevarnos
+a la danza festiva de tu cielo.
+
+Oh gozo universal, Dios se hizo hombre
+para unir a los hombres con su Dios;
+se rompen las cadenas del infierno,
+y en los labios renace la canción.
+
+Cristo, Rey eterno, te pedimos
+que guardes con tus manos a tu Iglesia,
+que protejas y ayudes a tu pueblo
+y que venzas con él a las tinieblas. Amén.`
+
+const htos5LAdmt = "Himno: ES VERDAD QUE LAS LUCES DEL ALBA"
+const htos5LAdm = `Es verdad que las luces del alba
+del día de hoy
+son más puras, radiantes y bellas,
+por gracia de Dios.
+
+Es verdad que yo siento en mi vida,
+muy dentro de mí,
+que la gracia de Dios es mi gracia,
+que no merecí.
+
+Es verdad que la gracia del Padre,
+en Cristo Jesús,
+es la gloria del hombre y del mundo
+bañados en luz.
+
+Es verdad que la Pascua de Cristo
+es pascua por mí,
+que su muerte y victoria me dieron
+eterno vivir.
+
+Viviré en alabanzas al Padre,
+que al Hijo nos dio,
+y que el santo Paráclito inflame
+nuestra alma en amor. Amén.`
+
+const htos6LAdmt = ""
+const htos6LAdm = ``
+
+const htos7LAdmt = ""
+const htos7LAdm = ``
+
+const htos8LAdmt = ""
+const htos8LAdm = ``
+
+const htos9LAdmt = ""
+const htos9LAdm = ``
+
+const htos10LAdmt = ""
+const htos10LAdm = ``
+
+const htos11LAdmt = ""
+const htos11LAdm = ``
+
+const htos12LAdmt = ""
+const htos12LAdm = ``
+
+const htos13LAdmt = ""
+const htos13LAdm = ``
+
+const htos14LAdmt = ""
+const htos14LAdm = ``
+
+const htos15LAdmt = ""
+const htos15LAdm = ``
+
+const htos16LAdmt = ""
+const htos16LAdm = ``
+
+const htos17LAdmt = ""
+const htos17LAdm = ``
+
+const htos18LAdmt = ""
+const htos18LAdm = ``
+
+const htos19LAdmt = ""
+const htos19LAdm = ``
+
+const htos20LAdmt = ""
+const htos20LAdm = ``
+
+const htos21LAdmt = ""
+const htos21LAdm = ``
+
+const htos22LAdmt = ""
+const htos22LAdm = ``
+
+const htos23LAdmt = ""
+const htos23LAdm = ``
+
+const htos24LAdmt = ""
+const htos24LAdm = ``
+
+const htos25LAdmt = ""
+const htos25LAdm = ``
+
+const htos26LAdmt = ""
+const htos26LAdm = ``
+
+const htos27LAdmt = ""
+const htos27LAdm = ``
+
+const htos28LAdmt = ""
+const htos28LAdm = ``
+
+const htos29LAdmt = ""
+const htos29LAdm = ``
+
+const htos30LAdmt = ""
+const htos30LAdm = ``
+
+const htos31LAdmt = ""
+const htos31LAdm = ``
+
+const htos32LAdmt = ""
+const htos32LAdm = ``
+
+const htos33LAdmt = ""
+const htos33LAdm = ``
+
+const htos34LAdmt = ""
+const htos34LAdm = ``
+
+const htos1VIdmt = ""
+const htos1VIdm = ``
+
+const htos2VIdmt = ""
+const htos2VIdm = ``

@@ -56,7 +56,7 @@ function generarTemplateLaudes(datos) {
 
         ${ "" /* ANTIFONA Y SALMO 2 */}
         <p class="abajo"><span class="rubrica">Ant 2. </span> ${datos.Salmodias.Ant2}</p>
-        <p><span class="rubrica"> ${datos.Salmodias.SalmoDOSt}</span></p>
+        <p><span class="rubrica titulo"> ${datos.Salmodias.SalmoDOSt}</span></p>
         <div class="cuerpo-salmo">${datos.Salmodias.SalmoDOS}</div>
         <p class="antifona"><span class="rubrica">Ant. </span> ${datos.Salmodias.Ant2}
 
@@ -74,8 +74,14 @@ function generarTemplateLaudes(datos) {
 
         <p><span class="rubrica">RESPONSORIO BREVE</span></p><br>
 
-        <p><span class="rubrica"> ${datos.LecturaBreve.nota}</span></p><br>
-        <div class="Lectura-Breve">${datos.LecturaBreve.responsorio}</div><br>
+        <div class="Lectura-Breve"><span class="rubrica">V.</span> ${datos.LecturaBreve.responsorio1}</div>
+        <div class="Lectura-Breve"><span class="rubrica">R.</span> ${datos.LecturaBreve.responsorio2}</div><br>
+
+        <div class="Lectura-Breve"><span class="rubrica">V.</span> ${datos.LecturaBreve.responsorio3}</div>
+        <div class="Lectura-Breve"><span class="rubrica">R.</span> ${datos.LecturaBreve.responsorio4}</div><br>
+        
+        <div class="Lectura-Breve"><span class="rubrica">V.</span> ${datos.LecturaBreve.gloria}</div>
+        <div class="Lectura-Breve"><span class="rubrica">R.</span> ${datos.LecturaBreve.responsorio5}</div><br>
 
         </div> ${ "" /* LLAVE LECTURA BREVE */}
 
@@ -95,17 +101,15 @@ function generarTemplateLaudes(datos) {
                 <source src="${audio.fija}" type="audio/mpeg">
             </audio>
         </div>
-
     </div>
         
         ${ "" /* SECCIÓN DE AUDIO */}
 
-
-        <p class="antifona"><span class="titulo">CÁNTICO EVANGÉLICO</span></p>
+        <p class=""><span class="titulo">CÁNTICO EVANGÉLICO</span></p>
 
         <p class="abajo"><span class="rubrica">Ant. </span> ${datos.cEvan_Conclusion.cEvangelicoAnt}</p>
 
-        <p class="antifona"><span class="titulo">Cántico de Zacarías. EL MESÍAS Y SU PRECURSOR      Lc 1, 68-79</span> </p>
+        <p class=""><span class="titulo">Cántico de Zacarías. EL MESÍAS Y SU PRECURSOR      Lc 1, 68-79</span> </p>
         
         <div class="cuerpo-salmo">${datos.cEvan_Conclusion.canticoZacarias}</div>
         
