@@ -18,3 +18,9 @@ const tos1LAln_oracion = "Tu gracia, Señor, inspire nuestras obras, las sosteng
 const tos2LAln_oracion = "Señor, Dios todopoderoso, que nos has hecho llegar al comienzo de este día: danos tu ayuda para que no caigamos hoy en pecado, sino que nuestras palabras, pensamientos y acciones sigan el camino de tus mandatos. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén."
 const tos3LAln_oracion  = "Señor Dios, rey de cielos y tierra, dirige y santifica en este día nuestros cuerpos y nuestros corazones, nuestros sentidos, palabras y acciones, según tu ley y tus mandatos; para que, con tu auxilio, podamos ofrecerte hoy en todas nuestras actividades un sacrificio de alabanza grato a tus ojos. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén."
 const tos4LAln_oracion  = "pendiente"
+
+// ORACION PARA MARTES
+const tos1LAmt_oracion = "Escucha, Señor, nuestra oración matutina y con la luz de tu misericordia alumbra la oscuridad de nuestro corazón: para que, habiendo sido iluminados por tu claridad, no andemos nunca tras las obras de las tinieblas. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén."
+const tos2LAmt_oracion = "Señor Jesucristo, luz verdadera que alumbras a todo hombre y le muestras el camino de la salvación: concédenos la abundancia de tu gracia para que preparemos, delante de ti, sendas de justicia y de paz. Tú que vives y reinas con el Padre, en la unidad del Espíritu Santo y eres Dios, por los siglos de los siglos. Amén."
+const tos3LAmt_oracion  = ""
+const tos4LAmt_oracion  = ""

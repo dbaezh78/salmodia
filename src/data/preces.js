@@ -193,3 +193,72 @@ Ya que nos llamas hoy a tu servicio,
 haz que seamos buenos administradores de tu multiforme gracia en favor de nuestros hermanos.`
 const tos4LAln_preces2 = "Acudamos a Dios Padre, tal como nos enseñó Jesucristo:"
 
+
+const tos1LAmt_preces1 = `Ya que hemos sido llamados a participar de una vocación celestial, bendigamos por ello a Jesús, el pontífice de nuestra fe, y supliquémosle diciendo:
+
+Escúchanos, Señor.
+
+Señor Jesús, que por el bautismo has hecho de nosotros un sacerdocio real,
+haz que nuestra vida sea un continuo sacrificio de alabanza.
+
+Ayúdanos, Señor, a guardar tus mandatos
+para que por la fuerza del Espíritu Santo nosotros permanezcamos en ti y tú en nosotros.
+
+Danos tu sabiduría eterna
+para que permanezca con nosotros y con nosotros trabaje.
+
+Concédenos ser la alegría de cuantos nos rodean
+y fuente de esperanza para los decaídos.`
+const tos1LAmt_preces2 = "Como hijos que somos de Dios, dirijámonos a nuestro Padre con la oración que Cristo nos enseñó:"
+
+const tos2LAmt_preces1 = `Bendigamos a nuestro Salvador, que con su resurrección ha iluminado el mundo, y digámosle suplicantes:
+
+Haz, Señor, que caminemos por tu senda.
+
+Señor Jesús, al consagrar nuestra oración matinal en memoria de tu santa resurrección,
+te pedimos que la esperanza de participar de tu gloria ilumine todo nuestro día.
+
+Te ofrecemos, Señor, los deseos y proyectos de nuestra jornada:
+dígnate aceptarlos y bendecirlos como primicia de nuestro día.
+
+Concédenos crecer hoy en tu amor,
+a fin de que todo concurra para nuestro bien y el de nuestros hermanos.
+
+Haz, Señor, que el ejemplo de nuestra vida resplandezca como una luz ante los hombres,
+para que todos den gloria al Padre que está en los cielos.`
+const tos2LAmt_preces2 = "Porque deseamos que la luz de Cristo ilumine a todos los hombres, pidamos al Padre que su reino llegue a nosotros:"
+
+
+const tos3LAmt_preces1 = `Adoremos a Cristo, que con su sangre ha adquirido el pueblo de la nueva alianza, y digámosle suplicantes:
+
+Acuérdate, Señor, de tu pueblo.
+
+Rey y redentor nuestro, escucha la alabanza que te dirige tu Iglesia en el comienzo de este día,
+y haz que no deje nunca de glorificarte.
+
+Que nunca, Señor, quedemos confundidos
+los que en ti ponemos nuestra fe y nuestra esperanza.
+
+Mira compasivo nuestra debilidad y ven en ayuda nuestra,
+ya que sin ti nada podemos hacer.
+
+Acuérdate de los pobres y desvalidos;
+que este día que comienza les traiga solaz y alegría.`
+const tos3LAmt_preces2 = "Ya que deseamos que la luz de Cristo ilumine a todos los hombres, pidamos al Padre que a todos llegue el reino de su Hijo:"
+
+const tos4LAmt_preces1 = `Dios nos otorga el gozo de poder alabarlo en este comienzo del día, reavivando con ello nuestra esperanza. Invoquémosle, pues, diciendo:
+
+Por el honor de tu nombre, escúchanos, Señor.
+
+Dios y Padre de nuestro Salvador Jesucristo,
+te damos gracias porque, por mediación de tu Hijo, nos has dado el conocimiento y la inmortalidad.
+
+Danos, Señor, un corazón humilde
+para que vivamos sujetos unos a otros en el temor de Cristo.
+
+Infunde tu Espíritu en nosotros, tus siervos,
+para que nuestro amor fraterno sea sin fingimiento.
+
+Tú que has dispuesto que el hombre dominara el mundo con su esfuerzo,
+haz que nuestro trabajo te glorifique y santifique a nuestros hermanos.`
+const tos4LAmt_preces2 = "Ya que Dios nos muestra siempre su amor de Padre, velando amorosamente por nosotros, nos atrevemos a decir:"

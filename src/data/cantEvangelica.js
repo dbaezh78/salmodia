@@ -149,6 +149,14 @@ const tos2LAln_cE = "Bendito sea el Señor, Dios de Israel, porque ha visitado y
 const tos3LAln_cE = "Bendito sea el Señor, Dios nuestro."
 const tos4LAln_cE = "Bendito sea el Señor, Dios de Israel, porque ha visitado y redimido a su pueblo."
 
+/************************************** */
+// CANTICO EVANGELIO PARA LUNES
+/************************************** */
+const tos1LAmt_cE = "Nos ha suscitado el Señor una fuerza de salvación, según lo había predicho por boca de sus Santos profetas."
+const tos2LAmt_cE = "De la mano de nuestros enemigos, líbranos, Señor."
+const tos3LAmt_cE = ""
+const tos4LAmt_cE = ""
+
 
 
 // ====== MOTOR DE SELECCIÓN DE AÑO LITÚRGICO PARA DOMINGOS ======

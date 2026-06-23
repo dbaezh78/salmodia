@@ -524,3 +524,109 @@ con toda la ternura de mi boca,
 al que es tres veces santo,
 a ti que eres mi Roca
 y en quien mi vida toda desemboca. Amén.`
+
+// MARTES
+const htos1LAmtt = `Himno: AL CANTO DE LOS GALLOS.`
+const htos1LAmt = `Al canto de los gallos
+viene la aurora;
+los temores se alejan
+como las sombras.
+¡Dios, Padre nuestro,
+en tu nombre dormimos
+y amanecemos!
+
+Como luz nos visitas,
+Rey de los hombres,
+como amor que vigila
+siempre de noche;
+cuando el que duerme
+bajo el signo del sueño
+prueba la muerte.
+
+Del sueño del pecado
+nos resucitas,
+y es señal de tu gracia
+la luz amiga.
+¡Dios que nos velas!,
+tú nos sacas por gracia
+de las tinieblas.
+
+Gloria al Padre y al Hijo,
+gloria al Espíritu,
+al que es paz, luz y vida,
+al Uno y Trino;
+gloria a su nombre
+y al misterio divino
+que nos lo esconde. Amén.`
+
+const htos2LAmtt = "Himno: TE DAMOS GRACIAS, SEÑOR"
+const htos2LAmt = `Te damos gracias, Señor,
+porque has depuesto la ira
+y has detenido ante el pueblo
+la mano que lo castiga.
+
+Tú eres el Dios que nos salva,
+la luz que nos ilumina,
+la mano que nos sostiene
+y el techo que nos cobija.
+
+Y sacaremos con gozo
+del manantial de la Vida
+las aguas que dan al hombre
+la fuerza que resucita.
+
+Entonces proclamaremos:
+«¡Cantadle con alegría!
+¡El nombre de Dios es grande!
+¡Su caridad infinita!
+
+¡Que alabe al Señor la tierra!
+Cantemos sus maravillas.
+¡Qué grande, en medio del pueblo
+el Dios que nos justifica!». Amén.`
+
+const htos3LAmtt = ""
+const htos3LAmt = ``
+
+const htos4LAmtt = "Himno: ESTÁTE, SEÑOR, CONMIGO."
+const htos4LAmt = `Estáte, Señor, conmigo
+siempre, sin jamás partirte,
+y cuando decidas irte,
+llévame, Señor, contigo;
+porque el pensar que te irás
+me causa un terrible miedo
+de si yo sin ti me quedo,
+de si tú sin mí te vas.
+
+Llévame, en tu compañía
+donde tu vayas, Jesús,
+porque bien sé que eres tú
+la vida del alma mía;
+si tú vida no me das
+yo sé que vivir no puedo,
+ni si yo sin ti me quedo,
+ni si tú sin mí te vas.
+
+Por eso, más que a la muerte
+temo, Señor, tu partida,
+y quiero perder la vida
+mil veces más que perderte;
+pues la inmortal que tú das,
+sé que alcanzarla no puedo,
+cuando yo sin ti me quedo,
+cuando tú sin mí te vas. Amén.`
+
+// MIERCOLES
+const htos1LAmlt = ""
+const htos1LAml = ``
+
+const htos2LAmlt = ""
+const htos2LAml = ``
+
+
+const htos3LAmlt = ""
+const htos3LAml = ``
+
+const htos4LAmlt = ""
+const htos4LAml = ``
+

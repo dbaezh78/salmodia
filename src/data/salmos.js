@@ -1,5 +1,54 @@
-//Salmo 5, 2-10. 12-13 - ORACIÓN DE LA MAÑANA DE UN JUSTO PERSEGUIDO
+//Tobias 13, 1-10: ESPERANZA DE ISRAEL EN BABILONIA Tb 13, 1-10
 
+const tb13_1_10t = "Cántico: ESPERANZA DE ISRAEL EN BABILONIA Tb 13, 1-10"
+const tb13_1_10 = `Bendito sea Dios, que vive eternamente,
+y cuyo reino dura por los siglos:
+él azota y se compadece,
+hunde hasta el abismo y saca de él,
+y no hay quien escape de su mano.
+
+Dadle gracias, israelitas, ante los gentiles,
+porque él nos dispersó entre ellos.
+Proclamad allí su grandeza,
+ensalzadlo ante todos los vivientes:
+que él es nuestro Dios y Señor,
+nuestro Padre por todos los siglos.
+
+Él nos azota por nuestros delitos,
+pero se compadecerá de nuevo,
+y os congregará de entre todas las naciones
+por donde estáis dispersados.
+
+Si volvéis a él de todo corazón
+y con toda el alma,
+siendo sinceros con él,
+él volverá a vosotros
+y no os ocultará su rostro.
+
+Veréis lo que hará con vosotros,
+le daréis gracias a boca llena,
+bendeciréis al Señor de la justicia
+y ensalzaréis al rey de los siglos.
+
+Yo le doy gracias en mi cautiverio,
+anuncio su grandeza y su poder
+a un pueblo pecador.
+
+Convertíos, pecadores,
+obrad rectamente en su presencia:
+quizá os mostrará benevolencia
+y tendrá compasión.
+
+Ensalzaré a mi Dios, al rey del cielo,
+y me alegraré de su grandeza.
+Anuncien todos los pueblos sus maravillas
+y alábenle sus elegidos en Jerusalén.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+
+//Salmo 5, 2-10. 12-13 - ORACIÓN DE LA MAÑANA DE UN JUSTO PERSEGUIDO
 const Salmo5_2_10_12_13t = "Salmo 5, 2-10. 12-13 - ORACIÓN DE LA MAÑANA DE UN JUSTO PERSEGUIDO"
 const Salmo5_2_10_12_13 = `Señor, escucha mis palabras,
 atiende a mis gemidos,
@@ -45,6 +94,47 @@ y como un escudo lo rodea tu favor.
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
+//Salmo 23 - ENTRADA SOLEMNE DE DIOS EN SU TEMPLO
+const salmo23t = "Salmo 23 - ENTRADA SOLEMNE DE DIOS EN SU TEMPLO"
+const salmo23 = `Del Señor es la tierra y cuanto la llena,
+el orbe y todos sus habitantes:
+El la fundó sobre los mares,
+El la afianzó sobre los ríos.
+
+¿Quién puede subir al monte del Señor?
+¿Quién puede estar en el recinto sacro?
+
+El hombre de manos inocentes
+y puro corazón,
+que no confía en los ídolos
+ni jura contra el prójimo en falso.
+Ese recibirá la bendición del Señor,
+le hará justicia el Dios de salvación.
+
+Este es el grupo que busca al Señor,
+que viene a tu presencia, Dios de Jacob.
+
+¡Portones!, alzad los dinteles,
+levantaos, puertas antiguas:
+va a entrar el Rey de la gloria.
+
+¿Quién es ese Rey de la gloria?
+El Señor, héroe valeroso;
+el Señor, héroe de la guerra.
+
+¡Portones!, alzad los dinteles,
+levantaos, puertas antiguas:
+va a entrar el Rey de la gloria.
+
+¿Quién es ese Rey de la gloria?
+El Señor, Dios de los ejércitos.
+Él es el Rey de la gloria.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+
+
 //SALMO 62, 2-9 - EL ALMA SEDIENTA DE DIOS
 const salmo28t = "Salmo 28 - MANIFESTACIÓN DE DIOS EN LA TEMPESTAD."
 const salmo28 = `Hijos de Dios, aclamad al Señor,
@@ -81,6 +171,103 @@ Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
 //SALMO 62, 2-9 - EL ALMA SEDIENTA DE DIOS
+const salmo32t = "Salmo 32 - HIMNO AL PODER Y A LA PROVIDENCIA DE DIOS"
+const salmo32 = `Aclamad, justos, al Señor,
+que merece la alabanza de los buenos.
+
+Dad gracias al Señor con la cítara,
+tocad en su honor el arpa de diez cuerdas;
+cantadle un cántico nuevo,
+acompañando vuestra música con aclamaciones:
+
+que la palabra del Señor es sincera,
+y todas sus acciones son leales,
+él ama la justicia y el derecho,
+y su misericordia llena la tierra.
+
+La palabra del Señor hizo el cielo;
+el aliento de su boca, sus ejércitos;
+encierra en un odre las aguas marinas,
+mete en un depósito el océano.
+
+Tema al Señor la tierra entera,
+tiemblen ante él los habitantes del orbe:
+porque él lo dijo, y existió;
+él lo mandó, y surgió.
+
+El Señor deshace los planes de las naciones,
+frustra los proyectos de los pueblos;
+pero el plan del Señor subsiste por siempre,
+los proyectos de su corazón, de edad en edad.
+
+Dichosa la nación cuyo Dios es el Señor,
+el pueblo que él se escogió como heredad.
+
+El Señor mira desde el cielo,
+se fija en todos los hombres;
+desde su morada observa
+a todos los habitantes de la tierra:
+él modeló cada corazón,
+y comprende todas sus acciones.
+
+No vence el rey por su gran ejército,
+no escapa el soldado por su mucha fuerza,
+nada valen sus caballos para la victoria,
+ni por su gran ejército se salva.
+
+Los ojos del Señor están puestos en sus fieles,
+en los que esperan en su misericordia,
+para librar sus vidas de la muerte
+y reanimarlos en tiempo de hambre.
+
+Nosotros esperamos en el Señor:
+él es nuestro auxilio y escudo,
+con él se alegra nuestro corazón,
+en su santo nombre confiamos.
+
+Que tu misericordia, Señor, venga sobre nosotros,
+como lo esperamos de ti.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+
+
+//Salmo 42 - DESEO DEL TEMPLO
+
+const salmo42t = "Salmo 42 - DESEO DEL TEMPLO"
+const salmo42 = `Hazme justicia, ¡oh Dios!, defiende mi causa
+contra gente sin piedad,
+sálvame del hombre traidor y malvado.
+
+Tú eres mi Dios y protector,
+¿por qué me rechazas?
+¿Por qué voy andando sombrío,
+hostigado por mi enemigo?
+
+Envía tu luz y tu verdad:
+que ellas me guíen
+y me conduzcan hasta tu monte santo,
+hasta tu morada.
+
+Que yo me acerque al altar de Dios,
+al Dios de mi alegría;
+que te dé gracias al son de la cítara,
+Señor, Dios mío.
+
+¿Por qué te acongojas, alma mía,
+por qué te me turbas?
+Espera en Dios, que volverás a alabarlo:
+«Salud de mi rostro, Dios mío.»
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+
+
+
+
+//SALMO 62, 2-9 - EL ALMA SEDIENTA DE DIOS
 const salmo62_2_9t = "SALMO 62, 2-9 - EL ALMA SEDIENTA DE DIOS"
 const salmo62_2_9 = `¡Oh Dios!, tú eres mi Dios, por ti madrugo,
 mi alma está sedienta de ti;
@@ -107,6 +294,57 @@ y tu diestra me sostiene.
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.
 `
+
+const salmo64t = "Salmo 64 - SOLEMNE ACCIÓN DE GRACIAS."
+const salmo64 = `¡Oh Dios!, tú mereces un himno en Sión,
+y a ti se te cumplen los votos,
+porque tú escuchas las súplicas.
+
+A ti acude todo mortal
+a causa de sus culpas;
+nuestros delitos nos abruman,
+pero tú los perdonas.
+
+Dichoso el que tú eliges y acercas
+para que viva en tus atrios:
+que nos saciemos de los bienes de tu casa,
+de los dones sagrados de tu templo.
+
+Con portentos de justicia nos respondes,
+Dios, salvador nuestro;
+tú, esperanza del confín de la tierra
+y del océano remoto;
+
+Tú que afianzas los montes con tu fuerza,
+ceñido de poder;
+tú que reprimes el estruendo del mar,
+el estruendo de las olas
+y el tumulto de los pueblos.
+
+Los habitantes del extremo del orbe
+se sobrecogen ante tus signos,
+y a las puertas de la aurora y del ocaso
+las llenas de júbilo.
+
+Tú cuidas de la tierra, la riegas
+y la enriqueces sin medida;
+la acequia de Dios va llena de agua,
+preparas los trigales;
+
+riegas los surcos, igualas los terrones,
+tu llovizna los deja mullidos,
+bendices sus brotes;
+coronas el año con tus bienes,
+las rodadas de tu carro rezuman abundancia;
+
+rezuman los pastos del páramo,
+y las colinas se orlan de alegría;
+las praderas se cubren de rebaños,
+y los valles se visten de mieses,
+que aclaman y cantan.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
 // Salmo 92 - GLORIA DEL DIOS CREADOR
 const salmo92t = "Salmo 92 - GLORIA DEL DIOS CREADOR"
@@ -674,6 +912,52 @@ tú engrandeces y confortas a todos.
 Por eso, Dios nuestro,
 nosotros te damos gracias,
 alabando tu nombre glorioso.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+//Cántico: ANGUSTIA DE UN MORIBUNDO Y ALEGRÍA DE LA CURACIÓN Is 38, 10-14. 17-20
+const IS38_10_14_17_20t = "Cántico: ANGUSTIA DE UN MORIBUNDO Y ALEGRÍA DE LA CURACIÓN Is 38, 10-14. 17-20"
+const IS38_10_14_17_20 = `Yo pensé: «En medio de mis días
+tengo que marchar hacia las puertas del abismo;
+me privan del resto de mis años.»
+
+Yo pensé: «Ya no veré más al Señor
+en la tierra de los vivos,
+ya no miraré a los hombres
+entre los habitantes del mundo.
+
+Levantan y enrollan mi vida
+como una tienda de pastores.
+Como un tejedor devanaba yo mi vida,
+y me cortan la trama.»
+
+Día y noche me estás acabando,
+sollozo hasta el amanecer.
+Me quiebras los huesos como un león,
+día y noche me estas acabando.
+
+Estoy piando como una golondrina,
+gimo como una paloma.
+Mis ojos mirando al cielo se consumen:
+¡Señor, que me oprimen, sal fiador por mí!
+
+Me has curado, me has hecho revivir,
+la amargura se me volvió paz
+cuando detuviste mi alma ante la tumba vacía
+y volviste la espalda a todos mis pecados.
+
+El abismo no te da gracias,
+ni la muerte te alaba,
+ni esperan en tu fidelidad
+los que bajan a la fosa.
+
+Los vivos, los vivos son quienes te alaban:
+como yo ahora.
+El Padre enseña a sus hijos tu fidelidad.
+
+Sálvame, Señor, y tocaremos nuestras arpas
+todos nuestros días en la casa del Señor.
 
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`

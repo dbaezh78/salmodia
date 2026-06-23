@@ -99,3 +99,23 @@ const antInv = "Ant Inv. "
 /* Ant 2. */ const tos4LAln2 = "Llegue la alabanza del Señor hasta el confín de la tierra."
 /* Ant 3. */ const tos4LAln3 = "Alabad el nombre del Señor, los que estáis en la casa del Señor."
  
+// MARTES
+/* Ant Inv.*/const tos1LAmtI = "Al Señor, al gran Rey, venid, adorémosle."
+/* Ant 1. */ const tos1LAmt1 = "El hombre de manos inocentes y puro corazón subirá al monte del Señor."
+/* Ant 2. */ const tos1LAmt2 = "Ensalzad con vuestras obras al rey de los siglos."
+/* Ant 3. */ const tos1LAmt3 = "El Señor merece la alabanza de los buenos."
+ 
+/* Ant Inv.*/const tos2LAmtI = "Al Señor, al gran Rey, venid, adorémosle."
+/* Ant 1. */ const tos2LAmt1 = "Envíame, Señor, tu luz y tu verdad."
+/* Ant 2. */ const tos2LAmt2 = "Protégenos, Señor, todos los días de nuestra vida."
+/* Ant 3. */ const tos2LAmt3 = "¡Oh Dios!, tu mereces un himno en Sión."
+
+/* Ant Inv.*/const tos3LAmtI = ""
+/* Ant 1. */ const tos3LAmt1 = ""
+/* Ant 2. */ const tos3LAmt2 = ""
+/* Ant 3. */ const tos3LAmt3 = ""
+
+/* Ant Inv.*/const tos4LAmtI = ""
+/* Ant 1. */ const tos4LAmt1 = ""
+/* Ant 2. */ const tos4LAmt2 = ""
+/* Ant 3. */ const tos4LAmt3 = ""

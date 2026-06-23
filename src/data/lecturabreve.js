@@ -101,3 +101,30 @@ const tos4LAln_rb = "Aclamad, justos, al Señor, que merece la alabanza de los b
 const tos4LAln_rb1 = "Cantadle un cántico nuevo."
 const tos4LAln_rb2 = "Que merece la alabanza de los buenos."
 
+
+// MARTES
+// Himno Tiempo Ordinario, Semana 4 Laudes Lunes
+const tos1LAmt_lbt = "Rm 13, 11b. 12-13a"
+const tos1LAmt_lb = "Ya es hora que despertéis del sueño. La noche va pasando, el día está encima; desnudémonos, pues, de las obras de las tinieblas y vistámonos de las armas de la luz. Andemos como en pleno día, con dignidad."
+const tos1LAmt_rb = "Dios mío, mi escudo y peña en que me amparo."
+const tos1LAmt_rb1 = "Mi alcázar, mi libertador."
+const tos1LAmt_rb2 = "En que me amparo."
+
+// Himno Tiempo Ordinario, Semana 4 Laudes Martes
+const tos2LAmt_lbt = "1Ts 5, 4-5"
+const tos2LAmt_lb = "No viváis, hermanos, en tinieblas para que el día del Señor no os sorprenda como ladrón; porque todos sois hijos de la luz e hijos del día. No somos de la noche ni de las tinieblas."
+const tos2LAmt_rb = "Escucha mi voz, Señor; espero en tu palabra."
+const tos2LAmt_rb1 = "Me adelanto a la aurora pidiendo auxilio."
+const tos2LAmt_rb2 = "Espero en tu palabra."
+
+const tos3LAmt_lbt = "1Jn 4, 14-15"
+const tos3LAmt_lb = "Nosotros hemos visto y damos testimonio de que el Padre envió a su Hijo para ser Salvador del mundo. Quien confiese que Jesús es el Hijo de Dios, Dios permanece en él y él en Dios."
+const tos3LAmt_rb = "Dios mío, mi escudo y peña en que me amparo."
+const tos3LAmt_rb1 = "Mi alcázar, mi libertador."
+const tos3LAmt_rb2 = "En que me amparo."
+
+const tos4LAmt_lbt = "1Jn 4, 14-15"
+const tos4LAmt_lb = "Nosotros hemos visto y damos testimonio de que el Padre envió a su Hijo para ser Salvador del mundo. Quien confiese que Jesús es el Hijo de Dios, Dios permanece en él y él en Dios."
+const tos4LAmt_rb = "Dios mío, mi escudo y peña en que me amparo."
+const tos4LAmt_rb1 = "Mi alcázar, mi libertador."
+const tos4LAmt_rb2 = "En que me amparo."
