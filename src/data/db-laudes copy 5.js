@@ -9,29 +9,43 @@ const s2Comun1 = {
         r:                         invitatorio2,
     },
     antifonaInvitatorio:           tos2dmLAI,
+
+// Invitatorio
     salmoInvitatorio: {
         titulo:                    salmo94t,
         subtitulo:                 invitacion,
         contentInv:                salmo94,
         antifonaInvitatorio:       tos2dmLAI,
+
+// Antifona de Entrada
         antifonaInvitatorio_Salida:tos2dmLAI,
+
+// Himno
         himnot:                    htos2LAdmt,
         himno:                     htos2LAdm,
     },
+
+// Salmodia 1
     Salmodias: {
         Ant1:                      tos2dmLA1,
         SalmoUNOt:                 salmo117t,
         SalmoUNO:                  salmo117,
+// Salmodia 2
         Ant2:                      tos2dmLA2,
         SalmoDOSt:                 dn_3_57_88_56t,
         SalmoDOS:                  dn_3_57_88_56,
+// Salmodia 3
         Ant3:                      tos2dmLA3,
         SalmoTRESt:                salmo150t,
         SalmoTRES:                 salmo150,
     },
+
+// Lectura breve
     LecturaBreve: {
         LecturaCita:               tos2dmLA_lb1,
         LecturaTexto:              tos2dmLA_lb2,
+
+//RESPONSORIO BREVE
         responsorio1:              tos2dmLA_rb,
         responsorio2:              tos2dmLA_rb,
         responsorio3:              tos2dmLA_rb1,
@@ -45,10 +59,96 @@ const s2Comun1 = {
 const s2Comun2 = {
     canticoZacariast: canticoZacariast,
     canticoZacarias:  canticoZacarias,
+
+    preces1:          tos2dmLA_preces1,
+    preces2:          tos2dmLA_preces2,
+
     Padren:           "Padre nuestro...",
+
+    oracion:          tos2dmLA_oracion,
+
     Conclusion1:      Conclusion1,
     Conclusion2:      Conclusion2
 };
+
+// COMUN 3,7,11,15,19,23,27,31
+const s3Comun1 = {
+             tt:                            "LAUDES",
+            sub:                            "(Oración de la mañana)",
+    invitatorio: {
+         titulo:                            "INVITATORIO",
+    instruccion:                            instruccion, //(Si Laudes no es la primera oración del día se sigue el esquema del Invitatorio explicado en el Oficio de Lectura)
+              v:                            invitatorio1,   // V. Señor abre mis labios
+              r:                            invitatorio2,   // R. y mi boca proclamará tu alabanza
+        },
+        
+        antifonaInvitatorio:                tos3dmLAI,
+
+        // datos.salmoInvitatorio.VARIABLE
+        salmoInvitatorio: {
+            titulo:                         salmo94t,
+            subtitulo:                      invitacion,
+            contentInv:                     salmo94,
+            antifonaInvitatorio:            inv_bautismo,
+
+            // Antifona de Entrada
+            antifonaInvitatorio_Salida:     inv_bautismo,
+            
+            // Himno
+            himnot:                         htos3LAdmt,
+            himno:                          htos3LAdm,
+        },
+
+        // Salmodia 1, 2, 3
+        Salmodias: {
+            Ant1:                           tos3dmLA1,
+            SalmoUNOt:                      salmo92t,
+            SalmoUNO:                       salmo92,
+
+            Ant2:                           tos3dmLA2,
+            SalmoDOSt:                      dn_3_57_88_56t,
+            SalmoDOS:                       dn_3_57_88_56,
+
+            Ant3:                           tos3dmLA3,
+            SalmoTRESt:                     salmo148t,
+            SalmoTRES:                      salmo148,
+        },
+
+        //Lectura Breve
+        LecturaBreve: {
+            LecturaCita:                    tos3dmLA_lb1,
+            LecturaTexto:                   tos3dmLA_lb2,
+            
+        //RESPONSORIO BREVE    
+            responsorio1:                    tos3dmLA_rb,
+            responsorio2:                    tos3dmLA_rb,
+            responsorio3:                    tos3dmLA_rb1,
+            responsorio4:                    tos3dmLA_rb2,
+            gloria:                          gloria,
+            responsorio5:                    tos3dmLA_rb,
+        }
+    };
+
+    s3Comun2 = {
+
+        //Cantico Evangelico
+        cEvan_Conclusion: {
+            canticoZacariast:               canticoZacariast,
+            canticoZacarias:                canticoZacarias,
+            
+            
+        //PRECES
+            preces1:                        tos3dmLA_preces1,
+            preces2:                        tos3dmLA_preces2,
+    
+            Padren:                         "Padre nuestro...",
+    
+            oracion:                        tos3dmLA_oracion,
+
+            Conclusion1:                    Conclusion1,
+            Conclusion2:                    Conclusion2,
+        }
+    };  // ***********************************************************
 
 
 export const dbLaudes = [
@@ -351,87 +451,18 @@ export const dbLaudes = [
         },
     },  // ***********************************************************
 
-/*  TIEMPO ORDINARIO
-    DOMINGO DE LA SEMANA II, VI, X, XIV, XVIII, XXII, XXVI, XXX
-    De la Feria. Salterio II    */
+// ********* tos2LAdm: Tiempo Ordinario, Semana 2,6,10,14,18,22,26,30 Laudes DOMINGO *********
+/*  TIEMPO ORDINARIO | DOMINGO DE LA SEMANA II, VI, X, XIV, XVIII, XXII, XXVI, XXX De la Feria. Salterio II    */
+    {id: "tos2LAdm", ...s2Comun1,cEvan_Conclusion: {cEvangelicoAnt:   window.antifonaDomingo(tos2dmLA_cE_A, tos2dmLA_cE_B, tos2dmLA_cE_C),...s2Comun2,}},
+// ********* tos2LAdm: Tiempo Ordinario, Semana 2 Laudes DOMINGO *********
 
-// ********* tps1js: Tiempo Pascual, Semana 1 Jueves Oficio de Lectura*********
-    {        id:                            "tos2LAdm",
-             tt:                            "LAUDES",
-            sub:                            "(Oración de la mañana)",
-    invitatorio: {
-         titulo:                            "INVITATORIO",
-    instruccion:                            instruccion, //(Si Laudes no es la primera oración del día se sigue el esquema del Invitatorio explicado en el Oficio de Lectura)
-              v:                            invitatorio1,   // V. Señor abre mis labios
-              r:                            invitatorio2,   // R. y mi boca proclamará tu alabanza
-        },
-        
-        antifonaInvitatorio:                tos2dmLAI,
-
-        // datos.salmoInvitatorio.VARIABLE
-        salmoInvitatorio: {
-            titulo:                         salmo94t,
-            subtitulo:                      invitacion,
-            contentInv:                     salmo94,
-            antifonaInvitatorio:            tos2dmLAI,
-
-            // Antifona de Entrada
-            antifonaInvitatorio_Salida:     tos2dmLAI,
-            
-            // Himno
-            himnot:                         htos2LAdmt,
-            himno:                          htos2LAdm,
-        },
-
-        // Salmodia 1, 2, 3
-        Salmodias: {
-            Ant1:                           tos2dmLA1,
-            SalmoUNOt:                      sal117_1t,
-            SalmoUNO:                       sal117_1,
-
-            Ant2:                           tos2dmLA2,
-            SalmoDOSt:                      dn_3_52_57t,
-            SalmoDOS:                       dn_3_52_57,
-
-            Ant3:                           tos2dmLA3,
-            SalmoTRESt:                     salmo150t,
-            SalmoTRES:                      salmo150,
-        },
-
-        //Lectura Breve
-        LecturaBreve: {
-            LecturaCita:                    tos2dmLA_lb1,
-            LecturaTexto:                   tos2dmLA_lb2,
-            
-        //RESPONSORIO BREVE    
-            responsorio1:                    tos2dmLA_rb,
-            responsorio2:                    tos2dmLA_rb,
-            responsorio3:                    tos2dmLA_rb1,
-            responsorio4:                    tos2dmLA_rb2,
-            gloria:                          gloria,
-            responsorio5:                    tos2dmLA_rb,
-        },
+// ********* tos3LAdm: Tiempo Ordinario, Semana 3,7,11,15,19,23,27,31 Laudes DOMINGO *********
+/*  TIEMPO ORDINARIO | DOMINGO DE LA SEMANA II, VI, X, XIV, XVIII, XXII, XXVI, XXX De la Feria. Salterio II    */
+    {id: "tos3LAdm", ...s3Comun1,cEvan_Conclusion: {cEvangelicoAnt:   window.antifonaDomingo(tos3dmLA_cE_A, tos3dmLA_cE_B, tos3dmLA_cE_C),...s3Comun2,}},
+// ********* tos2LAdm: Tiempo Ordinario, Semana 2 Laudes DOMINGO *********
 
 
-        //Cantico Evangelico
-        cEvan_Conclusion: {
-            cEvangelicoAnt:                 window.antifonaDomingo(tos2dmLA_cE_A, tos2dmLA_cE_B, tos2dmLA_cE_C),
-            canticoZacariast:               canticoZacariast,
-            canticoZacarias:                canticoZacarias,
-            
-            
-        //PRECES
-            preces1:                        tos2dmLA_preces1,
-            preces2:                        tos2dmLA_preces2,
-    
-            Padren:                         "Padre nuestro...",
-    
-            oracion:                        tos2dmLA_oracion,
 
-            Conclusion1:                    Conclusion1,
-            Conclusion2:                    Conclusion2,
-        },
-    },  // ***********************************************************
 
 /*  TIEMPO ORDINARIO
     DOMINGO DE LA SEMANA III

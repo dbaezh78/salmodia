@@ -15,7 +15,7 @@ Confírmanos en la fe de la victoria final
 y arraiga en nosotros la esperanza de tu manifestación gloriosa.`
 const tps1jslaud_preces2 = "Porque Jesucristo nos ha hecho participar de su propia vida, somos hijos de Dios, y por ello nos atrevemos a decir:"
 
-const tos1dmLA_preces1 = `Roguemos a nuestro Redentor, bautizado por Juan en el Jordán, y digámosle:
+const bautismoLA_preces1 = `Roguemos a nuestro Redentor, bautizado por Juan en el Jordán, y digámosle:
 
 Señor, ten piedad.
 
@@ -29,9 +29,17 @@ Cristo Jesús, que en tu bautismo abriste una puerta de salvación para los cris
 
 Cristo Jesús, que en tu bautismo nos revelaste a la Trinidad, renueva el espíritu de adopción y el sacerdocio real de los bautizados.`
 
-const tos1dmLA_preces2 = "Gracias a Jesucristo somos hijos de Dios; por eso nos atrevemos a decir:"
+const bautismoLA_preces2 = "Gracias a Jesucristo somos hijos de Dios; por eso nos atrevemos a decir:"
 
-const tos2dmLA_preces1 = `Invoquemos, hermanos, a nuestro Salvador, que ha venido al mundo para ser «Dios-con-nosotros», y digámosle confiadamente:
+
+const tos1LAdm_preces1 = ``
+const tos1LAdm_preces2 = ""
+
+
+
+
+
+const tos2LAdm_preces1 = `Invoquemos, hermanos, a nuestro Salvador, que ha venido al mundo para ser «Dios-con-nosotros», y digámosle confiadamente:
 
 Señor Jesús, rey de la gloria, sé tú nuestra luz y nuestro gozo.
 
@@ -46,9 +54,9 @@ antes danos tu fuerza para que venzamos al mal a fuerza del bien.
 
 Tú que, bautizado por Juan en el Jordán, fuiste ungido con el Espíritu Santo,
 asístenos durante este día para que actuemos movidos por este mismo Espíritu.`
-const tos2dmLA_preces2 = "Por Jesús nos llamamos y somos hijos de Dios; por ello nos atrevemos a decir:"
+const tos2LAdm_preces2 = "Por Jesús nos llamamos y somos hijos de Dios; por ello nos atrevemos a decir:"
 
-const tos3dmLA_preces1 = `Invoquemos a Dios Padre que envió al Espíritu Santo, para que con su luz santísima penetrara las almas de sus fieles, y digámosle:
+const tos3LAdm_preces1 = `Invoquemos a Dios Padre que envió al Espíritu Santo, para que con su luz santísima penetrara las almas de sus fieles, y digámosle:
 
 Ilumina, Señor, a tu pueblo.
 
@@ -63,9 +71,9 @@ envía este mismo Espíritu a tu Iglesia para que permanezca siempre fiel a ti.
 
 Tú que eres luz para todos los hombres, acuérdate de los que viven aún en las tinieblas
 y abre los ojos de su mente para que te reconozcan a ti, único Dios verdadero.`
-const tos3dmLA_preces2 = `Por Jesús hemos sido hechos hijos de Dios; por esto nos atrevemos a decir:`
+const tos3LAdm_preces2 = `Por Jesús hemos sido hechos hijos de Dios; por esto nos atrevemos a decir:`
 
-const tos4dmLA_preces1 = `Dios nos ama y sabe lo que nos hace falta; invoquémosle, pues, diciendo:
+const tos4LAdm_preces1 = `Dios nos ama y sabe lo que nos hace falta; invoquémosle, pues, diciendo:
 
 Te bendecimos y en ti confiamos, Señor.
 
@@ -81,9 +89,9 @@ haz que este día transcurra lleno de gozo espiritual.
 Da, Señor, a tus fieles el espíritu de oración y de alabanza,
 para que en toda ocasión te demos gracias.
 `
-const tos4dmLA_preces2 = "Movidos ahora todos por el mismo Espíritu que nos da Cristo resucitado acudamos a Dios, de quien somos verdaderos hijos, diciendo:"
+const tos4LAdm_preces2 = "Movidos ahora todos por el mismo Espíritu que nos da Cristo resucitado acudamos a Dios, de quien somos verdaderos hijos, diciendo:"
 
-const tos5dmLA_preces1 = `Glorifiquemos al Señor Jesús, luz que alumbra a todo hombre y sol de justicia que no conoce el ocaso, y digámosle:
+const tos5LAdm_preces1 = `Glorifiquemos al Señor Jesús, luz que alumbra a todo hombre y sol de justicia que no conoce el ocaso, y digámosle:
 
 Tú que eres nuestra vida y nuestra salvación, Señor, ten piedad.
 
@@ -98,19 +106,90 @@ y que la participación en el banquete de tu amor haga crecer nuestra esperanza.
 
 Que sepamos contemplar las maravillas que tu generosidad nos concede,
 y vivamos durante todo el día en acción de gracias.`
-const tos5dmLA_preces2 = "Digamos ahora todos juntos la oración que Cristo nos enseñó:"
+const tos5LAdm_preces2 = "Digamos ahora todos juntos la oración que Cristo nos enseñó:"
 
-const tos6dmLA_preces1 = ""
-const tos6dmLA_preces2 = ""
+const tos6LAdm_preces1 = ""
+const tos6LAdm_preces2 = ""
 
-const tos7dmLA_preces1 = ""
-const tos7dmLA_preces2 = ""
+const tos7LAdm_preces1 = ""
+const tos7LAdm_preces2 = ""
 
-const tos8dmLA_preces1 = ""
-const tos8dmLA_preces2 = ""
+const tos8LAdm_preces1 = ""
+const tos8LAdm_preces2 = ""
 
-const tos9dmLA_preces1 = ""
-const tos9dmLA_preces2 = ""
+const tos9LAdm_preces1 = ""
+const tos9LAdm_preces2 = ""
 
-const tos10dmLA_preces1 = ""
-const tos10dmLA_preces2 = ""
+const tos10LAdm_preces1 = ""
+const tos10LAdm_preces2 = ""
+
+// preces para LUNES
+const tos1LAln_preces1 = `Proclamemos la grandeza de Cristo, lleno de gracia y del Espíritu Santo, y acudamos a él diciendo:
+
+Concédenos, Señor, tu Espíritu.
+
+Concédenos, Señor, un día lleno de paz, de alegría y de inocencia
+para que, al llegar a la noche, podamos alabarte con gozo y limpios de pecado.
+
+Que baje hoy a nosotros tu bondad
+y haga prósperas las obras de nuestras manos.
+
+Muéstranos tu rostro propicio y danos tu paz
+para que durante todo el día sintamos cómo tu mano nos protege.
+
+Mira con bondad a cuantos se han encomendado a nuestras oraciones
+y enriquécelos con toda clase de bienes.`
+const tos1LAln_preces2 = "Terminemos nuestra oración con la plegaria que Cristo nos enseñó:"
+
+const tos2LAln_preces1 = `Demos gracias a nuestro salvador que ha hecho de nosotros un pueblo de reyes y sacerdotes, y digámosle:
+
+Consérvanos, Señor, en tu servicio.
+
+Señor Jesús, sacerdote eterno, que has querido que tu pueblo participara de tu sacerdocio:
+haz que ofrezcamos siempre sacrificios espirituales, agradables al Padre.
+
+Danos, Señor, la abundancia de los frutos del Espíritu Santo:
+comprensión, bondad, amabilidad.
+
+Que la luz de la fe ilumine este nuevo día
+y que durante el mismo caminemos por las sendas del amor.
+
+Haz que busquemos siempre el bien de nuestros hermanos
+y les ayudemos a progresar en su salvación.`
+const tos2LAln_preces2 = "Con el gozo que nos da el sabernos hijos de Dios, digamos confiadamente:"
+
+
+const tos3LAln_preces1 = `Invoquemos a Dios, que puso en el mundo a los hombres para que trabajasen concordes para su gloria, y digámosle:
+
+Haz, Señor, que te glorifiquemos.
+
+Te bendecimos, Señor, creador del universo, porque has conservado nuestra vida hasta el día de hoy;
+Haz que en toda nuestra jornada te alabemos y te bendigamos.
+
+Míranos benigno, Señor, ahora que vamos a comenzar nuestra labor cotidiana;
+haz que, obrando conforme a tu voluntad, cooperemos en tu obra.
+
+Que nuestro trabajo de hoy sea provechoso para nuestros hermanos,
+y así todos juntos edifiquemos un mundo grato a tus ojos.
+
+A nosotros y a todos los que hoy entrarán en contacto con nosotros,
+concédenos el gozo y la paz.`
+const tos3LAln_preces2 = "Llenos de alegría por nuestra condición de hijos de Dios, digamos confiadamente:"
+
+const tos4LAln_preces1 = `Ya que Cristo escucha y salva a cuantos en él se refugian, acudamos a él diciendo:
+
+Escúchanos, Señor.
+
+Te damos gracias, Señor, por el gran amor con que nos amaste;
+continúa mostrándote con nosotros rico en misericordia.
+
+Tú que con el Padre sigues actuando siempre en el mundo,
+renueva todas las cosas con la fuerza de tu Espíritu.
+
+Abre nuestros ojos y los de nuestros hermanos
+para que podamos contemplar hoy tus maravillas.
+
+Ya que nos llamas hoy a tu servicio,
+haz que seamos buenos administradores de tu multiforme gracia en favor de nuestros hermanos.`
+const tos4LAln_preces2 = "Acudamos a Dios Padre, tal como nos enseñó Jesucristo:"
+

@@ -176,3 +176,7 @@ body {
 .verso-linea {
  display: inline;       /* Refuerza que no ocupen toda la línea */   
 }
+
+.ant {
+    min-width: max-content;
+}

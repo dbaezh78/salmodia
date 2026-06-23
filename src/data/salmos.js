@@ -1,3 +1,85 @@
+//Salmo 5, 2-10. 12-13 - ORACIÓN DE LA MAÑANA DE UN JUSTO PERSEGUIDO
+
+const Salmo5_2_10_12_13t = "Salmo 5, 2-10. 12-13 - ORACIÓN DE LA MAÑANA DE UN JUSTO PERSEGUIDO"
+const Salmo5_2_10_12_13 = `Señor, escucha mis palabras,
+atiende a mis gemidos,
+haz caso de mis gritos de auxilio,
+Rey mío y Dios mío.
+
+A ti te suplico, Señor;
+por la mañana escucharás mi voz,
+por la mañana te expongo mi causa,
+y me quedo aguardando.
+
+Tú no eres un Dios que ame la maldad,
+ni el malvado es tu huésped,
+ni el arrogante se mantiene en tu presencia.
+
+Detestas a los malhechores,
+destruyes a los mentirosos;
+al hombre sanguinario y traicionero
+lo aborrece el Señor.
+
+Pero yo, por tu gran bondad,
+entraré en tu casa,
+me postraré ante tu templo santo
+con toda reverencia.
+
+Señor, guíame con tu justicia,
+porque tengo enemigos;
+alláname tu camino.
+
+En su boca no hay sinceridad,
+su corazón es perverso;
+su garganta es un sepulcro abierto,
+mientras halagan con la lengua.
+
+Que se alegren los que se acogen a ti,
+con júbilo eterno;
+protégelos, para que se llenen de gozo
+los que aman tu nombre.
+
+Porque tú, Señor, bendices al justo,
+y como un escudo lo rodea tu favor.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+//SALMO 62, 2-9 - EL ALMA SEDIENTA DE DIOS
+const salmo28t = "Salmo 28 - MANIFESTACIÓN DE DIOS EN LA TEMPESTAD."
+const salmo28 = `Hijos de Dios, aclamad al Señor,
+aclamad la gloria y el poder del Señor,
+aclamad la gloria del nombre del Señor,
+postraos ante el Señor en el atrio sagrado.
+
+La voz del Señor sobre las aguas,
+el Dios de la gloria hace oír su trueno,
+el Señor sobre las aguas torrenciales.
+
+La voz del Señor es potente,
+la voz del Señor es magnífica,
+la voz del Señor descuaja los cedros,
+el Señor descuaja los cedros del Líbano.
+
+Hace brincar al Líbano como a un novillo,
+al Sarión como a una cría de búfalo.
+
+La voz del Señor lanza llamas de fuego,
+la voz del Señor sacude el desierto,
+el Señor sacude el desierto de Cadés.
+
+La voz del Señor retuerce los robles,
+el Señor descorteza las selvas.
+En su templo un grito unánime: ¡Gloria!
+
+El trono del Señor está encima de la tempestad,
+el Señor se sienta como rey eterno.
+El Señor da fuerza a su pueblo,
+el Señor bendice a su pueblo con la paz.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
 //SALMO 62, 2-9 - EL ALMA SEDIENTA DE DIOS
 const salmo62_2_9t = "SALMO 62, 2-9 - EL ALMA SEDIENTA DE DIOS"
 const salmo62_2_9 = `¡Oh Dios!, tú eres mi Dios, por ti madrugo,
@@ -183,6 +265,91 @@ Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.
 `
 const sal117_1t = "Salmo 117 - HIMNO DE ACCIÓN DE GRACIAS DESPUÉS DE LA VICTORIA."
 const sal117_1 = `Dad gracias al Señor porque es bueno,
+porque es eterna su misericordia.
+
+Diga la casa de Israel:
+eterna es su misericordia.
+
+Diga la casa de Aarón:
+eterna es su misericordia.
+
+Digan los fieles del Señor:
+eterna es su misericordia.
+
+En el peligro grité al Señor,
+y me escuchó, poniéndome a salvo.
+
+El Señor está conmigo: no temo;
+¿qué podrá hacerme el hombre?
+El Señor está conmigo y me auxilia,
+veré la derrota de mis adversarios.
+
+Mejor es refugiarse en el Señor
+que fiarse de los hombres,
+mejor es refugiarse en el Señor
+que confiar en los magnates.
+
+Todos los pueblos me rodeaban,
+en el nombre del Señor los rechacé;
+me rodeaban cerrando el cerco,
+en el nombre del Señor los rechacé;
+me rodeaban como avispas,
+ardiendo como fuego en las zarzas,
+en el nombre del Señor los rechacé.
+
+Empujaban y empujaban para derribarme,
+pero el Señor me ayudó;
+el Señor es mi fuerza y mi energía,
+él es mi salvación.
+
+Escuchad: hay cantos de victoria
+en las tiendas de los justos:
+«La diestra del Señor es poderosa,
+la diestra del Señor es excelsa,
+la diestra del Señor es poderosa.»
+
+No he de morir, viviré
+para contar las hazañas del Señor.
+Me castigó, me castigó el Señor,
+pero no me entregó a la muerte.
+
+Abridme las puertas del triunfo,
+y entraré para dar gracias al Señor.
+
+Esta es la puerta del Señor:
+los vencedores entrarán por ella.
+
+Te doy gracias porque me escuchaste
+y fuiste mi salvación.
+
+La piedra que desecharon los arquitectos
+es ahora la piedra angular.
+Es el Señor quien lo ha hecho,
+ha sido un milagro patente.
+
+Éste es el día en que actuó el Señor:
+sea nuestra alegría y nuestro gozo.
+Señor, danos la salvación;
+Señor, danos prosperidad.
+
+Bendito el que viene en nombre del Señor,
+os bendecimos desde la casa del Señor;
+el Señor es Dios: él nos ilumina.
+
+Ordenad una procesión con ramos
+hasta los ángulos del altar.
+
+Tú eres mi Dios, te doy gracias;
+Dios mío, yo te ensalzo.
+
+Dad gracias al Señor porque es bueno,
+porque es eterna su misericordia.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+const salmo117t = "Salmo 117 - HIMNO DE ACCIÓN DE GRACIAS DESPUÉS DE LA VICTORIA."
+const salmo117 = `Dad gracias al Señor porque es bueno,
 porque es eterna su misericordia.
 
 Diga la casa de Israel:
@@ -489,4 +656,24 @@ ensalzadlo con himnos por los siglos.
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
+const ICro29_10_13t = "Cantico: SÓLO A DIOS HONOR Y GLORIA 1Cro 29, 10-13"
+const ICro29_10_13 = `Bendito eres, Señor,
+Dios de nuestro padre Israel,
+por los siglos de los siglos.
 
+Tuyos son, Señor, la grandeza y el poder,
+la gloria, el esplendor, la majestad,
+porque tuyo es cuanto hay en cielo y tierra,
+tú eres rey y soberano de todo.
+
+De ti viene la riqueza y la gloria,
+tú eres Señor del universo,
+en tu mano está el poder y la fuerza,
+tú engrandeces y confortas a todos.
+
+Por eso, Dios nuestro,
+nosotros te damos gracias,
+alabando tu nombre glorioso.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`

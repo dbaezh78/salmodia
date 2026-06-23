@@ -178,8 +178,8 @@ es de tu carne y tu sangre,
 y la Iglesia, que es tu Esposa,
 se acerca para abrazarte. Amén.`
 
-const htos1LAdmt = "Himno: A LA ORILLA DEL JORDÁN."
-const htos1LAdm = `A la orilla del Jordán,
+const hbautismoLAt = "Himno: A LA ORILLA DEL JORDÁN."
+const hbautismoLA = `A la orilla del Jordán,
 descalza el alma y los pies,
 bajan buscando pureza
 doce tribus de Israel.
@@ -198,6 +198,34 @@ Mas ¿por qué se ha de lavar
 a la Pureza, por qué?
 Porque el bautismo hoy empieza
 y ha comenzado por él. Amén.`
+
+
+const htos1LAdmt = "Himno: ES VERDAD QUE LAS LUCES DEL ALBA"
+const htos1LAdm = `Es verdad que las luces del alba
+del día de hoy
+son más puras, radiantes y bellas,
+por gracia de Dios.
+
+Es verdad que yo siento en mi vida,
+muy dentro de mí,
+que la gracia de Dios es mi gracia,
+que no merecí.
+
+Es verdad que la gracia del Padre,
+en Cristo Jesús,
+es la gloria del hombre y del mundo
+bañados en luz.
+
+Es verdad que la Pascua de Cristo
+es pascua por mí,
+que su muerte y victoria me dieron
+eterno vivir.
+
+Viviré en alabanzas al Padre,
+que al Hijo nos dio,
+y que el santo Paráclito inflame
+nuestra alma en amor. Amén.`
+
 
 const htos2LAdmt = "Himno: CRISTO, EL SEÑOR"
 const htos2LAdm = `Cristo, el Señor,
@@ -401,3 +429,98 @@ const htos1VIdm = ``
 
 const htos2VIdmt = ""
 const htos2VIdm = ``
+
+// Himno Tiempo Ordinario, Semana 1 Laudes Lunes
+const htos1LAlnt = "Himno: DEJADO YA EL DESCANSO DE LA NOCHE"
+const htos1LAln = `Dejado ya el descanso de la noche,
+despierto en la alegría de tu amor,
+concédeme tu luz que me ilumine
+como ilumina el sol.
+
+No sé lo que será del nuevo día
+que entre luces y sombras viviré,
+pero sé que, si tú vienes conmigo,
+no fallará mi fe.
+
+Tal vez me esperen horas de desierto
+amargas y sedientas, mas yo sé
+que, si vienes conmigo de camino,
+jamás yo tendré sed.
+
+Concédeme vivir esta jornada
+en paz con mis hermanos y mi Dios,
+al sentarnos los dos para la cena,
+párteme el pan, Señor.
+
+Recibe, Padre santo, nuestro ruego,
+acoge por tu Hijo la oración
+que fluye del Espíritu en el alma
+que sabe de tu amor. Amén.`
+
+const htos2LAlnt = "Himno: ALFARERO DEL HOMBRE, MANO TRABAJADORA"
+const htos2LAln = `Alfarero del hombre, mano trabajadora
+que, de los hondos limos iniciales,
+convocas a los pájaros a la primera aurora,
+al pasto los primeros animales.
+
+De mañana te busco, hecho de luz concreta,
+de espacio puro y tierra amanecida.
+De mañana te encuentro, vigor, origen, meta
+de los profundos ríos de la vida.
+
+El árbol toma cuerpo, y el agua melodía;
+tus manos son recientes en la rosa;
+se espesa la abundancia del mundo a mediodía,
+y estás de corazón en cada cosa.
+
+No hay brisa si no alientas, monte si no estás dentro,
+ni soledad en que no te hagas fuerte.
+Todo es presencia y gracia; vivir es este encuentro:
+tú, por la luz; el hombre, por la muerte.
+
+¡Que se acabe el pecado! ¡Mira que es desdecirte
+dejar tanta hermosura en tanta guerra!
+Que el hombre no te obligue, Señor, a arrepentirte
+de haberle dado un día las llaves de la tierra. Amén.`
+
+const htos3LAlnt = "Himno: ERES LA LUZ Y SIEMBRAS CLARIDADES"
+const htos3LAln = `Eres la luz y siembras claridades;
+abres los anchos cielos que sostienen,
+como un pilar, los brazos de tu Padre.
+
+Arrebatada en rojos torbellinos,
+el alba apaga estrellas lejanísimas;
+la tierra se estremece de rocío.
+
+Mientras la noche cede y se disuelve,
+la estrella matinal, signo de Cristo,
+levanta el nuevo día y lo establece.
+
+Eres la luz total, Día del Día,
+el Uno en todo, el Trino todo en Uno:
+¡gloria a tu misteriosa teofanía! Amén.`
+
+const htos4LAlnt = "Himno: SEÑOR, COMO QUISIERA."
+const htos4LAln = `Señor, cómo quisiera
+en cada aurora aprisionar el día,
+y ser tu primavera
+en gracia y alegría,
+y crecer en tu amor más todavía.
+
+En cada madrugada
+abrir mi pobre casa, abrir la puerta,
+el alma enamorada,
+el corazón alerta,
+y conmigo tu mano siempre abierta.
+
+Ya despierta la vida
+con su canción de ruidos inhumanos;
+y tu amor me convida
+a levantar mis manos
+y a acariciarte en todos mis hermanos.
+
+Hoy elevo mi canto
+con toda la ternura de mi boca,
+al que es tres veces santo,
+a ti que eres mi Roca
+y en quien mi vida toda desemboca. Amén.`
