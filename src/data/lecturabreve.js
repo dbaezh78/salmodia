@@ -155,3 +155,78 @@ const tos4LAml_lb = "Has de reconocer hoy y recordar que el Señor es Dios, en l
 const tos4LAml_rb = "Bendigo al Señor en todo momento."
 const tos4LAml_rb1 = "Su alabanza está siempre en mi boca."
 const tos4LAml_rb2 = "En todo momento."
+
+const tos1LAjs_lbt =  "Is 66, 1-2"
+const tos1LAjs_lb = "Así dice el Señor: «El cielo es mi trono y la tierra el estrado de mis pies: ¿Qué templo podréis construirme?; ¿o qué lugar para mi descanso? Todo esto lo hicieron mis manos, todo es mío —oráculo del Señor—. En ése pondré mis ojos: en el humilde y el abatido que se estremece ante mis palabras.»"
+const tos1LAjs_rb = "Te invoco de todo corazón, respóndeme, Señor."
+const tos1LAjs_rb1 = "Guardaré tus leyes."
+const tos1LAjs_rb2 = "Respóndeme, Señor."
+
+const tos2LAjs_lbt = "Rm 14, 17-19"
+const tos2LAjs_lb = "El reino de Dios no es comida ni bebida, sino justicia y paz y gozo en el Espíritu Santo, pues el que en esto sirve a Cristo es grato a Dios y acepto a los hombres. Por tanto, trabajemos por la paz y por nuestra mutua edificación."
+const tos2LAjs_rb = "Velando medito en ti, Señor."
+const tos2LAjs_rb1 = "Porque fuiste mi auxilio."
+const tos2LAjs_rb2 = "Medito en ti, Señor."
+
+const tos3LAjs_lbt = "1Pe 4, 10-11"
+const tos3LAjs_lb = "Que cada uno, con el don que ha recibido, se ponga al servicio de los demás, como buenos administradores de la multiforme gracia de Dios. El que toma la palabra que hable palabra de Dios. El que se dedica al servicio que lo haga en virtud del encargo recibido de Dios. Así, Dios será glorificado en todo, por medio de Jesucristo, Señor nuestro, cuya es la gloria y el imperio por los siglos de los siglos. Amén."
+const tos3LAjs_rb = "Te invoco de todo corazón, respóndeme, Señor."
+const tos3LAjs_rb1 = "Guardaré tus leyes."
+const tos3LAjs_rb2 = "Respóndeme, Señor."
+
+const tos4LAjs_lbt = "Rm 8, 18-21"
+const tos4LAjs_lb = "Los padecimientos de esta vida presente tengo por cierto que no son nada en comparación con la gloria futura que se ha de revelar en nosotros. La creación entera está en expectación, suspirando por esa manifestación gloriosa de los hijos de Dios; porque las creaturas todas quedaron sometidas al desorden, no porque a ello tendiesen de suyo, sino por culpa del hombre que las sometió. Y abrigan la esperanza de quedar ellas, a su vez, libres de la esclavitud de la corrupción, para tomar parte en la libertad gloriosa que han de recibir los hijos de Dios."
+const tos4LAjs_rb = "Velando medito en ti, Señor."
+const tos4LAjs_rb1 = "Porque fuiste mi auxilio."
+const tos4LAjs_rb2 = "Medito en ti, Señor."
+
+// VIERNES
+const tos1LAvs_lbt = "Ef 4, 29-32"
+const tos1LAvs_lb = "No salga de vuestra boca palabra desedificante, sino la que sirva para la necesaria edificación, comunicando la gracia a los oyentes. Y no provoquéis más al santo Espíritu de Dios, con el cual fuisteis marcados para el día de la redención. Desterrad de entre vosotros todo exacerbamiento, animosidad, ira, pendencia, insulto y toda clase de maldad. Sed, por el contrario, bondadosos y compasivos unos con otros, y perdonaos mutuamente como también Dios os ha perdonado en Cristo."
+const tos1LAvs_rb = "En la mañana hazme escuchar tu gracia."
+const tos1LAvs_rb1 = "Indícame el camino que he de seguir."
+const tos1LAvs_rb2 = "Hazme escuchar tu gracia."
+
+const tos2LAvs_lbt = "Ef 2,13-16"
+const tos2LAvs_lb = "Ahora estáis en Cristo Jesús. Ahora, por la sangre de Cristo, estáis cerca los que antes estabais lejos. Él es nuestra paz. Él ha hecho de los dos pueblos, judíos y gentiles, una sola cosa, derribando con su cuerpo el muro que los separaba: el odio. Él ha abolido la ley con sus mandamientos y reglas, haciendo las paces, para crear en él un solo hombre nuevo. Reconcilió con Dios a los dos pueblos, uniéndolos en un solo cuerpo mediante la cruz, dando muerte en él al odio."
+const tos2LAvs_rb = "Invoco al Dios Altísimo, al Dios que hace tanto por mí."
+const tos2LAvs_rb1 = "Desde el cielo me enviará la salvación."
+const tos2LAvs_rb2 = "El Dios que hace tanto por mí."
+
+const tos3LAvs_lbt = "2Co 12, 9b-10"
+const tos3LAvs_lb = "Muy a gusto presumo de mis debilidades, porque así residirá en mí la fuerza de Cristo. Por eso vivo contento en medio de mis debilidades, de los insultos, las privaciones, las persecuciones y las dificultades sufridas por Cristo. Porque cuando soy débil, entonces soy fuerte."
+const tos3LAvs_rb = "En la mañana hazme escuchar tu gracia."
+const tos3LAvs_rb1 = "Indícame el camino que he de seguir."
+const tos3LAvs_rb2 = "Hazme escuchar tu gracia."
+
+const tos4LAvs_lbt = "Ga 2, 19b-20"
+const tos4LAvs_lb = "Estoy crucificado con Cristo; vivo yo, pero no soy yo, es Cristo quien vive en mi. Y, mientras vivo en esta carne, vivo de la fe en el Hijo de Dios, que me amó hasta entregarse por mí."
+const tos4LAvs_rb = "Invoco al Dios Altísimo, al Dios que hace tanto por mí."
+const tos4LAvs_rb1 = "Desde el cielo me enviará la salvación."
+const tos4LAvs_rb2 = "El Dios que hace tanto por mí."
+
+
+// SABADO
+const tos1LAsb_lbt = ""
+const tos1LAsb_lb = ""
+const tos1LAsb_rb = ""
+const tos1LAsb_rb1 = ""
+const tos1LAsb_rb2 = ""
+
+const tos2LAsb_lbt = ""
+const tos2LAsb_lb = ""
+const tos2LAsb_rb = ""
+const tos2LAsb_rb1 = ""
+const tos2LAsb_rb2 = ""
+
+const tos3LAsb_lbt = ""
+const tos3LAsb_lb = ""
+const tos3LAsb_rb = ""
+const tos3LAsb_rb1 = ""
+const tos3LAsb_rb2 = ""
+
+const tos4LAsb_lbt = ""
+const tos4LAsb_lb = ""
+const tos4LAsb_rb = ""
+const tos4LAsb_rb1 = ""
+const tos4LAsb_rb2 = ""

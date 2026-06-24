@@ -331,3 +331,150 @@ Ayúdanos para que resistamos a la tentación, aguantemos en la tribulación
 y te demos gracias en la prosperidad.`
 const tos4LAml_preces2 = "Dejemos que el espíritu de Dios, que ha sido derramado en nuestros corazones, se una a nuestro espíritu, para clamar:"
 
+const tos1LAjs_preces1 = `Demos gracias a Cristo que nos ha dado la luz del día y supliquémosle diciendo:
+
+Bendícenos y santifícanos, Señor.
+
+Tú que te entregaste como víctima por nuestros pecados,
+acepta los deseos y las acciones de este día.
+
+Tú que nos alegras con la claridad del nuevo día,
+sé tú mismo el lucero brillante de nuestros corazones.
+
+Haz que seamos bondadosos y comprensivos con los que nos rodean
+para que logremos así ser imágenes de tu bondad.
+
+En la mañana haznos escuchar tu gracia
+y que tu gozo sea hoy nuestra fortaleza.`
+const tos1LAjs_preces2 = "Fieles a la recomendación del salvador, digamos llenos de confianza filial:"
+
+const tos2LAjs_preces1 = `Bendigamos a Dios, nuestro Padre, que mira siempre con amor a sus hijos y nunca desatiende sus súplicas, y digámosle con humildad:
+
+Ilumínanos, Señor.
+
+Te damos gracias, Señor, porque nos has iluminado con la luz de Jesucristo;
+que esta claridad ilumine hoy todos nuestros actos.
+
+Que tu sabiduría nos dirija en nuestra jornada;
+así andaremos por sendas de vida nueva.
+
+Ayúdanos a superar con fortaleza las adversidades
+y haz que te sirvamos con generosidad de espíritu.
+
+Dirige y santifica los pensamientos, palabras y obras de nuestro día
+y danos un espíritu dócil a tus inspiraciones.`
+const tos2LAjs_preces2 = "Dirijamos ahora, todos juntos, nuestra oración al Padre y digámosle:"
+
+const tos3LAjs_preces1 = `Demos gracias al Señor, que guía y alimenta con amor a su pueblo, y digámosle:
+
+Te glorificamos por siempre, Señor.
+
+Señor, rey del universo, te alabamos por el amor que nos tienes,
+porque de manera admirable nos creaste y más admirablemente aún nos redimiste.
+
+Al comenzar este nuevo día, pon en nuestros corazones el anhelo de servirte,
+para que te glorifiquemos en todos nuestros pensamientos y acciones.
+
+Purifica nuestros corazones de todo mal deseo,
+y haz que estemos siempre atentos a tu voluntad.
+
+Danos un corazón abierto a las necesidades de nuestros hermanos,
+para que a nadie falte la ayuda de nuestro amor.`
+const tos3LAjs_preces2 = "Acudamos ahora a nuestro Padre celestial, diciendo:"
+
+const tos4LAjs_preces1 = `Invoquemos a Dios, de quien viene la salvación para su pueblo, diciendo:
+
+Tú, que eres nuestra vida, escúchanos, Señor.
+
+Bendito seas, Dios, Padre de nuestro Señor Jesucristo, porque en tu gran misericordia nos has hecho nacer de nuevo para una esperanza viva,
+por la resurrección de Jesucristo de entre los muertos.
+
+Tú que, en Cristo, renovaste al hombre, creado a imagen tuya,
+haz que reproduzcamos la imagen de tu Hijo.
+
+Derrama en nuestros corazones, lastimados por el odio y la envidia,
+tu Espíritu de amor.
+
+Concede hoy trabajo a quienes lo buscan, pan a los hambrientos, alegría a los tristes,
+a todos la gracia y la salvación.`
+const tos4LAjs_preces2 = "Por Jesús hemos sido hechos hijos de Dios; por esto nos atrevemos a decir:"
+
+const tos1LAvs_preces1 = `Adoremos a Cristo, que salvó al mundo con su cruz, y supliquémosle diciendo:
+
+Señor, ten misericordia de nosotros.
+
+Señor Jesucristo, cuya claridad es nuestro sol y nuestro día,
+haz que, desde el amanecer, desaparezca de nosotros todo sentimiento malo.
+
+Vela, Señor, sobre nuestros pensamientos, palabras y obras,
+a fin de que nuestro día sea agradable ante tus ojos.
+
+Aparta de nuestros pecados tu vista,
+y borra en nosotros toda culpa.
+
+Por tu cruz y tu resurrección,
+llénanos del gozo del Espíritu Santo.`
+const tos1LAvs_preces2 = "Ya que somos hijos de Dios, oremos a nuestro Padre como Cristo nos enseñó:"
+
+const tos2LAvs_preces1 = `Adoremos a Cristo, que se ofreció a Dios como sacrificio sin mancha para purificar nuestras conciencias de las obras muertas, y digámosle con fe:
+
+En tu voluntad, Señor, encontramos nuestra paz.
+
+Tú que nos has dado la luz del nuevo día,
+concédenos también caminar durante sus horas por sendas de vida nueva.
+
+Tú que todo lo has creado con tu poder y con tu providencia lo conservas,
+ayúdanos a descubrirte presente en todas tus creaturas.
+
+Tú que has sellado con tu sangre una alianza nueva y eterna,
+haz que, obedeciendo siempre tus mandatos, permanezcamos fieles a esa alianza.
+
+Tú que colgado en la cruz quisiste que de tu costado manara sangre y agua,
+purifica con esta agua nuestros pecados y alegra con este manantial a la ciudad de Dios.`
+const tos2LAvs_preces2 = "Ya que Dios nos ha adoptado como hijos, oremos al Padre como nos enseñó Jesucristo:"
+
+const tos3LAvs_preces1 = `Invoquemos a Cristo, que nació, murió y resucitó por su pueblo, diciendo:
+
+Salva, Señor, al pueblo que redimiste con tu sangre.
+
+Te bendecimos, Señor, a ti que por nosotros aceptaste el suplicio de la cruz:
+mira con bondad a tu familia santa, redimida con tu sangre.
+
+Tú que prometiste a los que en ti creyeran que manarían de su interior torrentes de agua viva,
+derrama tu Espíritu sobre todos los hombres.
+
+Tú que enviaste a los discípulos a predicar el Evangelio,
+haz que los cristianos anuncien tu palabra con fidelidad.
+
+A los enfermos y a todos los que has asociado a los sufrimientos de tu pasión,
+concédeles fortaleza y paciencia.`
+const tos3LAvs_preces2 = "Llenos del Espíritu de Jesucristo, acudamos a nuestro Padre común, diciendo:"
+
+const tos4LAvs_preces1 = `Confiados en Dios, que cuida con solicitud de todos los que ha creado y redimido con la sangre de su Hijo, invoquémosle diciendo:
+
+Escucha, Señor, y ten piedad.
+
+Dios misericordioso, asegura nuestros pasos en el camino de la verdadera santidad,
+y haz que busquemos siempre cuanto hay de verdadero, noble y justo.
+
+No nos abandones para siempre, por amor de tu nombre
+no olvides tu alianza con nosotros.
+
+Con alma contrita y espíritu humillado te seamos aceptos,
+porque no hay confusión para los que en ti confían.
+
+Tú que has querido que participáramos en la misión profética de Cristo,
+haz que proclamemos ante el mundo tus maravillas.`
+const tos4LAvs_preces2 = "Dirijámonos al Padre, con las mismas palabras que Cristo nos enseñó:"
+
+const tos1LAsb_preces1 = ""
+const tos1LAsb_preces2 = ""
+
+const tos2LAsb_preces1 = ""
+const tos2LAsb_preces2 = ""
+
+const tos3LAsb_preces1 = ""
+const tos3LAsb_preces2 = ""
+
+const tos4LAsb_preces1 = ""
+const tos4LAsb_preces2 = ""

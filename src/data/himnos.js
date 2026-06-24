@@ -734,3 +734,212 @@ que vivamos hoy con loa,
 con que agrademos a Cristo,
 si tu Espíritu nos colma. Amén.`
 
+const htos1LAjst = "Himno: CRECE LA LUZ BAJO TU HERMOSA MANO."
+const htos1LAjs = `Crece la luz bajo tu hermosa mano,
+Padre celeste, y suben
+los hombres matutinos al encuentro
+de Cristo Primogénito.
+
+El hizo amanecer ante tus ojos
+y enalteció la aurora,
+cuando aún no estaba el hombre sobre el mundo
+para poder cantarla.
+
+El es principio y fin del universo,
+y el tiempo, en su caída,
+se acoge al que es la fuerza de las cosas
+y en él rejuvenece.
+
+Él es quien nos reanima y fortalece,
+y hace posible el himno
+que, ante las maravillas de tus manos,
+cantamos jubilosos.
+
+He aquí la nueva luz que asciende y busca
+su cuerpo misterioso;
+he aquí, en la claridad de la mañana,
+el signo de tu rostro.
+
+Envía, Padre eterno, sobre el mundo
+el soplo de tu Hijo,
+potencia de tu diestra y primogénito
+de todos los que mueren. Amén.`
+
+const htos2LAjst = "Himno: SEÑOR, TÚ ME LLAMASTE."
+const htos2LAjs = `Señor, tú me llamaste
+para ser instrumento de tu gracia,
+para anunciar la buena nueva,
+para sanar las almas.
+
+Instrumento de paz y de justicia,
+pregonero de todas tus palabras,
+agua para calmar la sed hiriente,
+mano que bendice y que ama.
+
+Señor, tú me llamaste
+para curar los corazones heridos,
+para gritar, en medio de las plazas,
+que el Amor está vivo,
+para sacar del sueño a los que duermen
+y liberar al cautivo.
+Soy cera blanda entre tus dedos,
+haz lo que quieras conmigo.
+
+Señor, tú me llamaste
+para salvar al mundo ya cansado,
+para amar a los hombres
+que tú, Padre, me diste como hermanos.
+Señor, me quieres para abolir las guerras,
+y aliviar la miseria y el pecado;
+hacer temblar las piedras
+y ahuyentar a los lobos del rebaño. Amén.`
+
+const htos3LAjst = "Himno: SEÑOR, CUANDO FLORECE UN NUEVO DÍA."
+const htos3LAjs = `Señor, cuando florece un nuevo día
+en el jardín del tiempo,
+no dejes que la espina del pecado
+vierta en él su veneno.
+
+El trabajo del hombre rompe el surco
+en el campo moreno;
+en frutos de bondad y de justicia
+convierte sus deseos.
+
+Alivia sus dolores con la hartura
+de tu propio alimento;
+y que vuelvan al fuego de tu casa
+cansados y contentos. Amén.`
+
+const htos4LAjst = "Himno: OH DIOS, AUTOR DE LA LUZ."
+const htos4LAjs = `Oh Dios, autor de la luz,
+de los cielos la lumbrera,
+que el universo sostienes
+abriendo tu mano diestra.
+
+La aurora, con mar de grana,
+cubriendo está las estrellas,
+bautizando humedecida
+con el rocío la tierra.
+
+Auséntanse ya las sombras,
+al orbe la noche deja,
+y al nuevo día el lucero,
+de Cristo imagen, despierta.
+
+Tú, día de día, oh Dios,
+y Luz de Luz, de potencia
+soberana, oh Trinidad,
+doquier poderoso reinas.
+
+Oh Salvador, ante ti
+inclinamos la cabeza,
+y ante el Padre y el Espíritu,
+dándote gloria perpetua. Amén.`
+
+const htos1LAvst = "Himno: EDIFICASTE UNA TORRE"
+const htos1LAvs = `Edificaste una torre
+para tu huerta florida;
+un lagar para tu vino
+y, para el vino, una viña.
+
+Y la viña no dio uvas,
+ni el lagar buena bebida:
+sólo racimos amargos
+y zumos de amarga tinta.
+
+Edificaste una torre,
+Señor, para tu guarida;
+un huerto de dulces frutos,
+una noria de aguas limpias,
+un blanco silencio de horas
+y un verde beso de brisas.
+
+Y esta casa que es tu torre,
+este mi cuerpo de arcilla,
+esta sangre que es tu sangre
+y esta herida que es tu herida
+te dieron frutos amargos,
+amargas uvas y espinas.
+
+¡Rompe, Señor, tu silencio,
+rompe tu silencio y grita!
+Que mi lagar enrojezca
+cuando tu planta lo pise,
+y que tu mesa se endulce
+con el vino de tu viña. Amén.`
+
+const htos2LAvst = "Himno: TE DOY GRACIAS SEÑOR."
+const htos2LAvs = `Te doy gracias, Señor.
+¡Tanto estabas enojado conmigo!
+Tú eres un Dios de amor,
+y ahora soy tu amigo,
+te busco a cada instante y te persigo.
+
+Eres tú mi consuelo,
+tú eres el Dios que salva y da la vida;
+eres todo el anhelo
+de esta alma que va herida,
+ansiándote sin tasa ni medida.
+
+En mi tierra desierta,
+tú de la salvación eres la fuente;
+eres el agua cierta
+que se vuelve torrente,
+y el corazón arrasa dulcemente.
+
+¡Quiero escuchar tu canto!
+¡Que tu Palabra abrase mi basura
+con alegría y llanto!
+¡Que mi vida futura
+espejo sea sin fin de tu hermosura! Amén.`
+
+const htos3LAvst = "Himno: CREADOR SEMPITERNO DE LAS COSAS."
+const htos3LAvs = `Creador sempiterno de las cosas,
+que gobiernas las noches y los días,
+y, alternando la luz y las tinieblas,
+alivias el cansancio de la vida.
+
+Pon tus ojos, Señor, en quien vacila,
+que a todos corrija tu mirada:
+con ella sostendrás a quien tropieza
+y harás que pague su delito en lágrimas.
+
+Alumbra con tu luz nuestros sentidos,
+desvanece el sopor de nuestras mentes,
+y sé el primero a quien, agradecidas,
+se eleven nuestras voces cuando suenen.
+
+Glorificado sea el Padre eterno,
+así como su Hijo Jesucristo,
+y así como el Espíritu Paráclito,
+ahora y por los siglos de los siglos. Amén.
+`
+
+const htos4LAvst = "Himno: POR EL DOLOR CREYENTE QUE BROTA DEL PECADO."
+const htos4LAvs = `Por el dolor creyente que brota del pecado,
+por no haberte querido de todo corazón,
+por haberte, Dios mío, tantas veces negado,
+con súplicas te pido, de rodillas, perdón.
+
+Por haberte perdido, por no haberte encontrado,
+porque es como un desierto nevado mi oración;
+porque es como una hiedra sobre el árbol cortado
+el recuerdo que brota cargado de ilusión,
+
+Porque es como la hiedra, déjame que te abrace,
+primero amargamente, lleno de flor después,
+y que a ti, viejo tronco, poco a poco me enlace,
+y que mi vieja sombra se derrame a tus pies. Amén`
+
+// SABADO
+const htos1LAsbt = ""
+const htos1LAsb = ``
+
+const htos2LAsbt = ""
+const htos2LAsb = ``
+
+const htos3LAsbt = ""
+const htos3LAsb = ``
+
+const htos4LAsbt = ""
+const htos4LAsb = ``

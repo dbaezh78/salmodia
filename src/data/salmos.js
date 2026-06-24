@@ -46,8 +46,8 @@ Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
 //Tobias 13, 1-10: ESPERANZA DE ISRAEL EN BABILONIA Tb 13, 1-10
-const tb13_1_10t = "Cántico: ESPERANZA DE ISRAEL EN BABILONIA Tb 13, 1-10"
-const tb13_1_10 = `Bendito sea Dios, que vive eternamente,
+const tb_13_1_10t = "Cántico: ESPERANZA DE ISRAEL EN BABILONIA Tb 13, 1-10"
+const tb_13_1_10 = `Bendito sea Dios, que vive eternamente,
 y cuyo reino dura por los siglos:
 él azota y se compadece,
 hunde hasta el abismo y saca de él,
@@ -92,6 +92,55 @@ y alábenle sus elegidos en Jerusalén.
 
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+//Cántico: ACCIÓN DE GRACIAS POR LA LIBERACIÓN DEL PUEBLO - Tb 13, 10-15. 17-19
+const tb_13_10_15_17_19t = "Cántico: ACCIÓN DE GRACIAS POR LA LIBERACIÓN DEL PUEBLO - Tb 13, 10-15. 17-19"
+const tb_13_10_15_17_19 = `Anuncien todos los pueblos sus maravillas
+y alábenle sus elegidos en Jerusalén,
+la ciudad del Santo;
+por las obras de tus hijos te azotará,
+pero de nuevo se compadecerá
+de los hijos de los justos.
+
+Confiesa dignamente al Señor
+y bendice al Rey de los siglos,
+para que de nuevo sea en ti
+edificado su tabernáculo con alegría,
+para que alegre en ti a los cautivos
+y muestre en ti su amor hacia los desdichados,
+por todas las generaciones y generaciones.
+
+Brillarás cual luz de lámpara
+y todos los confines de la tierra vendrán a ti.
+Pueblos numerosos vendrán de lejos
+al nombre del Señor, nuestro Dios,
+trayendo ofrendas en sus manos,
+ofrendas para el rey del cielo.
+
+Las generaciones de las generaciones
+exultarán en ti.
+Y benditos para siempre todos los que te aman.
+
+Alégrate y salta de gozo por los hijos de los justos,
+que serán congregados,
+y al Señor de los justos bendecirán.
+
+Dichosos los que te aman;
+en tu paz se alegrarán.
+Dichosos cuantos se entristecieron por tus azotes,
+pues en ti se alegrarán
+contemplando toda tu gloria,
+y se regocijarán para siempre.
+
+Bendice, alma mía, a Dios, rey grande,
+porque Jerusalén con zafiros y esmeraldas
+será reedificada,
+con piedras preciosas sus muros
+y con oro puro sus torres y sus almenas.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
 
 //Cántico: HIMNO A DIOS CREADOR DEL MUNDO Y PROTECTOR DE SU PUEBLO Jdt 16, 2-3. 15-19
 const Jdt_16_2_3_15_19t = "Cántico: HIMNO A DIOS CREADOR DEL MUNDO Y PROTECTOR DE SU PUEBLO Jdt 16, 2-3. 15-19"
@@ -405,7 +454,157 @@ y él es excelso.
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
+// Salmo 47 - HIMNO A LA GLORIA DE JERUSALÉN
+const salmo47t = "Salmo 47 - HIMNO A LA GLORIA DE JERUSALÉN"
+const salmo47 = `Grande es el Señor y muy digno de alabanza
+en la ciudad de nuestro Dios,
+su monte santo, altura hermosa,
+alegría de toda la tierra:
 
+el monte Sión, vértice del cielo,
+ciudad del gran rey;
+entre sus palacios,
+Dios descuella como un alcázar.
+
+Mirad: los reyes se aliaron
+para atacarla juntos;
+pero, al verla, quedaron aterrados
+y huyeron despavoridos;
+
+allí los agarró un temblor
+y dolores como de parto;
+como un viento del desierto,
+que destroza las naves de Tarsis.
+
+Lo que habíamos oído lo hemos visto
+en la ciudad del Señor de los ejércitos,
+en la ciudad de nuestro Dios:
+que Dios la ha fundado para siempre.
+
+¡Oh Dios!, meditamos tu misericordia
+en medio de tu templo:
+como tu renombre, ¡oh Dios!, tu alabanza
+llega al confín de la tierra;
+
+tu diestra está llena de justicia:
+el monte Sión se alegra,
+las ciudades de Judá se gozan
+con tus sentencias.
+
+Dad la vuelta en torno a Sión,
+contando sus torreones;
+fijaos en sus baluartes,
+observad sus palacios,
+
+para poder decirle a la próxima generación:
+«Este es el Señor, nuestro Dios.»
+Él nos guiará por siempre jamás.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+//Salmo 50 - CONFESIÓN DEL PECADOR ARREPENTIDO
+const salmo50t = "Salmo 50 - CONFESIÓN DEL PECADOR ARREPENTIDO"
+const salmo50 = `Misericordia, Dios mío, por tu bondad;
+por tu inmensa compasión borra mi culpa;
+lava del todo mi delito,
+limpia mi pecado.
+
+Pues yo reconozco mi culpa,
+tengo siempre presente mi pecado:
+contra ti, contra ti solo pequé,
+cometí la maldad que aborreces.
+
+En la sentencia tendrás razón,
+en el juicio brillará tu rectitud.
+Mira, que en la culpa nací,
+pecador me concibió mi madre.
+
+Te gusta un corazón sincero,
+y en mi interior me inculcas sabiduría.
+Rocíame con el hisopo: quedaré limpio;
+lávame: quedaré más blanco que la nieve.
+
+Hazme oír el gozo y la alegría,
+que se alegren los huesos quebrantados.
+Aparta de mi pecado tu vista,
+borra en mí toda culpa.
+
+¡Oh Dios!, crea en mí un corazón puro,
+renuévame por dentro con espíritu firme;
+no me arrojes lejos de tu rostro,
+no me quites tu santo espíritu.
+
+Devuélveme la alegría de tu salvación,
+afiánzame con espíritu generoso:
+enseñaré a los malvados tus caminos,
+los pecadores volverán a ti.
+
+Líbrame de la sangre, ¡oh Dios,
+Dios, Salvador mío!,
+y cantará mi lengua tu justicia.
+Señor, me abrirás los labios,
+y mi boca proclamará tu alabanza.
+
+Los sacrificios no te satisfacen;
+si te ofreciera un holocausto, no lo querrías.
+Mi sacrificio es un espíritu quebrantado:
+un corazón quebrantado y humillado
+tú no lo desprecias.
+
+Señor, por tu bondad, favorece a Sión,
+reconstruye las murallas de Jerusalén:
+entonces aceptarás los sacrificios rituales,
+ofrendas y holocaustos,
+sobre tu altar se inmolarán novillos.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+
+//Salmo 56 - ORACIÓN MATUTINA DE UN AFLIGIDO.
+const salmo56t = "Salmo 56 - ORACIÓN MATUTINA DE UN AFLIGIDO."
+const salmo56 = `Misericordia, Dios mío, misericordia,
+que mi alma se refugia en ti;
+me refugio a la sombra de tus alas
+mientras pasa la calamidad.
+
+Invoco al Dios Altísimo,
+al Dios que hace tanto por mí:
+desde el cielo me enviará la salvación,
+confundirá a los que ansían matarme,
+enviará su gracia y su lealtad.
+
+Estoy echado entre leones
+devoradores de hombres;
+sus dientes son lanzas y flechas,
+su lengua es una espada afilada.
+
+Elévate sobre el cielo, Dios mío,
+y llene la tierra tu gloria.
+
+Han tendido una red a mis pasos
+para que sucumbiera;
+me han cavado delante una fosa,
+pero han caído en ella.
+
+Mi corazón está firme, Dios mío,
+mi corazón está firme.
+Voy a cantar y a tocar:
+despierta, gloria mía;
+despertad, cítara y arpa;
+despertaré a la aurora.
+
+Te daré gracias ante los pueblos, Señor;
+tocaré para ti ante las naciones:
+por tu bondad, que es más grande que los cielos;
+por tu fidelidad, que alcanza a las nubes.
+
+Elévate sobre el cielo, Dios mío,
+y llene la tierra tu gloria.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
 //SALMO 62, 2-9 - EL ALMA SEDIENTA DE DIOS
 const salmo62_2_9t = "SALMO 62, 2-9 - EL ALMA SEDIENTA DE DIOS"
@@ -574,6 +773,113 @@ por la mano de Moisés y de Aarón.
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
+//Salmo 79 - VEN A VISITAR TU VIÑA
+const salmo79t = "Salmo 79 - VEN A VISITAR TU VIÑA"
+const salmo79 = `Pastor de Israel, escucha,
+tú que guías a José como a un rebaño;
+tú que te sientas sobre querubines, resplandece
+ante Efraím, Benjamín y Manasés;
+despierta tu poder y ven a salvarnos.
+
+¡Oh Dios!, restáuranos,
+que brille tu rostro y nos salve.
+
+Señor Dios de los ejércitos,
+¿hasta cuándo estarás airado
+mientras tu pueblo te suplica?
+
+Le diste a comer llanto,
+a beber lágrimas a tragos;
+nos entregaste a las disputas de nuestros vecinos,
+nuestros enemigos se burlan de nosotros.
+
+Dios de los ejércitos, restáuranos,
+que brille tu rostro y nos salve.
+
+Sacaste una vid de Egipto,
+expulsaste a los gentiles, y la trasplantaste;
+le preparaste el terreno y echó raíces
+hasta llenar el país;
+
+su sombra cubría las montañas,
+y sus pámpanos, los cedros altísimos;
+extendió sus sarmientos hasta el mar,
+y sus brotes hasta el Gran Río.
+
+¿Por qué has derribado su cerca
+para que la saqueen los viandantes,
+la pisoteen los jabalíes
+y se la coman las alimañas?
+
+Dios de los ejércitos, vuélvete:
+mira desde el cielo, fíjate,
+ven a visitar tu viña,
+la cepa que tu diestra plantó,
+y que tú hiciste vigorosa.
+
+La han talado y le han prendido fuego:
+con un bramido hazlos perecer.
+Que tu mano proteja a tu escogido,
+al hombre que tú fortaleciste.
+No nos alejaremos de ti:
+danos vida, para que invoquemos tu nombre.
+
+Señor Dios de los ejércitos, restáuranos,
+que brille tu rostro y nos salve.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+//Salmo 80 - SOLEMNE RENOVACIÓN DE LA ALIANZA
+const salmo80t = "Salmo 80 - SOLEMNE RENOVACIÓN DE LA ALIANZA"
+const salmo80 = `Aclamad a Dios, nuestra fuerza;
+dad vítores al Dios de Jacob:
+
+acompañad, tocad los panderos,
+las cítaras templadas y las arpas;
+tocad la trompeta por la luna nueva,
+por la luna llena, que es nuestra fiesta;
+
+porque es una ley de Israel,
+un precepto del Dios de Jacob,
+una norma establecida para José
+al salir de Egipto.
+
+Oigo un lenguaje desconocido:
+«Retiré sus hombros de la carga,
+y sus manos dejaron la espuerta.
+
+Clamaste en la aflicción, y te libré,
+te respondí oculto entre los truenos,
+te puse a prueba junto a la fuente de Meribá.
+
+Escucha, pueblo mío, doy testimonio contra ti;
+¡ojalá me escuchases, Israel!
+
+No tendrás un dios extraño,
+no adorarás un dios extranjero;
+yo soy el Señor Dios tuyo,
+que te saqué del país de Egipto;
+abre tu boca y yo la saciaré.
+
+Pero mi pueblo no escuchó mi voz,
+Israel no quiso obedecer:
+los entregué a su corazón obstinado,
+para que anduviesen según sus antojos.
+
+¡Ojalá me escuchase mi pueblo
+y caminase Israel por mi camino!:
+en un momento humillaría a sus enemigos
+y volvería mi mano contra sus adversarios;
+
+los que aborrecen al Señor te adularían,
+y su suerte quedaría fijada;
+te alimentaría con flor de harina,
+te saciaría con miel silvestre.»
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
 
 // Salmo 84 - NUESTRA SALVACIÓN ESTA CERCA
 const salmo84t = "Salmo 84 - NUESTRA SALVACIÓN ESTA CERCA"
@@ -669,6 +975,33 @@ porque tú, Señor, me ayudas y consuelas.
 
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+
+//Salmo 86 - HIMNO A JERUSALÉN, MADRE DE TODOS LOS PUEBLOS.
+const salmo86t = "Salmo 86 - HIMNO A JERUSALÉN, MADRE DE TODOS LOS PUEBLOS."
+const salmo86 = `Él la ha cimentado sobre el monte santo;
+y el Señor prefiere las puertas de Sión
+a todas las moradas de Jacob.
+
+¡Qué pregón tan glorioso para ti,
+ciudad de Dios!
+«Contaré a Egipto y a Babilonia
+entre mis fieles;
+filisteos, tirios y etíopes
+han nacido allí.»
+
+Se dirá de Sión: «Uno por uno
+todos han nacido en ella;
+el Altísimo en persona la ha fundado.»
+
+El Señor escribirá en el registro de los pueblos:
+«Éste ha nacido allí.»
+Y cantarán mientras danzan:
+«Todas mis fuentes están en ti.»
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
 
 // Salmo 92 - GLORIA DEL DIOS CREADOR
 const salmo92t = "Salmo 92 - GLORIA DEL DIOS CREADOR"
@@ -807,6 +1140,64 @@ y los pueblos con rectitud.
 
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+//Salmo 98 - SANTO ES EL SEÑOR, NUESTRO DIOS.
+const salmo98t = "Salmo 98 - SANTO ES EL SEÑOR, NUESTRO DIOS."
+const salmo98 = `El Señor reina, tiemblen las naciones;
+sentado sobre querubines, vacile la tierra.
+
+El Señor es grande en Sión,
+encumbrado sobre todos los pueblos.
+Reconozcan tu nombre, grande y terrible:
+Él es santo.
+
+Reinas con poder y amas la justicia,
+tú has establecido la rectitud;
+tú administras la justicia y el derecho,
+tú actúas en Jacob.
+
+Ensalzad al Señor, Dios nuestro;
+postraos ante el estrado de sus pies:
+Él es santo.
+
+Moisés y Aarón con sus sacerdotes,
+Samuel con los que invocan su nombre,
+invocaban al Señor, y él respondía.
+Dios les hablaba desde la columna de nube;
+oyeron sus mandatos y la ley que les dio.
+
+Señor, Dios nuestro, tú les respondías,
+tú eras para ellos un Dios de perdón
+y un Dios vengador de sus maldades.
+
+Ensalzad al Señor, Dios nuestro;
+postraos ante su monte santo:
+Santo es el Señor, nuestro Dios.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+//Salmo 99 - ALEGRÍA DE LOS QUE ENTRAN EN EL TEMPLO.
+const salmo99t = "Salmo 99 - ALEGRÍA DE LOS QUE ENTRAN EN EL TEMPLO."
+const salmo99 = `Aclama al Señor, tierra entera,
+servid al Señor con alegría,
+entrad en su presencia con aclamaciones.
+
+Sabed que el Señor es Dios:
+que él nos hizo y somos suyos,
+su pueblo y ovejas de su rebaño.
+
+Entrad por sus puertas con acción de gracias,
+por sus atrios con himnos,
+dándole gracias y bendiciendo su nombre:
+
+«El Señor es bueno,
+su misericordia es eterna,
+su fidelidad por todas las edades.»
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
 
 // Salmo 100 - PROPÓSITO DE UN PRÍNCIPE JUSTO
 const salmo100t = "Salmo 100 - PROPÓSITO DE UN PRÍNCIPE JUSTO"
@@ -1125,6 +1516,50 @@ porque es eterna su misericordia.
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
+//Salmo 142, 1-11 - LAMENTACIÓN Y SÚPLICA ANTE LA ANGUSTIA
+const salmo142_1_11t = "Salmo 142, 1-11 - LAMENTACIÓN Y SÚPLICA ANTE LA ANGUSTIA"
+const salmo142_1_11 = `Señor, escucha mi oración;
+tú que eres fiel, atiende a mi súplica;
+tú que eres justo, escúchame.
+No llames a juicio a tu siervo,
+pues ningún hombre vivo es inocente frente a ti.
+
+El enemigo me persigue a muerte,
+empuja mi vida al sepulcro,
+me confina a las tinieblas
+como a los muertos ya olvidados.
+mi aliento desfallece,
+mi corazón dentro de mí está yerto.
+
+Recuerdo los tiempos antiguos,
+medito todas tus acciones,
+considero las obras de tus manos
+y extiendo mis brazos hacia ti:
+tengo sed de ti como tierra reseca.
+
+Escúchame en seguida, Señor,
+que me falta el aliento.
+No me escondas tu rostro,
+igual que a los que bajan a la fosa.
+
+En la mañana hazme escuchar tu gracia,
+ya que confío en ti;
+indícame el camino que he de seguir,
+pues levanto mi alma a ti.
+
+Líbrame del enemigo, Señor,
+que me refugio en ti.
+Enséñame a cumplir tu voluntad,
+ya que tú eres mi Dios.
+Tu espíritu, que es bueno,
+me guíe por tierra llana.
+
+Por tu nombre, Señor, consérvame vivo;
+por tu clemencia, sácame de la angustia.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
 
 // Salmo 143, 1-10 - ORACIÓN POR LA VICTORIA Y POR LA PAZ
 const salmo143_1_10t = "Salmo 143, 1-10 - ORACIÓN POR LA VICTORIA Y POR LA PAZ"
@@ -1196,6 +1631,41 @@ tu Dios, Sión, de edad en edad.
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
+//Salmo 146 - PODER Y BONDAD DEL SEÑOR
+const salmo146t = "Salmo 146 - PODER Y BONDAD DEL SEÑOR"
+const salmo146 = `Alabad al Señor, que la música es buena;
+nuestro Dios merece una alabanza armoniosa.
+
+El Señor reconstruye Jerusalén,
+reúne a los deportados de Israel;
+él sana los corazones destrozados,
+venda sus heridas.
+
+Cuenta el número de las estrellas,
+a cada una la llama por su nombre.
+Nuestro Señor es grande y poderoso,
+su sabiduría no tiene medida.
+El Señor sostiene a los humildes,
+humilla hasta el polvo a los malvados.
+
+Entonad la acción de gracias al Señor,
+tocad la cítara para nuestro Dios,
+que cubre el cielo de nubes,
+preparando la lluvia para la tierra;
+
+que hace brotar hierba en los montes,
+para los que sirven al hombre;
+que da su alimento al ganado,
+y a las crías de cuervo que graznan.
+
+No aprecia el vigor de los caballos,
+no estima los músculos del hombre:
+el Señor aprecia a sus fieles,
+que confían en su misericordia.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
 
 const salmo149t = "Salmo 149 - ALEGRÍA DE LOS SANTOS"
 const salmo149 = `Cantad al Señor un cántico nuevo,
@@ -1245,6 +1715,33 @@ Todo ser que alienta, alabe al Señor.
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
+
+//Salmo 147 - RESTAURACIÓN DE JERUSALÉN.
+const salmo147t = "Salmo 147 - RESTAURACIÓN DE JERUSALÉN."
+const salmo147 = `Glorifica al Señor, Jerusalén;
+alaba a tu Dios, Sión:
+que ha reforzado los cerrojos de tus puertas
+y ha bendecido a tus hijos dentro de ti;
+ha puesto paz en tus fronteras,
+te sacia con flor de harina.
+
+Él envía su mensaje a la tierra,
+y su palabra corre veloz;
+manda la nieve como lana,
+esparce la escarcha como ceniza;
+
+hace caer el hielo como migajas
+y con el frío congela las aguas;
+envía una orden, y se derriten;
+sopla su aliento, y corren.
+
+Anuncia su palabra a Jacob,
+sus decretos y mandatos a Israel;
+con ninguna nación obró así,
+ni les dio a conocer sus mandatos.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
 
 
@@ -1481,6 +1978,37 @@ alabando tu nombre glorioso.
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
+
+//Cántico: ACCION DE GRACIAS DEL PUEBLO SALVADO - Is 12, 1-6
+const is_12_1_6t = "Cántico: ACCION DE GRACIAS DEL PUEBLO SALVADO - Is 12, 1-6"
+const is_12_1_6 =`Te doy gracias, Señor,
+porque estabas airado contra mí,
+pero ha cesado tu ira
+y me has consolado.
+
+Él es mi Dios y salvador:
+confiaré y no temeré,
+porque mi fuerza y mi poder es el Señor,
+él fue mi salvación.
+Y sacaréis aguas con gozo
+de las fuentes de la salvación.
+
+Aquel día, diréis:
+Dad gracias al Señor,
+invocad su nombre,
+contad a los pueblos sus hazañas,
+proclamad que su nombre es excelso.
+
+Tañed para el Señor, que hizo proezas;
+anunciadlas a toda la tierra;
+gritad jubilosos, habitantes de Sión:
+«¡Qué grande es en medio de ti
+el Santo de Israel!».
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+
 //Cántico: ANGUSTIA DE UN MORIBUNDO Y ALEGRÍA DE LA CURACIÓN Is 38, 10-14. 17-20
 const Is_26_1_4_7_9_12t = "Cántico: HIMNO DESPUÉS DE LA VICTORIA SOBRE EL ENEMIGO Is 26, 1-4. 7-9. 12"
 const Is_26_1_4_7_9_12 = `Tenemos una ciudad fuerte,
@@ -1580,6 +2108,110 @@ todos nuestros días en la casa del Señor.
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
+
+// Cántico: EL BUEN PASTOR ES EL DIOS ALTISIMO Y SAPIENTÍSIMO - Is 40, 10-17
+const is_40_10_17t = "Cántico: EL BUEN PASTOR ES EL DIOS ALTISIMO Y SAPIENTÍSIMO - Is 40, 10-17"
+const is_40_10_17 = `Mirad, el Señor Dios llega con poder,
+y su brazo manda.
+Mirad, viene con él su salario
+y su recompensa lo precede.
+
+Como un pastor que apacienta el rebaño,
+su brazo lo reúne,
+toma en brazos los corderos
+y hace recostar a las madres.
+
+¿Quién ha medido a puñados el mar
+o mensurado a palmos el cielo,
+o a cuartillos el polvo de la tierra?
+
+¿Quién ha pesado en la balanza los montes
+y en la báscula las colinas?
+¿Quién ha medido el aliento del Señor?
+¿Quién le ha sugerido su proyecto?
+
+¿Con quién se aconsejó para entenderlo,
+para que le enseñara el camino exacto,
+para que le enseñara el saber
+y le sugiriese el método inteligente?
+
+Mirad, las naciones son gotas de un cubo
+y valen lo que el polvillo de balanza.
+Mirad, las islas pesan lo que un grano,
+el Líbano no basta para leña,
+sus fieras no bastan para el holocausto.
+
+En su presencia, las naciones todas,
+como si no existieran,
+son ante él como nada y vacío.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+//Cántico: QUE LOS PUEBLOS TODOS SE CONVIERTAN AL SEÑOR. Is 45, 15-25
+const is_45_15_25t = "Cántico: QUE LOS PUEBLOS TODOS SE CONVIERTAN AL SEÑOR. Is 45, 15-25"
+const is_45_15_25 = `Es verdad: tú eres un Dios escondido,
+el Dios de Israel, el Salvador.
+Se avergüenzan y se sonrojan todos por igual,
+se van avergonzados los fabricantes de ídolos;
+mientras el Señor salva a Israel
+con una salvación perpetua,
+para que no se avergüencen ni se sonrojen
+nunca jamás.
+
+Así dice el Señor, creador del cielo
+—él es Dios;—,
+él modeló la tierra,
+la fabricó y la afianzó;
+no la creó vacía,
+sino que la formó habitable:
+«Yo soy el Señor y no hay otro.»
+
+No te hablé a escondidas,
+en un país tenebroso,
+no dije a la estirpe de Jacob:
+«Buscadme en el vacío.»
+
+Yo soy el Señor que pronuncia sentencia
+y declara lo que es justo.
+Reuníos, venid, acercaos juntos,
+supervivientes de las naciones.
+No discurren los que llevan su ídolo de madera,
+y rezan a un dios que no puede salvar.
+
+Declarad, aducid pruebas,
+que deliberen juntos:
+¿Quién anunció esto desde antiguo,
+quién lo predijo desde entonces?
+¿No fui yo, el Señor?
+—No hay otro Dios fuera de mí—.
+
+Yo soy un Dios justo y salvador,
+y no hay ninguno más.
+
+Volveos hacia mí para salvaros,
+confines de la tierra,
+pues yo soy Dios y no hay otro.
+
+Yo juro por mi nombre,
+de mi boca sale una sentencia,
+una palabra irrevocable:
+«Ante mí se doblará toda rodilla,
+por mí jurará toda lengua»,
+dirán: «Sólo el Señor
+tiene la justicia y el poder.»
+
+A él vendrán avergonzados
+los que se enardecían contra él,
+con el Señor triunfará y se gloriará
+la estirpe de Israel.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+
+
+
 //Cántico: ALEGRIA DEL PROFETA ANTE LA NUEVA JERUSALÉN Is 61, 10—62, 5
 const is_61_10_62_5t = "Cántico: ALEGRIA DEL PROFETA ANTE LA NUEVA JERUSALÉN Is 61, 10—62, 5"
 const is_61_10_62_5 = `Desbordo de gozo con el Señor,
@@ -1621,6 +2253,140 @@ la encontrará tu Dios contigo.
 
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+//Cántico: CONSUELO Y GOZO PARA LA CIUDAD SANTA. Is 66, 10-14a
+const is_66_10_14at = "Cántico: CONSUELO Y GOZO PARA LA CIUDAD SANTA. Is 66, 10-14a"
+const is_66_10_14a = `Festejad a Jerusalén, gozad con ella,
+todos los que la amáis,
+alegraos de su alegría,
+los que por ella llevasteis luto;
+a su pecho seréis alimentados
+y os saciaréis de sus consuelos
+y apuraréis las delicias
+de sus pechos abundantes.
+
+Porque así dice el Señor:
+«Yo haré derivar hacia ella
+como un río la paz,
+como un torrente en crecida,
+las riquezas de las naciones.
+
+Llevarán en brazos a sus criaturas
+y sobre las rodillas las acariciarán;
+como a un niño a quien su madre consuela,
+así os consolaré yo
+y en Jerusalén seréis consolados.
+
+Al verlo se alegrará vuestro corazón
+y vuestros huesos florecerán como un prado.»
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+//Cántico: LAMENTACIÓN DEL PUEBLO EN TIEMPO DE HAMBRE Y DE GUERRA - Jr 14,17-21
+const jr_14_17_21t = "Cántico: LAMENTACIÓN DEL PUEBLO EN TIEMPO DE HAMBRE Y DE GUERRA - Jr 14,17-21"
+const jr_14_17_21 = `Mis ojos se deshacen en lágrimas,
+día y noche no cesan:
+por la terrible desgracia de la doncella de mi pueblo,
+una herida de fuertes dolores.
+
+Salgo al campo: muertos a espada;
+entro en la ciudad: desfallecidos de hambre;
+tanto el profeta como el sacerdote
+vagan sin sentido por el país.
+
+¿Por qué has rechazado del todo a Judá?
+¿tiene asco tu garganta de Sión?
+¿Por que nos has herido sin remedio?
+Se espera la paz, y no hay bienestar,
+al tiempo de la cura sucede la turbación.
+
+Señor, reconocemos nuestra impiedad,
+la culpa de nuestros padres,
+porque pecamos contra ti.
+
+No nos rechaces, por tu nombre,
+no desprestigies tu trono glorioso;
+recuerda y no rompas tu alianza con nosotros.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+//Cántico: FELICIDAD DEL PUEBLO REDIMIDO Jr 31, 10-14
+const jr_31_10_14t = "Cántico: FELICIDAD DEL PUEBLO REDIMIDO Jr 31, 10-14"
+const jr_31_10_14 = `Escuchad, pueblos, la palabra del Señor,
+anunciadla en las islas remotas:
+«El que dispersó a Israel lo reunirá,
+lo guardará como un pastor a su rebaño;
+porque el Señor redimió a Jacob,
+lo rescató de una mano más fuerte.»
+
+Vendrán con aclamaciones a la altura de Sión,
+afluirán hacia los bienes del Señor:
+hacia el trigo y el vino y el aceite,
+y los rebaños de ovejas y de vacas;
+su alma será como un huerto regado,
+y no volverán a desfallecer.
+
+Entonces se alegrará la doncella en la danza,
+gozarán los jóvenes y los viejos;
+convertiré su tristeza en gozo,
+los alegraré y aliviaré sus penas;
+alimentaré a los sacerdotes con manjares sustanciosos,
+y mi pueblo se saciará de mis bienes.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+//Cántico: JUICIO DE DIOS - Ha 3, 2-4. 13a. 15-19
+const ha3_2_4_13a_15_19t = "Cántico: JUICIO DE DIOS - Ha 3, 2-4. 13a. 15-19"
+const ha3_2_4_13a_15_19 = `¡Señor, he oído tu fama,
+me ha impresionado tu obra!
+En medio de los años, realízala;
+en medio de los años, manifiéstala;
+en el terremoto acuérdate de la misericordia.
+
+El Señor viene de Temán;
+el Santo, del monte Farán:
+su resplandor eclipsa el cielo,
+la tierra se llena de su alabanza;
+su brillo es como el día,
+su mano destella velando su poder.
+
+Sales a salvar a tu pueblo,
+a salvar a tu ungido;
+pisas el mar con tus caballos,
+revolviendo las aguas del océano.
+
+Lo escuché y temblaron mis entrañas,
+al oírlo se estremecieron mis labios;
+me entró un escalofrío por los huesos,
+vacilaban mis piernas al andar.
+Tranquilo espero el día de la angustia
+que sobreviene al pueblo que nos oprime.
+
+Aunque la higuera no echa yemas
+y las viñas no tienen fruto,
+aunque el olivo olvida su aceituna
+y los campos no dan cosechas,
+aunque se acaban las ovejas del redil
+y no quedan vacas en el establo,
+yo exultaré con el Señor,
+me gloriaré en Dios mi salvador.
+
+El Señor soberano es mi fuerza,
+él me da piernas de gacela
+y me hace caminar por las alturas.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+
+
+
+
+
+
 
 const canticoZacariast = "Cántico de Zacarías. EL MESÍAS Y SU PRECURSOR - Lc 1, 68-79"
 const canticoZacarias = `Bendito sea el Señor, Dios de Israel,

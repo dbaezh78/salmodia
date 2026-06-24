@@ -140,3 +140,66 @@ const antInv = "Ant Inv. "
 /* Ant 1. */ const tos4LAml1 = "Mi corazón está firme, Dios mío, mi corazón está firme."
 /* Ant 2. */ const tos4LAml2 = "El Señor me ha revestido de justicia y santidad."
 /* Ant 3. */ const tos4LAml3 = "Alabaré al Señor mientras viva."
+
+/* Ant Inv.*/const tos1LAjsI = "Venid, adoremos al Señor, porque él es nuestro Dios."
+/* Ant 1. */ const tos1LAjs1 = "Despertad, cítara y arpa; despertaré a la aurora."
+/* Ant 2. */ const tos1LAjs2 = "«Mi pueblo se saciará de mis bienes», dice el Señor."
+/* Ant 3. */ const tos1LAjs3 = "Grande es el Señor y muy digno de alabanza en la ciudad de nuestro Dios."
+
+/* Ant Inv.*/const tos2LAjsI = "Entrad en la presencia del Señor con aclamaciones."
+/* Ant 1. */ const tos2LAjs1 = "Despierta tu poder, Señor, y ven a salvarnos."
+/* Ant 2. */ const tos2LAjs2 = "Anunciad a toda la tierra que el señor hizo proezas."
+/* Ant 3. */ const tos2LAjs3 = "Aclamad a Dios, nuestra fuerza."
+
+/* Ant Inv.*/const tos3LAjsI = "Venid, adoremos al Señor, porque él es nuestro Dios."
+/* Ant 1. */ const tos3LAjs1 = "¡Qué pregón tan glorioso para ti, ciudad de Dios!"
+/* Ant 2. */ const tos3LAjs2 = "El Señor llega con poder, y su recompensa lo precede."
+/* Ant 3. */ const tos3LAjs3 = "Ensalzad al Señor, Dios nuestro, postraos ante el estrado de sus pies"
+
+/* Ant Inv.*/const tos4LAjsI = "Entrad en la presencia del Señor con aclamaciones."
+/* Ant 1. */ const tos4LAjs1 = "En la mañana, Señor, hazme escuchar tu gracia."
+/* Ant 2. */ const tos4LAjs2 = "El Señor hará derivar hacia Jerusalén como un río la paz."
+/* Ant 3. */ const tos4LAjs3 = "Nuestro Dios merece una alabanza armoniosa."
+
+// VIERNES
+/* Ant Inv.*/const tos1LAvsI = "Dad gracias al Señor, porque es eterna su misericordia."
+/* Ant 1. */ const tos1LAvs1 = "Aceptarás los sacrificios, ofrendas y holocaustos, sobre tu altar, Señor."
+/* Ant 2. */ const tos1LAvs2 = "Con el Señor triunfará y se gloriará la estirpe de Israel."
+/* Ant 3. */ const tos1LAvs3 = "Entrad en la presencia del Señor con aclamaciones."
+
+/* Ant Inv.*/const tos2LAvsI = "El Señor es bueno, bendecid su nombre."
+/* Ant 1. */ const tos2LAvs1 = "Un corazón quebrantado y humillado, tú no lo desprecias, Señor."
+/* Ant 2. */ const tos2LAvs2 = "En tu juicio, Señor, acuérdate de la misericordia."
+/* Ant 3. */ const tos2LAvs3 = "Glorifica al Señor, Jerusalén."
+
+/* Ant Inv.*/const tos3LAvsI = "Dad gracias al Señor, porque es eterna su misericordia."
+/* Ant 1. */ const tos3LAvs1 = "Contra ti, contra ti solo pequé, Señor; ten misericordia de mí."
+/* Ant 2. */ const tos3LAvs2 = "Reconocemos, Señor, nuestra impiedad; hemos pecado contra ti."
+/* Ant 3. */ const tos3LAvs3 = "El Señor es Dios y nosotros somos su pueblo y ovejas de su rebaño."
+
+/* Ant Inv.*/const tos4LAvsI = "El Señor es bueno, bendecid su nombre."
+/* Ant 1. */ const tos4LAvs1 = "Oh Dios, crea en mí un corazón puro, renuévame por dentro con Espíritu firme."
+/* Ant 2. */ const tos4LAvs2 = "Alégrate, Jerusalén, porque en ti serán congregados todos los pueblos."
+/* Ant 3. */ const tos4LAvs3 = "Sión, alaba a tu Dios, que envía su mensaje a la tierra."
+
+
+// SABADO   
+/* Ant Inv.*/const tos1LAsbI = ""
+/* Ant 1. */ const tos1LAsb1 = ""
+/* Ant 2. */ const tos1LAsb2 = ""
+/* Ant 3. */ const tos1LAsb3 = ""
+
+/* Ant Inv.*/const tos2LAsbI = ""
+/* Ant 1. */ const tos2LAsb1 = ""
+/* Ant 2. */ const tos2LAsb2 = ""
+/* Ant 3. */ const tos2LAsb3 = ""
+
+/* Ant Inv.*/const tos3LAsbI = ""
+/* Ant 1. */ const tos3LAsb1 = ""
+/* Ant 2. */ const tos3LAsb2 = ""
+/* Ant 3. */ const tos3LAsb3 = ""
+
+/* Ant Inv.*/const tos4LAsbI = ""
+/* Ant 1. */ const tos4LAsb1 = ""
+/* Ant 2. */ const tos4LAsb2 = ""
+/* Ant 3. */ const tos4LAsb3 = ""

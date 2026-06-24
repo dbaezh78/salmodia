@@ -166,12 +166,29 @@ const tos3LAml_cE = "Realiza, Señor, con nosotros la misericordia y recuerda tu
 const tos4LAml_cE = "Sirvamos al Señor con santidad todos nuestros días."
 
 /************************************** */
-// CANTICO EVANGELIO PARA MIERCOLES
+// CANTICO EVANGELIO PARA JUEVES
 /************************************** */
-const tos1LAjs_cE = ""
-const tos2LAjs_cE = ""
-const tos3LAjs_cE = ""
-const tos4LAjs_cE = ""
+const tos1LAjs_cE = "Sirvamos al Señor con santidad y nos librará de la mano de nuestros enemigos."
+const tos2LAjs_cE = "Anuncia, Señor, la salvación a tu pueblo y perdónanos nuestros pecados."
+const tos3LAjs_cE = "Sirvamos al Señor con santidad y nos librará de la mano de nuestros enemigos."
+const tos4LAjs_cE = "Anuncia, Señor, la salvación a tu pueblo y perdónanos nuestros pecados."
+
+/************************************** */
+// CANTICO EVANGELIO PARA VIERNES
+/************************************** */
+const tos1LAvs_cE = "El Señor ha visitado y redimido a su pueblo."
+const tos2LAvs_cE = "Por la entrañable misericordia de nuestro Dios, nos visitará el sol que nace de lo alto."
+const tos3LAvs_cE = "El Señor ha visitado y redimido a su pueblo."
+const tos4LAvs_cE = "Por la entrañable misericordia de nuestro Dios, nos visitará el sol que nace de lo alto."
+
+
+/************************************** */
+// CANTICO EVANGELIO PARA SABADO
+/************************************** */
+const tos1LAsb_cE = ""
+const tos2LAsb_cE = ""
+const tos3LAsb_cE = ""
+const tos4LAsb_cE = ""
 
 
 // ====== MOTOR DE SELECCIÓN DE AÑO LITÚRGICO PARA DOMINGOS ======

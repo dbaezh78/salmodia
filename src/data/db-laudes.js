@@ -592,8 +592,8 @@ const s1TOmt1 = {
             SalmoUNO:                       salmo23,
 // Salmodia 2
             Ant2:                           tos1LAmt2,
-            SalmoDOSt:                      tb13_1_10t,
-            SalmoDOS:                       tb13_1_10,
+            SalmoDOSt:                      tb_13_1_10t,
+            SalmoDOS:                       tb_13_1_10,
 // Salmodia 3
             Ant3:                           tos1LAmt3,
             SalmoTRESt:                     salmo32t,
@@ -849,6 +849,9 @@ const s4TOmt1 = {
 ********* APLICA PARA LOS MARTES DE LA SEMANA 4,8,12,16,20,24,28,32 ********
 ***************************************************************************/
 
+//╔════════════════════════════════════════════════════════╗
+//║                       MIERCOLES                        ║
+//╚════════════════════════════════════════════════════════╝
 
 //******************************** MIERCOLES ********************************/
 
@@ -1143,7 +1146,890 @@ const s4TOml1 = {
 ********************* SEMANA 4 TIEMPO ORDINARIO MIERCOLES *********************
 ********* APLICA PARA LOS MIERCOLES DE LA SEMANA 4,8,12,16,20,24,28,32 ********
 ***************************************************************************/
+//╔════════════════════════════════════════════════════════╗
+//║                         JUEVES                         ║
+//╚════════════════════════════════════════════════════════╝
 
+/**************************************************************************
+******************** SEMANA 1 TIEMPO ORDINARIO JUEVES *********************
+******** APLICA PARA LOS JUEVES DE LA SEMANA 1,5,9,13,17,21,25,29,33 *******
+***************************************************************************/
+const s1TOjs1 = {
+        tt:                                 "LAUDES",
+        sub:                                "(Oración de la mañana)",
+        invitatorio: {
+            titulo:                         "INVITATORIO",
+            instruccion:                    instruccion,
+            v:                              invitatorio1,
+            r:                              invitatorio2,
+        },
+
+// Invitatorio
+        antifonaInvitatorio:                tos1LAjsI,
+        salmoInvitatorio: {
+            titulo:                         salmo94t,
+            subtitulo:                      invitacion,
+            contentInv:                     salmo94,
+// Antifona de Entrada
+            antifonaInvitatorio:            tos1LAjsI,
+            antifonaInvitatorio_Salida:     tos1LAjsI,
+// Himno
+            himnot:                         htos1LAjst,
+            himno:                          htos1LAjs,
+        },
+
+        Salmodias: {
+// Salmodia 1    
+            Ant1:                           tos1LAjs1,
+            SalmoUNOt:                      salmo56t,
+            SalmoUNO:                       salmo56,
+// Salmodia 2
+            Ant2:                           tos1LAjs2,
+            SalmoDOSt:                      jr_31_10_14t,
+            SalmoDOS:                       jr_31_10_14,
+// Salmodia 3
+            Ant3:                           tos1LAjs3,
+            SalmoTRESt:                     salmo47t,
+            SalmoTRES:                      salmo47,       },
+// Lectura Breve
+        LecturaBreve: {
+            LecturaCita:                    tos1LAjs_lbt,
+            LecturaTexto:                   tos1LAjs_lb,
+//RESPONSORIO BREVE
+            responsorio1:                   tos1LAjs_rb,
+            responsorio2:                   tos1LAjs_rb,
+            responsorio3:                   tos1LAjs_rb1,
+            responsorio4:                   tos1LAjs_rb2,
+            gloria:                         gloria,
+            responsorio5:                   tos1LAjs_rb,    },
+
+//CANTICO EVANGELICO
+
+        cEvan_Conclusion: {
+            cEvangelicoAnt:                 tos1LAjs_cE,
+            canticoZacariast:               canticoZacariast,
+            canticoZacarias:                canticoZacarias,
+
+// PRECES
+            preces1:                        tos1LAjs_preces1,
+            preces2:                        tos1LAjs_preces2,
+// PADRE NUESTRO Y ORACIONES CONCUSIVAS
+            Padren:                         "Padre nuestro...",
+            oracion:                        tos1LAjs_oracion,
+            Conclusion1:                    Conclusion1,
+            Conclusion2:                    Conclusion2,
+        }};
+
+/**************************************************************************
+********************* SEMANA 2 TIEMPO ORDINARIO JUEVES *********************
+******** APLICA PARA LOS JUEVES DE LA SEMANA 1,5,9,13,17,21,25,29,33 *******
+***************************************************************************/
+const s2TOjs1 = {
+        tt:                                 "LAUDES",
+        sub:                                "(Oración de la mañana)",
+        invitatorio: {
+            titulo:                         "INVITATORIO",
+            instruccion:                    instruccion,
+            v:                              invitatorio1,
+            r:                              invitatorio2,
+        },
+
+// Invitatorio
+        antifonaInvitatorio:                tos2LAjsI,
+        salmoInvitatorio: {
+            titulo:                         salmo94t,
+            subtitulo:                      invitacion,
+            contentInv:                     salmo94,
+// Antifona de Entrada
+            antifonaInvitatorio:            tos2LAjsI,
+            antifonaInvitatorio_Salida:     tos2LAjsI,
+// Himno
+            himnot:                         htos2LAjst,
+            himno:                          htos2LAjs,
+        },
+
+        Salmodias: {
+// Salmodia 1    
+            Ant1:                           tos2LAjs1,
+            SalmoUNOt:                      salmo79t,
+            SalmoUNO:                       salmo79,
+// Salmodia 2
+            Ant2:                           tos2LAjs2,
+            SalmoDOSt:                      is_12_1_6t,
+            SalmoDOS:                       is_12_1_6,
+// Salmodia 3
+            Ant3:                           tos2LAjs3,
+            SalmoTRESt:                     salmo80t,
+            SalmoTRES:                      salmo80,       },
+// Lectura Breve
+        LecturaBreve: {
+            LecturaCita:                    tos2LAjs_lbt,
+            LecturaTexto:                   tos2LAjs_lb,
+//RESPONSORIO BREVE
+            responsorio1:                   tos2LAjs_rb,
+            responsorio2:                   tos2LAjs_rb,
+            responsorio3:                   tos2LAjs_rb1,
+            responsorio4:                   tos2LAjs_rb2,
+            gloria:                         gloria,
+            responsorio5:                   tos2LAjs_rb,    },
+
+//CANTICO EVANGELICO
+
+        cEvan_Conclusion: {
+            cEvangelicoAnt:                 tos2LAjs_cE,
+            canticoZacariast:               canticoZacariast,
+            canticoZacarias:                canticoZacarias,
+
+// PRECES
+            preces1:                        tos2LAjs_preces1,
+            preces2:                        tos2LAjs_preces2,
+// PADRE NUESTRO Y ORACIONES CONCUSIVAS
+            Padren:                         "Padre nuestro...",
+            oracion:                        tos2LAjs_oracion,
+            Conclusion1:                    Conclusion1,
+            Conclusion2:                    Conclusion2,
+        }};
+/**************************************************************************
+********************* SEMANA 2 TIEMPO ORDINARIO JUEVES *********************
+******** APLICA PARA LOS JUEVES DE LA SEMANA 1,5,9,13,17,21,25,29,33 *******
+***************************************************************************/
+
+/**************************************************************************
+********************* SEMANA 3 TIEMPO ORDINARIO JUEVES *********************
+********* APLICA PARA LOS JUEVES DE LA SEMANA 3,7,11,15,19,23,27,31 ********
+***************************************************************************/
+const s3TOjs1 = {
+        tt:                                 "LAUDES",
+        sub:                                "(Oración de la mañana)",
+        invitatorio: {
+            titulo:                         "INVITATORIO",
+            instruccion:                    instruccion,
+            v:                              invitatorio1,
+            r:                              invitatorio2,
+        },
+
+// Invitatorio
+        antifonaInvitatorio:                tos3LAjsI,
+        salmoInvitatorio: {
+            titulo:                         salmo94t,
+            subtitulo:                      invitacion,
+            contentInv:                     salmo94,
+// Antifona de Entrada
+            antifonaInvitatorio:            tos3LAjsI,
+            antifonaInvitatorio_Salida:     tos3LAjsI,
+// Himno
+            himnot:                         htos3LAjst,
+            himno:                          htos3LAjs,
+        },
+
+        Salmodias: {
+// Salmodia 1    
+            Ant1:                           tos3LAjs1,
+            SalmoUNOt:                      salmo86t,
+            SalmoUNO:                       salmo86,
+// Salmodia 2
+            Ant2:                           tos3LAjs2,
+            SalmoDOSt:                      is_40_10_17t,
+            SalmoDOS:                       is_40_10_17,
+// Salmodia 3
+            Ant3:                           tos3LAjs3,
+            SalmoTRESt:                     salmo98t,
+            SalmoTRES:                      salmo98,       },
+// Lectura Breve
+        LecturaBreve: {
+            LecturaCita:                    tos3LAjs_lbt,
+            LecturaTexto:                   tos3LAjs_lb,
+//RESPONSORIO BREVE
+            responsorio1:                   tos3LAjs_rb,
+            responsorio2:                   tos3LAjs_rb,
+            responsorio3:                   tos3LAjs_rb1,
+            responsorio4:                   tos3LAjs_rb2,
+            gloria:                         gloria,
+            responsorio5:                   tos3LAjs_rb,    },
+
+//CANTICO EVANGELICO
+
+        cEvan_Conclusion: {
+            cEvangelicoAnt:                 tos3LAjs_cE,
+            canticoZacariast:               canticoZacariast,
+            canticoZacarias:                canticoZacarias,
+
+// PRECES
+            preces1:                        tos3LAjs_preces1,
+            preces2:                        tos3LAjs_preces2,
+// PADRE NUESTRO Y ORACIONES CONCUSIVAS
+            Padren:                         "Padre nuestro...",
+            oracion:                        tos3LAjs_oracion,
+            Conclusion1:                    Conclusion1,
+            Conclusion2:                    Conclusion2,
+        }};
+/**************************************************************************
+********************* SEMANA 3 TIEMPO ORDINARIO JUEVES *********************
+********* APLICA PARA LOS JUEVES DE LA SEMANA 3,7,11,15,19,23,27,31 ********
+***************************************************************************/
+
+/**************************************************************************
+********************* SEMANA 4 TIEMPO ORDINARIO JUEVES *********************
+********* APLICA PARA LOS JUEVES DE LA SEMANA 4,8,12,16,20,24,28,32 ********
+***************************************************************************/
+const s4TOjs1 = {
+        tt:                                 "LAUDES",
+        sub:                                "(Oración de la mañana)",
+        invitatorio: {
+            titulo:                         "INVITATORIO",
+            instruccion:                    instruccion,
+            v:                              invitatorio1,
+            r:                              invitatorio2,
+        },
+
+// Invitatorio
+        antifonaInvitatorio:                tos4LAjsI,
+        salmoInvitatorio: {
+            titulo:                         salmo94t,
+            subtitulo:                      invitacion,
+            contentInv:                     salmo94,
+// Antifona de Entrada
+            antifonaInvitatorio:            tos4LAjsI,
+            antifonaInvitatorio_Salida:     tos4LAjsI,
+// Himno
+            himnot:                         htos4LAjst,
+            himno:                          htos4LAjs,
+        },
+
+        Salmodias: {
+// Salmodia 1    
+            Ant1:                           tos4LAjs1,
+            SalmoUNOt:                      salmo142_1_11t,
+            SalmoUNO:                       salmo142_1_11,
+// Salmodia 2
+            Ant2:                           tos4LAjs2,
+            SalmoDOSt:                      is_66_10_14at,
+            SalmoDOS:                       is_66_10_14a,
+// Salmodia 3
+            Ant3:                           tos4LAjs3,
+            SalmoTRESt:                     salmo146t,
+            SalmoTRES:                      salmo146,       },
+// Lectura Breve
+        LecturaBreve: {
+            LecturaCita:                    tos4LAjs_lbt,
+            LecturaTexto:                   tos4LAjs_lb,
+//RESPONSORIO BREVE
+            responsorio1:                   tos4LAjs_rb,
+            responsorio2:                   tos4LAjs_rb,
+            responsorio3:                   tos4LAjs_rb1,
+            responsorio4:                   tos4LAjs_rb2,
+            gloria:                         gloria,
+            responsorio5:                   tos4LAjs_rb,    },
+
+//CANTICO EVANGELICO
+
+        cEvan_Conclusion: {
+            cEvangelicoAnt:                 tos4LAjs_cE,
+            canticoZacariast:               canticoZacariast,
+            canticoZacarias:                canticoZacarias,
+
+// PRECES
+            preces1:                        tos4LAjs_preces1,
+            preces2:                        tos4LAjs_preces2,
+// PADRE NUESTRO Y ORACIONES CONCUSIVAS
+            Padren:                         "Padre nuestro...",
+            oracion:                        tos4LAjs_oracion,
+            Conclusion1:                    Conclusion1,
+            Conclusion2:                    Conclusion2,
+        }};
+/**************************************************************************
+********************* SEMANA 4 TIEMPO ORDINARIO JUEVES *********************
+********* APLICA PARA LOS JUEVES DE LA SEMANA 4,8,12,16,20,24,28,32 ********
+***************************************************************************/
+
+
+//******************************** VIERNES ********************************/
+
+/**************************************************************************
+******************** SEMANA 1 TIEMPO ORDINARIO VIERNES *********************
+******** APLICA PARA LOS VIERNES DE LA SEMANA 1,5,9,13,17,21,25,29,33 *******
+***************************************************************************/
+const s1TOvs1 = {
+        tt:                                 "LAUDES",
+        sub:                                "(Oración de la mañana)",
+        invitatorio: {
+            titulo:                         "INVITATORIO",
+            instruccion:                    instruccion,
+            v:                              invitatorio1,
+            r:                              invitatorio2,
+        },
+
+// Invitatorio
+        antifonaInvitatorio:                tos1LAvsI,
+        salmoInvitatorio: {
+            titulo:                         salmo94t,
+            subtitulo:                      invitacion,
+            contentInv:                     salmo94,
+// Antifona de Entrada
+            antifonaInvitatorio:            tos1LAvsI,
+            antifonaInvitatorio_Salida:     tos1LAvsI,
+// Himno
+            himnot:                         htos1LAvst,
+            himno:                          htos1LAvs,
+        },
+
+        Salmodias: {
+// Salmodia 1    
+            Ant1:                           tos1LAvs1,
+            SalmoUNOt:                      salmo50t,
+            SalmoUNO:                       salmo50,
+// Salmodia 2
+            Ant2:                           tos1LAvs2,
+            SalmoDOSt:                      is_45_15_25t,
+            SalmoDOS:                       is_45_15_25,
+// Salmodia 3
+            Ant3:                           tos1LAvs3,
+            SalmoTRESt:                     salmo99t,
+            SalmoTRES:                      salmo99,       },
+// Lectura Breve
+        LecturaBreve: {
+            LecturaCita:                    tos1LAvs_lbt,
+            LecturaTexto:                   tos1LAvs_lb,
+//RESPONSORIO BREVE
+            responsorio1:                   tos1LAvs_rb,
+            responsorio2:                   tos1LAvs_rb,
+            responsorio3:                   tos1LAvs_rb1,
+            responsorio4:                   tos1LAvs_rb2,
+            gloria:                         gloria,
+            responsorio5:                   tos1LAvs_rb,    },
+
+//CANTICO EVANGELICO
+
+        cEvan_Conclusion: {
+            cEvangelicoAnt:                 tos1LAvs_cE,
+            canticoZacariast:               canticoZacariast,
+            canticoZacarias:                canticoZacarias,
+
+// PRECES
+            preces1:                        tos1LAvs_preces1,
+            preces2:                        tos1LAvs_preces2,
+// PADRE NUESTRO Y ORACIONES CONCUSIVAS
+            Padren:                         "Padre nuestro...",
+            oracion:                        tos1LAvs_oracion,
+            Conclusion1:                    Conclusion1,
+            Conclusion2:                    Conclusion2,
+        }};
+
+/**************************************************************************
+********************* SEMANA 2 TIEMPO ORDINARIO VIERNES *********************
+******** APLICA PARA LOS VIERNES DE LA SEMANA 1,5,9,13,17,21,25,29,33 *******
+***************************************************************************/
+const s2TOvs1 = {
+        tt:                                 "LAUDES",
+        sub:                                "(Oración de la mañana)",
+        invitatorio: {
+            titulo:                         "INVITATORIO",
+            instruccion:                    instruccion,
+            v:                              invitatorio1,
+            r:                              invitatorio2,
+        },
+
+// Invitatorio
+        antifonaInvitatorio:                tos2LAvsI,
+        salmoInvitatorio: {
+            titulo:                         salmo94t,
+            subtitulo:                      invitacion,
+            contentInv:                     salmo94,
+// Antifona de Entrada
+            antifonaInvitatorio:            tos2LAvsI,
+            antifonaInvitatorio_Salida:     tos2LAvsI,
+// Himno
+            himnot:                         htos2LAvst,
+            himno:                          htos2LAvs,
+        },
+
+        Salmodias: {
+// Salmodia 1    
+            Ant1:                           tos2LAvs1,
+            SalmoUNOt:                      salmo50t,
+            SalmoUNO:                       salmo50,
+// Salmodia 2
+            Ant2:                           tos2LAvs2,
+            SalmoDOSt:                      ha3_2_4_13a_15_19t,
+            SalmoDOS:                       ha3_2_4_13a_15_19,
+// Salmodia 3
+            Ant3:                           tos2LAvs3,
+            SalmoTRESt:                     salmo147t,
+            SalmoTRES:                      salmo147,       },
+// Lectura Breve
+        LecturaBreve: {
+            LecturaCita:                    tos2LAvs_lbt,
+            LecturaTexto:                   tos2LAvs_lb,
+//RESPONSORIO BREVE
+            responsorio1:                   tos2LAvs_rb,
+            responsorio2:                   tos2LAvs_rb,
+            responsorio3:                   tos2LAvs_rb1,
+            responsorio4:                   tos2LAvs_rb2,
+            gloria:                         gloria,
+            responsorio5:                   tos2LAvs_rb,    },
+
+//CANTICO EVANGELICO
+
+        cEvan_Conclusion: {
+            cEvangelicoAnt:                 tos2LAvs_cE,
+            canticoZacariast:               canticoZacariast,
+            canticoZacarias:                canticoZacarias,
+
+// PRECES
+            preces1:                        tos2LAvs_preces1,
+            preces2:                        tos2LAvs_preces2,
+// PADRE NUESTRO Y ORACIONES CONCUSIVAS
+            Padren:                         "Padre nuestro...",
+            oracion:                        tos2LAvs_oracion,
+            Conclusion1:                    Conclusion1,
+            Conclusion2:                    Conclusion2,
+        }};
+/**************************************************************************
+********************* SEMANA 2 TIEMPO ORDINARIO VIERNES *********************
+******** APLICA PARA LOS VIERNES DE LA SEMANA 1,5,9,13,17,21,25,29,33 *******
+***************************************************************************/
+
+/**************************************************************************
+********************* SEMANA 3 TIEMPO ORDINARIO VIERNES *********************
+********* APLICA PARA LOS VIERNES DE LA SEMANA 3,7,11,15,19,23,27,31 ********
+***************************************************************************/
+const s3TOvs1 = {
+        tt:                                 "LAUDES",
+        sub:                                "(Oración de la mañana)",
+        invitatorio: {
+            titulo:                         "INVITATORIO",
+            instruccion:                    instruccion,
+            v:                              invitatorio1,
+            r:                              invitatorio2,
+        },
+
+// Invitatorio
+        antifonaInvitatorio:                tos3LAvsI,
+        salmoInvitatorio: {
+            titulo:                         salmo94t,
+            subtitulo:                      invitacion,
+            contentInv:                     salmo94,
+// Antifona de Entrada
+            antifonaInvitatorio:            tos3LAvsI,
+            antifonaInvitatorio_Salida:     tos3LAvsI,
+// Himno
+            himnot:                         htos3LAvst,
+            himno:                          htos3LAvs,
+        },
+
+        Salmodias: {
+// Salmodia 1    
+            Ant1:                           tos3LAvs1,
+            SalmoUNOt:                      salmo50t,
+            SalmoUNO:                       salmo50,
+// Salmodia 2
+            Ant2:                           tos3LAvs2,
+            SalmoDOSt:                      jr_14_17_21t,
+            SalmoDOS:                       jr_14_17_21,
+// Salmodia 3
+            Ant3:                           tos3LAvs3,
+            SalmoTRESt:                     salmo99t,
+            SalmoTRES:                      salmo99,       },
+// Lectura Breve
+        LecturaBreve: {
+            LecturaCita:                    tos3LAvs_lbt,
+            LecturaTexto:                   tos3LAvs_lb,
+//RESPONSORIO BREVE
+            responsorio1:                   tos3LAvs_rb,
+            responsorio2:                   tos3LAvs_rb,
+            responsorio3:                   tos3LAvs_rb1,
+            responsorio4:                   tos3LAvs_rb2,
+            gloria:                         gloria,
+            responsorio5:                   tos3LAvs_rb,    },
+
+//CANTICO EVANGELICO
+
+        cEvan_Conclusion: {
+            cEvangelicoAnt:                 tos3LAvs_cE,
+            canticoZacariast:               canticoZacariast,
+            canticoZacarias:                canticoZacarias,
+
+// PRECES
+            preces1:                        tos3LAvs_preces1,
+            preces2:                        tos3LAvs_preces2,
+// PADRE NUESTRO Y ORACIONES CONCUSIVAS
+            Padren:                         "Padre nuestro...",
+            oracion:                        tos3LAvs_oracion,
+            Conclusion1:                    Conclusion1,
+            Conclusion2:                    Conclusion2,
+        }};
+/**************************************************************************
+********************* SEMANA 3 TIEMPO ORDINARIO VIERNES *********************
+********* APLICA PARA LOS VIERNES DE LA SEMANA 3,7,11,15,19,23,27,31 ********
+***************************************************************************/
+
+/**************************************************************************
+********************* SEMANA 4 TIEMPO ORDINARIO VIERNES *********************
+********* APLICA PARA LOS VIERNES DE LA SEMANA 4,8,12,16,20,24,28,32 ********
+***************************************************************************/
+const s4TOvs1 = {
+        tt:                                 "LAUDES",
+        sub:                                "(Oración de la mañana)",
+        invitatorio: {
+            titulo:                         "INVITATORIO",
+            instruccion:                    instruccion,
+            v:                              invitatorio1,
+            r:                              invitatorio2,
+        },
+
+// Invitatorio
+        antifonaInvitatorio:                tos4LAvsI,
+        salmoInvitatorio: {
+            titulo:                         salmo94t,
+            subtitulo:                      invitacion,
+            contentInv:                     salmo94,
+// Antifona de Entrada
+            antifonaInvitatorio:            tos4LAvsI,
+            antifonaInvitatorio_Salida:     tos4LAvsI,
+// Himno
+            himnot:                         htos4LAvst,
+            himno:                          htos4LAvs,
+        },
+
+        Salmodias: {
+// Salmodia 1    
+            Ant1:                           tos4LAvs1,
+            SalmoUNOt:                      salmo50t,
+            SalmoUNO:                       salmo50,
+// Salmodia 2
+            Ant2:                           tos4LAvs2,
+            SalmoDOSt:                      tb_13_10_15_17_19t,
+            SalmoDOS:                       tb_13_10_15_17_19,
+// Salmodia 3
+            Ant3:                           tos4LAvs3,
+            SalmoTRESt:                     salmo147t,
+            SalmoTRES:                      salmo147,       },
+// Lectura Breve
+        LecturaBreve: {
+            LecturaCita:                    tos4LAvs_lbt,
+            LecturaTexto:                   tos4LAvs_lb,
+//RESPONSORIO BREVE
+            responsorio1:                   tos4LAvs_rb,
+            responsorio2:                   tos4LAvs_rb,
+            responsorio3:                   tos4LAvs_rb1,
+            responsorio4:                   tos4LAvs_rb2,
+            gloria:                         gloria,
+            responsorio5:                   tos4LAvs_rb,    },
+
+//CANTICO EVANGELICO
+
+        cEvan_Conclusion: {
+            cEvangelicoAnt:                 tos4LAvs_cE,
+            canticoZacariast:               canticoZacariast,
+            canticoZacarias:                canticoZacarias,
+
+// PRECES
+            preces1:                        tos4LAvs_preces1,
+            preces2:                        tos4LAvs_preces2,
+// PADRE NUESTRO Y ORACIONES CONCUSIVAS
+            Padren:                         "Padre nuestro...",
+            oracion:                        tos4LAvs_oracion,
+            Conclusion1:                    Conclusion1,
+            Conclusion2:                    Conclusion2,
+        }};
+/**************************************************************************
+********************* SEMANA 4 TIEMPO ORDINARIO VIERNES *********************
+********* APLICA PARA LOS VIERNES DE LA SEMANA 4,8,12,16,20,24,28,32 ********
+***************************************************************************/
+
+//******************************** SABADO ********************************/
+
+/**************************************************************************
+******************** SEMANA 1 TIEMPO ORDINARIO SABADO *********************
+******** APLICA PARA LOS SABADO DE LA SEMANA 1,5,9,13,17,21,25,29,33 *******
+***************************************************************************/
+const s1TOsb1 = {
+        tt:                                 "LAUDES",
+        sub:                                "(Oración de la mañana)",
+        invitatorio: {
+            titulo:                         "INVITATORIO",
+            instruccion:                    instruccion,
+            v:                              invitatorio1,
+            r:                              invitatorio2,
+        },
+
+// Invitatorio
+        antifonaInvitatorio:                tos1LAsbI,
+        salmoInvitatorio: {
+            titulo:                         salmo94t,
+            subtitulo:                      invitacion,
+            contentInv:                     salmo94,
+// Antifona de Entrada
+            antifonaInvitatorio:            tos1LAsbI,
+            antifonaInvitatorio_Salida:     tos1LAsbI,
+// Himno
+            himnot:                         htos1LAsbt,
+            himno:                          htos1LAsb,
+        },
+
+        Salmodias: {
+// Salmodia 1    
+            Ant1:                           tos1LAsb1,
+            SalmoUNOt:                      salmo23t,
+            SalmoUNO:                       salmo23,
+// Salmodia 2
+            Ant2:                           tos1LAsb2,
+            SalmoDOSt:                      tb_13_1_10t,
+            SalmoDOS:                       tb_13_1_10,
+// Salmodia 3
+            Ant3:                           tos1LAsb3,
+            SalmoTRESt:                     salmo32t,
+            SalmoTRES:                      salmo32,       },
+// Lectura Breve
+        LecturaBreve: {
+            LecturaCita:                    tos1LAsb_lbt,
+            LecturaTexto:                   tos1LAsb_lb,
+//RESPONSORIO BREVE
+            responsorio1:                   tos1LAsb_rb,
+            responsorio2:                   tos1LAsb_rb,
+            responsorio3:                   tos1LAsb_rb1,
+            responsorio4:                   tos1LAsb_rb2,
+            gloria:                         gloria,
+            responsorio5:                   tos1LAsb_rb,    },
+
+//CANTICO EVANGELICO
+
+        cEvan_Conclusion: {
+            cEvangelicoAnt:                 tos1LAsb_cE,
+            canticoZacariast:               canticoZacariast,
+            canticoZacarias:                canticoZacarias,
+
+// PRECES
+            preces1:                        tos1LAsb_preces1,
+            preces2:                        tos1LAsb_preces2,
+// PADRE NUESTRO Y ORACIONES CONCUSIVAS
+            Padren:                         "Padre nuestro...",
+            oracion:                        tos1LAsb_oracion,
+            Conclusion1:                    Conclusion1,
+            Conclusion2:                    Conclusion2,
+        }};
+
+/**************************************************************************
+********************* SEMANA 2 TIEMPO ORDINARIO SABADO *********************
+******** APLICA PARA LOS SABADO DE LA SEMANA 1,5,9,13,17,21,25,29,33 *******
+***************************************************************************/
+const s2TOsb1 = {
+        tt:                                 "LAUDES",
+        sub:                                "(Oración de la mañana)",
+        invitatorio: {
+            titulo:                         "INVITATORIO",
+            instruccion:                    instruccion,
+            v:                              invitatorio1,
+            r:                              invitatorio2,
+        },
+
+// Invitatorio
+        antifonaInvitatorio:                tos2LAsbI,
+        salmoInvitatorio: {
+            titulo:                         salmo94t,
+            subtitulo:                      invitacion,
+            contentInv:                     salmo94,
+// Antifona de Entrada
+            antifonaInvitatorio:            tos2LAsbI,
+            antifonaInvitatorio_Salida:     tos2LAsbI,
+// Himno
+            himnot:                         htos2LAsbt,
+            himno:                          htos2LAsb,
+        },
+
+        Salmodias: {
+// Salmodia 1    
+            Ant1:                           tos2LAsb1,
+            SalmoUNOt:                      salmo42t,
+            SalmoUNO:                       salmo42,
+// Salmodia 2
+            Ant2:                           tos2LAsb2,
+            SalmoDOSt:                      is_38_10_14_17_20t,
+            SalmoDOS:                       is_38_10_14_17_20,
+// Salmodia 3
+            Ant3:                           tos2LAsb3,
+            SalmoTRESt:                     salmo64t,
+            SalmoTRES:                      salmo64,       },
+// Lectura Breve
+        LecturaBreve: {
+            LecturaCita:                    tos2LAsb_lbt,
+            LecturaTexto:                   tos2LAsb_lb,
+//RESPONSORIO BREVE
+            responsorio1:                   tos2LAsb_rb,
+            responsorio2:                   tos2LAsb_rb,
+            responsorio3:                   tos2LAsb_rb1,
+            responsorio4:                   tos2LAsb_rb2,
+            gloria:                         gloria,
+            responsorio5:                   tos2LAsb_rb,    },
+
+//CANTICO EVANGELICO
+
+        cEvan_Conclusion: {
+            cEvangelicoAnt:                 tos2LAsb_cE,
+            canticoZacariast:               canticoZacariast,
+            canticoZacarias:                canticoZacarias,
+
+// PRECES
+            preces1:                        tos2LAsb_preces1,
+            preces2:                        tos2LAsb_preces2,
+// PADRE NUESTRO Y ORACIONES CONCUSIVAS
+            Padren:                         "Padre nuestro...",
+            oracion:                        tos2LAsb_oracion,
+            Conclusion1:                    Conclusion1,
+            Conclusion2:                    Conclusion2,
+        }};
+/**************************************************************************
+********************* SEMANA 2 TIEMPO ORDINARIO SABADO *********************
+******** APLICA PARA LOS SABADO DE LA SEMANA 1,5,9,13,17,21,25,29,33 *******
+***************************************************************************/
+
+/**************************************************************************
+********************* SEMANA 3 TIEMPO ORDINARIO SABADO *********************
+********* APLICA PARA LOS SABADO DE LA SEMANA 3,7,11,15,19,23,27,31 ********
+***************************************************************************/
+const s3TOsb1 = {
+        tt:                                 "LAUDES",
+        sub:                                "(Oración de la mañana)",
+        invitatorio: {
+            titulo:                         "INVITATORIO",
+            instruccion:                    instruccion,
+            v:                              invitatorio1,
+            r:                              invitatorio2,
+        },
+
+// Invitatorio
+        antifonaInvitatorio:                tos3LAsbI,
+        salmoInvitatorio: {
+            titulo:                         salmo94t,
+            subtitulo:                      invitacion,
+            contentInv:                     salmo94,
+// Antifona de Entrada
+            antifonaInvitatorio:            tos3LAsbI,
+            antifonaInvitatorio_Salida:     tos3LAsbI,
+// Himno
+            himnot:                         htos3LAsbt,
+            himno:                          htos3LAsb,
+        },
+
+        Salmodias: {
+// Salmodia 1    
+            Ant1:                           tos3LAsb1,
+            SalmoUNOt:                      salmo84t,
+            SalmoUNO:                       salmo84,
+// Salmodia 2
+            Ant2:                           tos3LAsb2,
+            SalmoDOSt:                      Is_26_1_4_7_9_12t,
+            SalmoDOS:                       Is_26_1_4_7_9_12,
+// Salmodia 3
+            Ant3:                           tos3LAsb3,
+            SalmoTRESt:                     salmo66t,
+            SalmoTRES:                      salmo66,       },
+// Lectura Breve
+        LecturaBreve: {
+            LecturaCita:                    tos3LAsb_lbt,
+            LecturaTexto:                   tos3LAsb_lb,
+//RESPONSORIO BREVE
+            responsorio1:                   tos3LAsb_rb,
+            responsorio2:                   tos3LAsb_rb,
+            responsorio3:                   tos3LAsb_rb1,
+            responsorio4:                   tos3LAsb_rb2,
+            gloria:                         gloria,
+            responsorio5:                   tos3LAsb_rb,    },
+
+//CANTICO EVANGELICO
+
+        cEvan_Conclusion: {
+            cEvangelicoAnt:                 tos3LAsb_cE,
+            canticoZacariast:               canticoZacariast,
+            canticoZacarias:                canticoZacarias,
+
+// PRECES
+            preces1:                        tos3LAsb_preces1,
+            preces2:                        tos3LAsb_preces2,
+// PADRE NUESTRO Y ORACIONES CONCUSIVAS
+            Padren:                         "Padre nuestro...",
+            oracion:                        tos3LAsb_oracion,
+            Conclusion1:                    Conclusion1,
+            Conclusion2:                    Conclusion2,
+        }};
+/**************************************************************************
+********************* SEMANA 3 TIEMPO ORDINARIO SABADO *********************
+********* APLICA PARA LOS SABADO DE LA SEMANA 3,7,11,15,19,23,27,31 ********
+***************************************************************************/
+
+/**************************************************************************
+********************* SEMANA 4 TIEMPO ORDINARIO SABADO *********************
+********* APLICA PARA LOS SABADO DE LA SEMANA 4,8,12,16,20,24,28,32 ********
+***************************************************************************/
+const s4TOsb1 = {
+        tt:                                 "LAUDES",
+        sub:                                "(Oración de la mañana)",
+        invitatorio: {
+            titulo:                         "INVITATORIO",
+            instruccion:                    instruccion,
+            v:                              invitatorio1,
+            r:                              invitatorio2,
+        },
+
+// Invitatorio
+        antifonaInvitatorio:                tos4LAsbI,
+        salmoInvitatorio: {
+            titulo:                         salmo94t,
+            subtitulo:                      invitacion,
+            contentInv:                     salmo94,
+// Antifona de Entrada
+            antifonaInvitatorio:            tos4LAsbI,
+            antifonaInvitatorio_Salida:     tos4LAsbI,
+// Himno
+            himnot:                         htos4LAsbt,
+            himno:                          htos4LAsb,
+        },
+
+        Salmodias: {
+// Salmodia 1    
+            Ant1:                           tos4LAsb1,
+            SalmoUNOt:                      salmo100t,
+            SalmoUNO:                       salmo100,
+// Salmodia 2
+            Ant2:                           tos4LAsb2,
+            SalmoDOSt:                      dn_3_26_27_29_34_41t,
+            SalmoDOS:                       dn_3_26_27_29_34_41,
+// Salmodia 3
+            Ant3:                           tos4LAsb3,
+            SalmoTRESt:                     salmo143_1_10t,
+            SalmoTRES:                      salmo143_1_10,       },
+// Lectura Breve
+        LecturaBreve: {
+            LecturaCita:                    tos4LAsb_lbt,
+            LecturaTexto:                   tos4LAsb_lb,
+//RESPONSORIO BREVE
+            responsorio1:                   tos4LAsb_rb,
+            responsorio2:                   tos4LAsb_rb,
+            responsorio3:                   tos4LAsb_rb1,
+            responsorio4:                   tos4LAsb_rb2,
+            gloria:                         gloria,
+            responsorio5:                   tos4LAsb_rb,    },
+
+//CANTICO EVANGELICO
+
+        cEvan_Conclusion: {
+            cEvangelicoAnt:                 tos4LAsb_cE,
+            canticoZacariast:               canticoZacariast,
+            canticoZacarias:                canticoZacarias,
+
+// PRECES
+            preces1:                        tos4LAsb_preces1,
+            preces2:                        tos4LAsb_preces2,
+// PADRE NUESTRO Y ORACIONES CONCUSIVAS
+            Padren:                         "Padre nuestro...",
+            oracion:                        tos4LAsb_oracion,
+            Conclusion1:                    Conclusion1,
+            Conclusion2:                    Conclusion2,
+        }};
+/**************************************************************************
+********************* SEMANA 4 TIEMPO ORDINARIO SABADO *********************
+********* APLICA PARA LOS SABADO DE LA SEMANA 4,8,12,16,20,24,28,32 ********
+***************************************************************************/
 
 export const dbLaudes = [
 
@@ -1637,6 +2523,157 @@ export const dbLaudes = [
     /****************************************************************************************
     ******************************************** MIERCOLES **************************************
     ****************************************************************************************/
+
+    // JUEVES
+
+    /****************************************************************************************
+    ******************************************** JUEVES **************************************
+    ****************************************************************************************/
+   // Tiempo Ordinario, Semana 1,5,9,13,21,25,29,33 LAUDES JUEVES *********
+    {id: "tos1LAjs",  ...s1TOjs1,},
+    {id: "tos5LAjs",  ...s1TOjs1,},
+    {id: "tos9LAjs",  ...s1TOjs1,},
+    {id: "tos13LAjs", ...s1TOjs1,},
+    {id: "tos17LAjs", ...s1TOjs1,},
+    {id: "tos21LAjs", ...s1TOjs1,},
+    {id: "tos25LAjs", ...s1TOjs1,},
+    {id: "tos29LAjs", ...s1TOjs1,},
+    {id: "tos33LAjs", ...s1TOjs1,},
+    // ********* tos2LAdm: Tiempo Ordinario, Semana 1,5,9,13,21,25,29,33 Laudes JUEVES *********
+    
+    // Tiempo Ordinario, Semana 2,6,10,14,18,22,26,30 LAUDES JUEVES *********
+    {id: "tos2LAjs",  ...s2TOjs1,},
+    {id: "tos6LAjs",  ...s2TOjs1,},
+    {id: "tos10LAjs", ...s2TOjs1,},
+    {id: "tos14LAjs", ...s2TOjs1,},
+    {id: "tos18LAjs", ...s2TOjs1,},
+    {id: "tos22LAjs", ...s2TOjs1,},
+    {id: "tos26LAjs", ...s2TOjs1,},
+    {id: "tos30LAjs", ...s2TOjs1,},
+
+    // Tiempo Ordinario, Semana 3,7,11,15,19,23,27,31 LAUDES JUEVES *********
+    {id: "tos3LAjs",  ...s3TOjs1,},
+    {id: "tos7LAjs",  ...s3TOjs1,},
+    {id: "tos11LAjs", ...s3TOjs1,},
+    {id: "tos15LAjs", ...s3TOjs1,},
+    {id: "tos19LAjs", ...s3TOjs1,},
+    {id: "tos23LAjs", ...s3TOjs1,},
+    {id: "tos27LAjs", ...s3TOjs1,},
+    {id: "tos31LAjs", ...s3TOjs1,},
+
+        // Tiempo Ordinario, Semana 4,8,12,16,20,24,28,32 LAUDES JUEVES *********
+    {id: "tos4LAjs",  ...s4TOjs1,},
+    {id: "tos8LAjs",  ...s4TOjs1,},
+    {id: "tos12LAjs", ...s4TOjs1,},
+    {id: "tos16LAjs", ...s4TOjs1,},
+    {id: "tos20LAjs", ...s4TOjs1,},
+    {id: "tos24LAjs", ...s4TOjs1,},
+    {id: "tos28LAjs", ...s4TOjs1,},
+    {id: "tos32LAjs", ...s4TOjs1,},
+    /****************************************************************************************
+    ******************************************** JUEVES **************************************
+    ****************************************************************************************/
+
+        // VIERNES
+
+    /****************************************************************************************
+    ******************************************** VIERNES **************************************
+    ****************************************************************************************/
+   // Tiempo Ordinario, Semana 1,5,9,13,21,25,29,33 LAUDES VIERNES *********
+    {id: "tos1LAvs",  ...s1TOvs1,},
+    {id: "tos5LAvs",  ...s1TOvs1,},
+    {id: "tos9LAvs",  ...s1TOvs1,},
+    {id: "tos13LAvs", ...s1TOvs1,},
+    {id: "tos17LAvs", ...s1TOvs1,},
+    {id: "tos21LAvs", ...s1TOvs1,},
+    {id: "tos25LAvs", ...s1TOvs1,},
+    {id: "tos29LAvs", ...s1TOvs1,},
+    {id: "tos33LAvs", ...s1TOvs1,},
+    // ********* tos2LAdm: Tiempo Ordinario, Semana 1,5,9,13,21,25,29,33 Laudes VIERNES *********
+    
+    // Tiempo Ordinario, Semana 2,6,10,14,18,22,26,30 LAUDES VIERNES *********
+    {id: "tos2LAvs",  ...s2TOvs1,},
+    {id: "tos6LAvs",  ...s2TOvs1,},
+    {id: "tos10LAvs", ...s2TOvs1,},
+    {id: "tos14LAvs", ...s2TOvs1,},
+    {id: "tos18LAvs", ...s2TOvs1,},
+    {id: "tos22LAvs", ...s2TOvs1,},
+    {id: "tos26LAvs", ...s2TOvs1,},
+    {id: "tos30LAvs", ...s2TOvs1,},
+
+    // Tiempo Ordinario, Semana 3,7,11,15,19,23,27,31 LAUDES VIERNES *********
+    {id: "tos3LAvs",  ...s3TOvs1,},
+    {id: "tos7LAvs",  ...s3TOvs1,},
+    {id: "tos11LAvs", ...s3TOvs1,},
+    {id: "tos15LAvs", ...s3TOvs1,},
+    {id: "tos19LAvs", ...s3TOvs1,},
+    {id: "tos23LAvs", ...s3TOvs1,},
+    {id: "tos27LAvs", ...s3TOvs1,},
+    {id: "tos31LAvs", ...s3TOvs1,},
+
+        // Tiempo Ordinario, Semana 4,8,12,16,20,24,28,32 LAUDES VIERNES *********
+    {id: "tos4LAvs",  ...s4TOvs1,},
+    {id: "tos8LAvs",  ...s4TOvs1,},
+    {id: "tos12LAvs", ...s4TOvs1,},
+    {id: "tos16LAvs", ...s4TOvs1,},
+    {id: "tos20LAvs", ...s4TOvs1,},
+    {id: "tos24LAvs", ...s4TOvs1,},
+    {id: "tos28LAvs", ...s4TOvs1,},
+    {id: "tos32LAvs", ...s4TOvs1,},
+    /****************************************************************************************
+    ******************************************** VIERNES **************************************
+    ****************************************************************************************/
+
+    // SABADO
+
+    /****************************************************************************************
+    ******************************************** SABADO **************************************
+    ****************************************************************************************/
+   // Tiempo Ordinario, Semana 1,5,9,13,21,25,29,33 LAUDES SABADO *********
+    {id: "tos1LAsb",  ...s1TOsb1,},
+    {id: "tos5LAsb",  ...s1TOsb1,},
+    {id: "tos9LAsb",  ...s1TOsb1,},
+    {id: "tos13LAsb", ...s1TOsb1,},
+    {id: "tos17LAsb", ...s1TOsb1,},
+    {id: "tos21LAsb", ...s1TOsb1,},
+    {id: "tos25LAsb", ...s1TOsb1,},
+    {id: "tos29LAsb", ...s1TOsb1,},
+    {id: "tos33LAsb", ...s1TOsb1,},
+    // ********* tos2LAdm: Tiempo Ordinario, Semana 1,5,9,13,21,25,29,33 Laudes SABADO *********
+    
+    // Tiempo Ordinario, Semana 2,6,10,14,18,22,26,30 LAUDES SABADO *********
+    {id: "tos2LAsb",  ...s2TOsb1,},
+    {id: "tos6LAsb",  ...s2TOsb1,},
+    {id: "tos10LAsb", ...s2TOsb1,},
+    {id: "tos14LAsb", ...s2TOsb1,},
+    {id: "tos18LAsb", ...s2TOsb1,},
+    {id: "tos22LAsb", ...s2TOsb1,},
+    {id: "tos26LAsb", ...s2TOsb1,},
+    {id: "tos30LAsb", ...s2TOsb1,},
+
+    // Tiempo Ordinario, Semana 3,7,11,15,19,23,27,31 LAUDES SABADO *********
+    {id: "tos3LAsb",  ...s3TOsb1,},
+    {id: "tos7LAsb",  ...s3TOsb1,},
+    {id: "tos11LAsb", ...s3TOsb1,},
+    {id: "tos15LAsb", ...s3TOsb1,},
+    {id: "tos19LAsb", ...s3TOsb1,},
+    {id: "tos23LAsb", ...s3TOsb1,},
+    {id: "tos27LAsb", ...s3TOsb1,},
+    {id: "tos31LAsb", ...s3TOsb1,},
+
+        // Tiempo Ordinario, Semana 4,8,12,16,20,24,28,32 LAUDES SABADO *********
+    {id: "tos4LAsb",  ...s4TOsb1,},
+    {id: "tos8LAsb",  ...s4TOsb1,},
+    {id: "tos12LAsb", ...s4TOsb1,},
+    {id: "tos16LAsb", ...s4TOsb1,},
+    {id: "tos20LAsb", ...s4TOsb1,},
+    {id: "tos24LAsb", ...s4TOsb1,},
+    {id: "tos28LAsb", ...s4TOsb1,},
+    {id: "tos32LAsb", ...s4TOsb1,},
+    /****************************************************************************************
+    ******************************************** SABADO **************************************
+    ****************************************************************************************/
+
 
 
 

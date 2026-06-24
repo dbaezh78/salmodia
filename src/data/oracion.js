@@ -31,5 +31,20 @@ const tos2LAml_oracion = "Envía, Señor, a nuestros corazones la abundancia de 
 const tos3LAml_oracion  = "Señor Dios, que nos has creado con tu sabiduría y nos gobiernas con tu providencia, infunde en nuestras almas la claridad de tu luz, y haz que nuestra vida y nuestras acciones estén del todo consagradas a ti. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén."
 const tos4LAml_oracion  = "Recuerda, Señor, tu santa alianza consagrada con el nuevo sacramento de la sangre del Cordero, para que tu pueblo obtenga el perdón de sus pecados, y un aumento constante de salvación. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén."
 
+// ORACION PARA JUEVES
+const tos1LAjs_oracion = "Dios todopoderoso y eterno, humildemente acudimos a ti, al empezar el día, a media jornada y al atardecer, para pedirte que, alejando de nosotros las tinieblas del pecado, nos hagas alcanzar la luz verdadera que es Cristo. Él, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén."
+const tos2LAjs_oracion = "A ti, Señor, que eres la luz verdadera y la fuente misma de toda luz, te pedimos humildemente que meditando fielmente tu palabra vivamos siempre en la claridad de tu luz. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén."
+const tos3LAjs_oracion  = "Dios todopoderoso y eterno: a los pueblos que viven en tiniebla y en sombra de muerte, ilumínalos con tu luz, ya que con ella nos ha visitado el sol que nace de lo alto, Jesucristo, nuestro Señor. Él, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén."
+const tos4LAjs_oracion  = "Concédenos, Señor, acoger siempre el anuncio de la salvación para que, libres de temor, arrancados de la mano de los enemigos te sirvamos, con santidad y justicia, todos nuestros días. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén."
 
+// ORACION PARA VIERNES
+const tos1LAvs_oracion = "Dios misericordioso, que has iluminado las tinieblas de nuestra ignorancia con la luz de tu palabra: acrecienta en nosotros la fe que tú mismo nos has dado; que ninguna tentación pueda nunca destruir el ardor de la fe y de la caridad que tu gracia ha encendido en nuestro Espíritu. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén."
+const tos2LAvs_oracion = "Señor, Dios todopoderoso, te pedimos nos concedas que del mismo modo que hemos cantado tus alabanzas en esta celebración matutina así también las podamos cantar plenamente en la asamblea de tus santos por toda la eternidad. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén."
+const tos3LAvs_oracion  = "Ilumina, Señor, nuestros corazones y fortalece nuestras voluntades, para que sigamos siempre el camino de tus mandatos, reconociéndote como nuestro guía y maestro. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén."
+const tos4LAvs_oracion  = "Te pedimos, Señor, tu gracia abundante, para que nos ayude a seguir el camino de tus mandatos, y así gocemos de tu consuelo en esta vida y alcancemos la felicidad eterna. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén."
 
+// ORACION PARA SABADO
+const tos1LAsb_oracion = ""
+const tos2LAsb_oracion = ""
+const tos3LAsb_oracion  = ""
+const tos4LAsb_oracion  = ""
