@@ -123,8 +123,35 @@ const tos3LAmt_rb = "Dios mío, mi escudo y peña en que me amparo."
 const tos3LAmt_rb1 = "Mi alcázar, mi libertador."
 const tos3LAmt_rb2 = "En que me amparo."
 
-const tos4LAmt_lbt = "1Jn 4, 14-15"
-const tos4LAmt_lb = "Nosotros hemos visto y damos testimonio de que el Padre envió a su Hijo para ser Salvador del mundo. Quien confiese que Jesús es el Hijo de Dios, Dios permanece en él y él en Dios."
-const tos4LAmt_rb = "Dios mío, mi escudo y peña en que me amparo."
-const tos4LAmt_rb1 = "Mi alcázar, mi libertador."
-const tos4LAmt_rb2 = "En que me amparo."
+const tos4LAmt_lbt = "Is 55, 1"
+const tos4LAmt_lb = "Oíd, sedientos todos, acudid por agua, también los que no tenéis dinero: venid, comprad trigo, comed sin pagar: vino y leche de balde."
+const tos4LAmt_rb = "Escucha mi voz, Señor; espero en tu palabra."
+const tos4LAmt_rb1 = "Me adelanto a la aurora pidiendo auxilio."
+const tos4LAmt_rb2 = "Espero en tu palabra."
+
+
+// MIERCOLES
+// Himno Tiempo Ordinario, Semana 4 Laudes Lunes
+const tos1LAml_lbt = "Tb 4, 16-17. 19-20"
+const tos1LAml_lb = "No hagas a nadie lo que no quieras que te hagan. Da de tu pan al hambriento y da tus vestidos al desnudo. Busca el consejo de los prudentes. Bendice al Señor en toda circunstancia, pídele que sean rectos todos tus caminos y que lleguen a buen fin todas tus sendas y proyectos."
+const tos1LAml_rb = "Inclina, Señor, mi corazón a tus preceptos."
+const tos1LAml_rb1 = "Dame vida con tu palabra."
+const tos1LAml_rb2 = "Inclina, Señor, mi corazón a tus preceptos."
+
+const tos2LAml_lbt = "Rm 8, 35. 37"
+const tos2LAml_lb = "¿Quién podrá apartarnos del amor de Cristo? ¿La aflicción? ¿La angustia? ¿La persecución? ¿El hambre? ¿La desnudez? ¿El peligro? ¿La espada? En todo esto vencemos fácilmente por aquel que nos ha amado."
+const tos2LAml_rb = "Bendigo al Señor en todo momento."
+const tos2LAml_rb1 = "Su alabanza está siempre en mi boca."
+const tos2LAml_rb2 = "En todo momento."
+
+const tos3LAml_lbt = "Jb 1, 21; 2, 10b"
+const tos3LAml_lb = "Desnudo salí del vientre de mi madre y desnudo volveré a él. El Señor me lo dio, el Señor me lo quitó, bendito sea el nombre del Señor. Si aceptamos de Dios los bienes, ¿no vamos a aceptar los males?"
+const tos3LAml_rb = "Inclina, Señor, mi corazón a tus preceptos."
+const tos3LAml_rb1 = "Dame vida con tu palabra."
+const tos3LAml_rb2 = "Inclina, Señor, mi corazón a tus preceptos."
+
+const tos4LAml_lbt = "Dt 4, 39-40a"
+const tos4LAml_lb = "Has de reconocer hoy y recordar que el Señor es Dios, en lo alto del cielo y abajo en la tierra, y que no hay otro. Guarda los mandatos y preceptos que te voy a dar hoy."
+const tos4LAml_rb = "Bendigo al Señor en todo momento."
+const tos4LAml_rb1 = "Su alabanza está siempre en mi boca."
+const tos4LAml_rb2 = "En todo momento."

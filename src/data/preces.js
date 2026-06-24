@@ -262,3 +262,72 @@ para que nuestro amor fraterno sea sin fingimiento.
 Tú que has dispuesto que el hombre dominara el mundo con su esfuerzo,
 haz que nuestro trabajo te glorifique y santifique a nuestros hermanos.`
 const tos4LAmt_preces2 = "Ya que Dios nos muestra siempre su amor de Padre, velando amorosamente por nosotros, nos atrevemos a decir:"
+
+const tos1LAml_preces1 = `Demos gracias a Cristo y alabémoslo porque ha querido santificarnos y llamarnos hermanos suyos; digámosle, pues, confiados:
+
+Santifica, Señor, a tus hermanos.
+
+Concédenos, Señor, consagrar el principio de este día en honor de tu resurrección
+y haz que todos los trabajos que realicemos durante esta jornada te sean agradables.
+
+Haz que sepamos descubrirte a ti en todos nuestros hermanos,
+sobre todo en los tristes, en los más pobres y en los que son menos útiles a los ojos del mundo.
+
+Tú que para aumentar nuestra alegría y afianzar nuestra salvación nos das el nuevo día, signo de tu amor,
+renuévanos hoy y siempre para gloria de tu nombre.
+
+Haz que durante este día estemos en paz con todo el mundo
+y que a nadie devolvamos mal por mal.`
+const tos1LAml_preces2 = "Tal como Cristo nos enseñó, terminemos nuestra oración diciendo:"
+
+const tos2LAml_preces1 = `Oremos a nuestro Señor Jesucristo, que prometió estar con nosotros todos los días hasta el fin del mundo, y digámosle confiados:
+
+Escúchanos, Señor.
+
+Quédate con nosotros, Señor, durante todo el día:
+que la luz de tu gracia no conozca nunca el anochecer en nuestras vidas.
+
+Que el trabajo de este día sea como una oblación sin defecto,
+y que sea agradable a tus ojos.
+
+Que en todas nuestras palabras y acciones seamos hoy luz del mundo
+y sal de la tierra para cuantos nos traten.
+
+Que la gracia del Espíritu Santo habite en nuestros corazones y resplandezca en nuestras obras
+para que así permanezcamos en tu amor y en tu alabanza.`
+const tos2LAml_preces2 = "Terminemos nuestra oración diciendo juntos las palabras del Señor y pidiendo al Padre que nos libre de todo mal:"
+
+const tos3LAml_preces1 = `Invoquemos a Cristo, que se entregó a sí mismo por la Iglesia, y le da alimento y calor, diciendo:
+
+Acuérdate, Señor, de tu Iglesia.
+
+Bendito seas, Señor, Pastor de la Iglesia, que nos vuelves a dar hoy la luz y la vida;
+haz que sepamos agradecerte este magnífico don.
+
+Mira con amor a tu grey, que has congregado en tu nombre;
+haz que no se pierda ni uno solo de los que el Padre te ha dado.
+
+Guía a tu Iglesia por el camino de tus mandatos,
+y haz que el Espíritu Santo la conserve en la fidelidad.
+
+Que tus fieles, Señor, cobren nueva vida participando en la mesa de tu pan y de tu palabra,
+para que, con la fuerza de este alimento, te sigan con alegría.`
+const tos3LAml_preces2 = "Concluyamos nuestra oración diciendo juntos las palabras de Jesús, nuestro Maestro:"
+
+const tos4LAml_preces1 = `Cristo, reflejo de la gloria del Padre, nos ilumina con su palabra; acudamos pues a él diciendo:
+
+Rey de la gloria, escúchanos.
+
+Te bendecimos, Señor, autor y consumador de nuestra fe,
+porque de las tinieblas nos has trasladado a tu luz admirable.
+
+Tú que abriste los ojos de los ciegos y diste oído a los sordos,
+aumenta nuestra fe.
+
+Haz, Señor, que permanezcamos siempre en tu amor,
+y que este amor nos guarde fraternalmente unidos.
+
+Ayúdanos para que resistamos a la tentación, aguantemos en la tribulación
+y te demos gracias en la prosperidad.`
+const tos4LAml_preces2 = "Dejemos que el espíritu de Dios, que ha sido derramado en nuestros corazones, se una a nuestro espíritu, para clamar:"
+

@@ -585,8 +585,37 @@ Cantemos sus maravillas.
 ¡Qué grande, en medio del pueblo
 el Dios que nos justifica!». Amén.`
 
-const htos3LAmtt = ""
-const htos3LAmt = ``
+const htos3LAmtt = "Himno: GRACIAS, SEÑOR POR EL DÍA"
+const htos3LAmt = `Gracias, Señor, por el día,
+por tu mensaje de amor
+que nos das en cada flor;
+por esta luz de alegría,
+te doy las gracias, Señor.
+
+Gracias, Señor, por la espina
+que encontraré en el sendero,
+donde marcho pregonero
+de tu esperanza divina;
+gracias, por ser compañero.
+
+Gracias, Señor, porque dejas
+que abrase tu amor mi ser,
+porque haces aparecer
+tus flores a mis abejas,
+tan sedientas de beber.
+
+Gracias por este camino,
+donde caigo y me levanto,
+donde te entrego mi canto
+mientras marcho peregrino,
+Señor, a tu monte santo.
+
+Gracias, Señor, por la luz
+que ilumina mi existir;
+por este dulce dormir
+que me devuelve a tu cruz.
+¡Gracias, Señor, por vivir! Amén.`
+
 
 const htos4LAmtt = "Himno: ESTÁTE, SEÑOR, CONMIGO."
 const htos4LAmt = `Estáte, Señor, conmigo
@@ -617,16 +646,91 @@ cuando yo sin ti me quedo,
 cuando tú sin mí te vas. Amén.`
 
 // MIERCOLES
-const htos1LAmlt = ""
-const htos1LAml = ``
+const htos1LAmlt = "Himno: SENTENCIA DE DIOS AL HOMBRE"
+const htos1LAml = `Sentencia de Dios al hombre
+antes que el día comience:
+«Que el pan no venga a tu mesa
+sin el sudor de tu frente.
 
-const htos2LAmlt = ""
-const htos2LAml = ``
+Ni el sol se te da de balde,
+ni el aire por ser quien eres:
+las cosas son herramientas
+y buscan quien las maneje.
+
+El mar les pone corazas
+de sal amarga a los peces;
+el hondo sol campesino
+madura a fuego las mieses.
+
+La piedra, con ser la piedra,
+guarda una chispa caliente;
+y en el rumor de la nube
+combaten el rayo y la nieve.
+
+A ti te inventé las manos
+y un corazón que no duerme;
+puse en tu boca palabras
+y pensamiento en tu frente.
+
+No basta con dar las gracias
+sin dar lo que las merece:
+a fuerza de gratitudes
+se vuelve la tierra estéril.» Amén.`
 
 
-const htos3LAmlt = ""
-const htos3LAml = ``
+const htos2LAmlt = "Himno: NACIDOS DE LA LUZ, HIJOS DEL DÍA."
+const htos2LAml = `Nacidos de la luz, hijos del día,
+Vamos hacia el Señor de la mañana.
+Su claridad disipa nuestras sombras
+y alegra y regocija nuestras almas.
 
-const htos4LAmlt = ""
-const htos4LAml = ``
+Que nuestro Dios, el Padre de la gloria,
+nos libre para siempre del pecado,
+y podamos así gozar la herencia
+que nos legó en su Hijo muy amado.
+
+Honor y gloria a Dios, Padre celeste,
+por medio de su Hijo Jesucristo,
+y al Don de toda luz, el Santo Espíritu,
+que vive por los siglos de los siglos. Amén.`
+
+const htos3LAmlt = "Himno: DETENTE, AURORA DE ESTE NUEVO DÍA."
+const htos3LAml = `¡Detente, aurora de este nuevo día,
+refleja en mis pupilas tu paisaje!
+Mensajera de amor, es tu equipaje
+la hermosura hecha luz y profecía.
+
+¡Detente, aurora, dulce epifanía,
+rostro de Dios, qué bello es tu mensaje!
+Queme tu amor mi amor que va de viaje
+en lucha, y en trabajo y alegría.
+
+Avanzamos, corremos fatigados,
+mañana tras mañana enfebrecidos
+por la carga de todos los pecados.
+
+Arrópanos, Señor, con la esperanza;
+endereza, Señor, los pies perdidos,
+y recibe esta aurora de alabanza. Amén.`
+
+const htos4LAmlt = "Himno: AL RETORNAR ESTE DÍA."
+const htos4LAml = `Al retornar este día,
+con voz alegre y canora,
+celebrando al Redentor,
+cantemos de Dios la gloria.
+
+Por Cristo, el Creador inmenso
+hizo la noche y la aurora,
+con inmóvil ley fijando
+la sucesión de las horas.
+
+La luz eterna eres tú,
+la antigua ley perfeccionas,
+y no conoces crepúsculo,
+y no te apagan las sombras.
+
+Concédenos, Padre eterno,
+que vivamos hoy con loa,
+con que agrademos a Cristo,
+si tu Espíritu nos colma. Amén.`
 

@@ -150,13 +150,28 @@ const tos3LAln_cE = "Bendito sea el Señor, Dios nuestro."
 const tos4LAln_cE = "Bendito sea el Señor, Dios de Israel, porque ha visitado y redimido a su pueblo."
 
 /************************************** */
-// CANTICO EVANGELIO PARA LUNES
+// CANTICO EVANGELIO PARA MARTES
 /************************************** */
 const tos1LAmt_cE = "Nos ha suscitado el Señor una fuerza de salvación, según lo había predicho por boca de sus Santos profetas."
 const tos2LAmt_cE = "De la mano de nuestros enemigos, líbranos, Señor."
-const tos3LAmt_cE = ""
-const tos4LAmt_cE = ""
+const tos3LAmt_cE = "Nos ha suscitado el Señor una fuerza de salvación, según lo había predicho por boca de sus santos profetas."
+const tos4LAmt_cE = "De la mano de nuestros enemigos, líbranos, Señor."
 
+/************************************** */
+// CANTICO EVANGELIO PARA MIERCOLES
+/************************************** */
+const tos1LAml_cE = "Realiza, Señor, con nosotros la misericordia y recuerda tu santa alianza."
+const tos2LAml_cE = "Sirvamos al Señor con santidad todos nuestros días."
+const tos3LAml_cE = "Realiza, Señor, con nosotros la misericordia y recuerda tu santa alianza."
+const tos4LAml_cE = "Sirvamos al Señor con santidad todos nuestros días."
+
+/************************************** */
+// CANTICO EVANGELIO PARA MIERCOLES
+/************************************** */
+const tos1LAjs_cE = ""
+const tos2LAjs_cE = ""
+const tos3LAjs_cE = ""
+const tos4LAjs_cE = ""
 
 
 // ====== MOTOR DE SELECCIÓN DE AÑO LITÚRGICO PARA DOMINGOS ======
