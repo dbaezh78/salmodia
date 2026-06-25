@@ -146,49 +146,49 @@ const tos34LAdm_cE_C = ""
 /************************************** */
 const tos1LAln_cE = "Bendito sea el Señor, Dios nuestro."
 const tos2LAln_cE = "Bendito sea el Señor, Dios de Israel, porque ha visitado y redimido a su pueblo."
-const tos3LAln_cE = "Bendito sea el Señor, Dios nuestro."
-const tos4LAln_cE = "Bendito sea el Señor, Dios de Israel, porque ha visitado y redimido a su pueblo."
+const tos3LAln_cE = tos1LAln_cE;
+const tos4LAln_cE = tos2LAln_cE
 
 /************************************** */
 // CANTICO EVANGELIO PARA MARTES
 /************************************** */
 const tos1LAmt_cE = "Nos ha suscitado el Señor una fuerza de salvación, según lo había predicho por boca de sus Santos profetas."
 const tos2LAmt_cE = "De la mano de nuestros enemigos, líbranos, Señor."
-const tos3LAmt_cE = "Nos ha suscitado el Señor una fuerza de salvación, según lo había predicho por boca de sus santos profetas."
-const tos4LAmt_cE = "De la mano de nuestros enemigos, líbranos, Señor."
+const tos3LAmt_cE = tos1LAmt_cE;
+const tos4LAmt_cE = tos2LAmt_cE;
 
 /************************************** */
 // CANTICO EVANGELIO PARA MIERCOLES
 /************************************** */
 const tos1LAml_cE = "Realiza, Señor, con nosotros la misericordia y recuerda tu santa alianza."
 const tos2LAml_cE = "Sirvamos al Señor con santidad todos nuestros días."
-const tos3LAml_cE = "Realiza, Señor, con nosotros la misericordia y recuerda tu santa alianza."
-const tos4LAml_cE = "Sirvamos al Señor con santidad todos nuestros días."
+const tos3LAml_cE = tos1LAml_cE;
+const tos4LAml_cE = tos2LAml_cE;
 
 /************************************** */
 // CANTICO EVANGELIO PARA JUEVES
 /************************************** */
 const tos1LAjs_cE = "Sirvamos al Señor con santidad y nos librará de la mano de nuestros enemigos."
 const tos2LAjs_cE = "Anuncia, Señor, la salvación a tu pueblo y perdónanos nuestros pecados."
-const tos3LAjs_cE = "Sirvamos al Señor con santidad y nos librará de la mano de nuestros enemigos."
-const tos4LAjs_cE = "Anuncia, Señor, la salvación a tu pueblo y perdónanos nuestros pecados."
+const tos3LAjs_cE = tos1LAjs_cE;
+const tos4LAjs_cE = tos2LAjs_cE;
 
 /************************************** */
 // CANTICO EVANGELIO PARA VIERNES
 /************************************** */
 const tos1LAvs_cE = "El Señor ha visitado y redimido a su pueblo."
 const tos2LAvs_cE = "Por la entrañable misericordia de nuestro Dios, nos visitará el sol que nace de lo alto."
-const tos3LAvs_cE = "El Señor ha visitado y redimido a su pueblo."
-const tos4LAvs_cE = "Por la entrañable misericordia de nuestro Dios, nos visitará el sol que nace de lo alto."
+const tos3LAvs_cE = tos1LAvs_cE;
+const tos4LAvs_cE = tos2LAvs_cE;
 
 
 /************************************** */
 // CANTICO EVANGELIO PARA SABADO
 /************************************** */
-const tos1LAsb_cE = ""
-const tos2LAsb_cE = ""
-const tos3LAsb_cE = ""
-const tos4LAsb_cE = ""
+const tos1LAsb_cE = "Ilumina, Señor, a los que viven en tiniebla y en sombra de muerte.";
+const tos2LAsb_cE = "Guía nuestros pasos, Dios de Israel, por el camino de la paz.";
+const tos3LAsb_cE = tos1LAsb_cE;
+const tos4LAsb_cE = tos2LAsb_cE;
 
 
 // ====== MOTOR DE SELECCIÓN DE AÑO LITÚRGICO PARA DOMINGOS ======

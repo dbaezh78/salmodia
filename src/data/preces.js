@@ -467,14 +467,70 @@ Tú que has querido que participáramos en la misión profética de Cristo,
 haz que proclamemos ante el mundo tus maravillas.`
 const tos4LAvs_preces2 = "Dirijámonos al Padre, con las mismas palabras que Cristo nos enseñó:"
 
-const tos1LAsb_preces1 = ""
-const tos1LAsb_preces2 = ""
+const tos1LAsb_preces1 = `Bendigamos a Cristo que para ser ante Dios el pontífice misericordioso y fiel de los hombres se hizo en todo semejante a nosotros, y supliquémosle diciendo:
 
-const tos2LAsb_preces1 = ""
-const tos2LAsb_preces2 = ""
+Muéstranos, Señor, los tesoros de tu amor.
 
-const tos3LAsb_preces1 = ""
-const tos3LAsb_preces2 = ""
+Señor, sol de justicia, que nos iluminaste en el bautismo,
+te consagramos este nuevo día.
 
-const tos4LAsb_preces1 = ""
-const tos4LAsb_preces2 = ""
+Que sepamos bendecirte en cada uno de los momentos de nuestra jornada
+y glorifiquemos tu nombre con cada una de nuestras acciones.
+
+Tú que tuviste por madre a María, siempre dócil a tu palabra,
+encamina hoy nuestros pasos para que obremos también como ella según tu voluntad.
+
+Haz que mientras vivimos aún en este mundo que pasa anhelemos la vida eterna
+y por la fe, la esperanza y el amor vivamos ya contigo en tu reino.`
+const tos1LAsb_preces2 = "Con la misma confianza que tienen los hijos con su padre, acudamos nosotros a nuestro Dios, diciéndole:"
+
+const tos2LAsb_preces1 = `Celebremos la sabiduría y la bondad de Cristo, que ha querido ser amado y servido en los hermanos, especialmente en los que sufren, y supliquémosle insistentemente diciendo:
+
+Señor, acrecienta nuestro amor.
+
+Al recordar esta mañana tu santa resurrección,
+te pedimos, Señor, que extiendas los beneficios de tu redención a todos los hombres.
+
+Que todo el día de hoy sepamos dar buen testimonio del nombre cristiano
+y ofrezcamos nuestra jornada como un culto espiritual agradable al Padre.
+
+Enséñanos, Señor, a descubrir tu imagen en todos los hombres
+y a saberte servir a ti en cada uno de ellos.
+
+Cristo, Señor nuestro, vid verdadera de la que nosotros somos sarmientos,
+haz que permanezcamos en ti y demos fruto abundante para que con ello sea glorificado nuestro Padre que está en el cielo.`
+const tos2LAsb_preces2 = "Con la confianza que nos da nuestra fe, acudamos ahora al Padre, diciendo como Cristo nos enseñó:"
+
+const tos3LAsb_preces1 = `Invoquemos a Dios por intercesión de María, a quien el Señor colocó por encima de todas las creaturas celestiales y terrenas, diciendo:
+
+Contempla, Señor, a la Madre de tu Hijo y escúchanos.
+
+Padre de misericordia, te damos gracias porque nos has dado a María como madre y ejemplo;
+santifícanos por su intercesión.
+
+Tú que hiciste que María meditara tus palabras, guardándolas en su corazón, y fuera siempre fidelísima hija tuya,
+por su intercesión haz que también nosotros seamos de verdad hijos tuyos y discípulos de tu Hijo.
+
+Tú que quisiste que María concibiera por obra del Espíritu Santo,
+por intercesión de María otórganos los frutos de este mismo Espíritu.
+
+Tú que diste fuerza a María para permanecer junto a la cruz y la llenaste de alegría con la resurrección de tu Hijo,
+por intercesión de María confórtanos en la tribulación y reanima nuestra esperanza.`
+const tos3LAsb_preces2 = "Concluyamos nuestras súplicas con la oración que el mismo Cristo nos enseñó:"
+
+const tos4LAsb_preces1 = `Adoremos a Dios, que por su Hijo ha dado vida y esperanza al mundo, y supliquémosle diciendo:
+
+Escúchanos, Señor.
+
+Señor, Padre de todos, tú que nos has hecho llegar al comienzo de este día,
+haz que toda nuestra vida unida a la de Cristo sea alabanza de tu gloria.
+
+Que vivamos siempre arraigados en la fe, esperanza y caridad,
+que tú mismo has infundido en nuestras almas.
+
+Haz que nuestros ojos estén siempre levantados hacia ti,
+para que respondamos con presteza a tus llamadas.
+
+Defiéndenos de los engaños y seducciones del mal,
+y presérvanos de todo pecado.`
+const tos4LAsb_preces2 = "Contentos por sabernos hijos de Dios, digamos a nuestro padre:"

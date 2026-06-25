@@ -294,8 +294,8 @@ const s1TOln1 = {
         Salmodias: {
 // Salmodia 1    
             Ant1:                           tos1LAln1,
-            SalmoUNOt:                      Salmo5_2_10_12_13t,
-            SalmoUNO:                       Salmo5_2_10_12_13,
+            SalmoUNOt:                      salmo_5_2_10_12_13t,
+            SalmoUNO:                       salmo_5_2_10_12_13,
 // Salmodia 2
             Ant2:                           tos1LAln2,
             SalmoDOSt:                      ICro29_10_13t,
@@ -364,8 +364,8 @@ const s2TOln1 = {
         Salmodias: {
 // Salmodia 1    
             Ant1:                           tos2LAln1,
-            SalmoUNOt:                      Salmo5_2_10_12_13t,
-            SalmoUNO:                       Salmo5_2_10_12_13,
+            SalmoUNOt:                      salmo_5_2_10_12_13t,
+            SalmoUNO:                       salmo_5_2_10_12_13,
 // Salmodia 2
             Ant2:                           tos2LAln2,
             SalmoDOSt:                      ICro29_10_13t,
@@ -438,8 +438,8 @@ const s3TOln1 = {
         Salmodias: {
 // Salmodia 1    
             Ant1:                           tos3LAln1,
-            SalmoUNOt:                      Salmo5_2_10_12_13t,
-            SalmoUNO:                       Salmo5_2_10_12_13,
+            SalmoUNOt:                      salmo_5_2_10_12_13t,
+            SalmoUNO:                       salmo_5_2_10_12_13,
 // Salmodia 2
             Ant2:                           tos3LAln2,
             SalmoDOSt:                      ICro29_10_13t,
@@ -512,8 +512,8 @@ const s4TOln1 = {
         Salmodias: {
 // Salmodia 1    
             Ant1:                           tos4LAln1,
-            SalmoUNOt:                      Salmo5_2_10_12_13t,
-            SalmoUNO:                       Salmo5_2_10_12_13,
+            SalmoUNOt:                      salmo_5_2_10_12_13t,
+            SalmoUNO:                       salmo_5_2_10_12_13,
 // Salmodia 2
             Ant2:                           tos4LAln2,
             SalmoDOSt:                      ICro29_10_13t,
@@ -736,8 +736,8 @@ const s3TOmt1 = {
             SalmoUNO:                       salmo84,
 // Salmodia 2
             Ant2:                           tos3LAmt2,
-            SalmoDOSt:                      Is_26_1_4_7_9_12t,
-            SalmoDOS:                       Is_26_1_4_7_9_12,
+            SalmoDOSt:                      is_26_1_4_7_9_12t,
+            SalmoDOS:                       is_26_1_4_7_9_12,
 // Salmodia 3
             Ant3:                           tos3LAmt3,
             SalmoTRESt:                     salmo66t,
@@ -1770,16 +1770,16 @@ const s1TOsb1 = {
         Salmodias: {
 // Salmodia 1    
             Ant1:                           tos1LAsb1,
-            SalmoUNOt:                      salmo23t,
-            SalmoUNO:                       salmo23,
+            SalmoUNOt:                      salmo_118_145_152t,
+            SalmoUNO:                       salmo_118_145_152,
 // Salmodia 2
             Ant2:                           tos1LAsb2,
-            SalmoDOSt:                      tb_13_1_10t,
-            SalmoDOS:                       tb_13_1_10,
+            SalmoDOSt:                      Ex_15_1_4_8_13_17_18t,
+            SalmoDOS:                       Ex_15_1_4_8_13_17_18,
 // Salmodia 3
             Ant3:                           tos1LAsb3,
-            SalmoTRESt:                     salmo32t,
-            SalmoTRES:                      salmo32,       },
+            SalmoTRESt:                     salmo116t,
+            SalmoTRES:                      salmo116,       },
 // Lectura Breve
         LecturaBreve: {
             LecturaCita:                    tos1LAsb_lbt,
@@ -1840,16 +1840,16 @@ const s2TOsb1 = {
         Salmodias: {
 // Salmodia 1    
             Ant1:                           tos2LAsb1,
-            SalmoUNOt:                      salmo42t,
-            SalmoUNO:                       salmo42,
+            SalmoUNOt:                      salmo91t,
+            SalmoUNO:                       salmo91,
 // Salmodia 2
             Ant2:                           tos2LAsb2,
-            SalmoDOSt:                      is_38_10_14_17_20t,
-            SalmoDOS:                       is_38_10_14_17_20,
+            SalmoDOSt:                      dt_32_1_12t,
+            SalmoDOS:                       dt_32_1_12,
 // Salmodia 3
             Ant3:                           tos2LAsb3,
-            SalmoTRESt:                     salmo64t,
-            SalmoTRES:                      salmo64,       },
+            SalmoTRESt:                     salmo8t,
+            SalmoTRES:                      salmo8,       },
 // Lectura Breve
         LecturaBreve: {
             LecturaCita:                    tos2LAsb_lbt,
@@ -1914,16 +1914,16 @@ const s3TOsb1 = {
         Salmodias: {
 // Salmodia 1    
             Ant1:                           tos3LAsb1,
-            SalmoUNOt:                      salmo84t,
-            SalmoUNO:                       salmo84,
+            SalmoUNOt:                      salmo_118_145_152t,
+            SalmoUNO:                       salmo_118_145_152,
 // Salmodia 2
             Ant2:                           tos3LAsb2,
-            SalmoDOSt:                      Is_26_1_4_7_9_12t,
-            SalmoDOS:                       Is_26_1_4_7_9_12,
+            SalmoDOSt:                      sb_9_1_6_9_11t,
+            SalmoDOS:                       sb_9_1_6_9_11,
 // Salmodia 3
             Ant3:                           tos3LAsb3,
-            SalmoTRESt:                     salmo66t,
-            SalmoTRES:                      salmo66,       },
+            SalmoTRESt:                     salmo116t,
+            SalmoTRES:                      salmo116,       },
 // Lectura Breve
         LecturaBreve: {
             LecturaCita:                    tos3LAsb_lbt,
@@ -1988,16 +1988,16 @@ const s4TOsb1 = {
         Salmodias: {
 // Salmodia 1    
             Ant1:                           tos4LAsb1,
-            SalmoUNOt:                      salmo100t,
-            SalmoUNO:                       salmo100,
+            SalmoUNOt:                      salmo91t,
+            SalmoUNO:                       salmo91,
 // Salmodia 2
             Ant2:                           tos4LAsb2,
-            SalmoDOSt:                      dn_3_26_27_29_34_41t,
-            SalmoDOS:                       dn_3_26_27_29_34_41,
+            SalmoDOSt:                      ez_36_24_28t,
+            SalmoDOS:                       ez_36_24_28,
 // Salmodia 3
             Ant3:                           tos4LAsb3,
-            SalmoTRESt:                     salmo143_1_10t,
-            SalmoTRES:                      salmo143_1_10,       },
+            SalmoTRESt:                     salmo8t,
+            SalmoTRES:                      salmo8,       },
 // Lectura Breve
         LecturaBreve: {
             LecturaCita:                    tos4LAsb_lbt,

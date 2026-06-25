@@ -44,7 +44,7 @@ const tos3LAvs_oracion  = "Ilumina, Señor, nuestros corazones y fortalece nuest
 const tos4LAvs_oracion  = "Te pedimos, Señor, tu gracia abundante, para que nos ayude a seguir el camino de tus mandatos, y así gocemos de tu consuelo en esta vida y alcancemos la felicidad eterna. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén."
 
 // ORACION PARA SABADO
-const tos1LAsb_oracion = ""
-const tos2LAsb_oracion = ""
-const tos3LAsb_oracion  = ""
-const tos4LAsb_oracion  = ""
+const tos1LAsb_oracion = "Te pedimos, Señor, que la claridad de la resurrección de tu Hijo ilumine las dificultades de nuestra vida; que no temamos ante la oscuridad de la muerte y podamos llegar un día a la luz que no tiene fin. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén."
+const tos2LAsb_oracion = "Que nuestra voz, Señor, nuestro espíritu y toda nuestra vida sean una continua alabanza en tu honor, y ya que toda nuestra existencia es un don gratuito de tu liberalidad, haz que también cada una de nuestras acciones te esté plenamente dedicada. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén."
+const tos3LAsb_oracion  = "Dios misericordioso, fuente y origen de nuestra salvación, haz que, mientras dure nuestra vida aquí en la tierra, te alabemos constantemente y podamos así participar un día en la alabanza eterna del cielo. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén."
+const tos4LAsb_oracion  = "Dios todopoderoso y eterno, luz esplendente y día sin ocaso, al volver a comenzar un nuevo día te pedimos que nos visites con el esplendor de tu luz y disipes así las tinieblas de nuestros pecados. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén."

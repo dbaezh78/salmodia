@@ -932,14 +932,99 @@ y que a ti, viejo tronco, poco a poco me enlace,
 y que mi vieja sombra se derrame a tus pies. Amén`
 
 // SABADO
-const htos1LAsbt = ""
-const htos1LAsb = ``
+const htos1LAsbt = "Himno: EN EL NOMBRE DEL PADRE, DEL HIJO Y DEL ESPÍRITU."
+const htos1LAsb = `En el nombre del Padre, del Hijo y del Espíritu,
+salimos de la noche y estrenamos la aurora;
+saludamos el gozo de la luz que nos llega
+resucitada y resucitadora.
 
-const htos2LAsbt = ""
-const htos2LAsb = ``
+Tu mano acerca el fuego a la tierra sombría,
+y el rostro de las cosas se alegra en tu presencia;
+silabeas el alba igual que una palabra,
+tú pronuncias el mar como sentencia.
 
-const htos3LAsbt = ""
-const htos3LAsb = ``
+Regresa, desde el sueño, el hombre a su memoria,
+acude a su trabajo, madruga a sus dolores;
+le confías la tierra, y a la tarde la encuentras
+rica de pan y amarga de sudores.
 
-const htos4LAsbt = ""
-const htos4LAsb = ``
+Y tú te regocijas, oh Dios, y tú prolongas
+en sus pequeñas manos tus manos poderosas,
+y estáis de cuerpo entero los dos así creando,
+los dos así velando por las cosas.
+
+¡Bendita la mañana que trae la noticia
+de tu presencia joven, en gloria y poderío,
+la serena certeza con que el día proclama
+que el sepulcro de Cristo está vacío! Amén.`
+
+const htos2LAsbt = "Himno: SEÑOR YO SÉ QUE EN LA MAÑANA PURA."
+const htos2LAsb = `Señor, yo sé que, en la mañana pura
+de este mundo, tu diestra generosa
+hizo la luz antes que toda cosa,
+porque todo tuviera su figura.
+
+Yo sé que te refleja la segura
+línea inmortal del lirio y de la rosa
+mejor que la embriagada y temerosa
+música de los vientos de la altura.
+
+Por eso te celebro yo en el frío
+pensar exacto a la verdad sujeto,
+y en la ribera sin temblor del río;
+
+por eso yo te adoro, mudo y quieto,
+y por eso, Señor, el dolor mío
+para llegar hasta ti se hizo soneto. Amén.`
+
+const htos3LAsbt = "Himno: CANTEMOS AL SEÑOR CON INDECIBLE GOZO."
+const htos3LAsb = `Cantemos al Señor con indecible gozo,
+él guarde la esperanza de nuestro corazón,
+dejemos la inquietud posar entre sus manos,
+abramos nuestro espíritu a su infinito amor.
+
+Dichoso será aquel que siempre en él confía
+en horas angustiosas de lucha y de aflicción,
+confiad en el Señor si andáis atribulados,
+abramos nuestro espíritu a su infinito amor.
+
+Los justos saben bien que Dios siempre nos ama,
+en penas y alegrías su paz fue su bastión,
+la fuerza del Señor fue gloria en sus batallas,
+abramos nuestro espíritu a su infinito amor.
+
+Envíanos, Señor, tu luz esplendorosa
+si el alma se acongoja en noche y turbación,
+qué luz, qué dulce paz en Dios el hombre encuentra;
+abramos nuestro espíritu a su infinito amor.
+
+Recibe, Padre santo, el ruego y la alabanza,
+que a ti, por Jesucristo y por el Consolador,
+dirige en comunión tu amada y santa Iglesia;
+abramos nuestro espíritu a su infinito amor. Amén.`
+
+const htos4LAsbt = "Himno: DADOR DE LUZ ESPLÉNDIDO"
+const htos4LAsb = `Dador de luz espléndido,
+A cuya luz serena,
+Pasada ya la noche,
+El día se despliega.
+
+Mensajero de luz
+que de luz centellea,
+no es del alba el lucero:
+eres tú, Luz de veras,
+
+más brillante que el sol,
+todo luz y pureza;
+enciende nuestro pecho,
+alumbra el alma nuestra.
+
+Ven, Autor de la vida,
+prez de la luz paterna,
+sin cuya gracia el cuerpo
+se sobresalta y tiembla.
+
+A Cristo, rey piadoso,
+y al Padre gloria eterna,
+y por todos los siglos
+al Espíritu sea. Amén.`

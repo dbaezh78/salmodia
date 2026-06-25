@@ -1,3 +1,96 @@
+//Cántico: HIMNO A DIOS, DESPUÉS DE LA VICTORIA DEL MAR ROJO Ex 15, 1-4. 8-13. 17-18
+const Ex_15_1_4_8_13_17_18t = "Cántico: HIMNO A DIOS, DESPUÉS DE LA VICTORIA DEL MAR ROJO Ex 15, 1-4. 8-13. 17-18"
+const Ex_15_1_4_8_13_17_18 = `Cantaré al Señor, sublime es su victoria,
+caballos y carros ha arrojado en el mar.
+Mi fuerza y mi poder es el Señor,
+él fue mi salvación.
+
+Él es mi Dios: yo lo alabaré;
+el Dios de mis padres: yo lo ensalzaré.
+El Señor es un guerrero,
+su nombre es «El Señor».
+
+Los carros del faraón los lanzó al mar,
+ahogó en el mar rojo a sus mejores capitanes.
+
+Al soplo de tu ira se amontonaron las aguas,
+las corrientes se alzaron como un dique,
+las olas se cuajaron en el mar.
+
+Decía el enemigo: «Los perseguiré y alcanzaré,
+repartiré el botín, se saciará mi codicia,
+empuñaré la espada, los agarrará mi mano.»
+
+Pero sopló tu aliento y los cubrió el mar,
+se hundieron como plomo en las aguas formidables.
+
+¿Quién como tú, Señor, entre los dioses?
+¿Quién como tú, terrible entre los santos,
+temibles por tus proezas, autor de maravillas?
+
+Extendiste tu diestra: se los tragó la tierra;
+guiaste con misericordia a tu pueblo rescatado,
+los llevaste con tu poder hasta tu santa morada.
+
+Lo introduces y lo plantas en el monte de tu heredad,
+lugar del que hiciste tu trono, Señor;
+santuario, Señor, que fundaron tus manos.
+El Señor reina por siempre jamás.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+//Cántico: BENEFICIOS DE DIOS PARA CON SU PUEBLO Dt 32, 1-12
+const dt_32_1_12t = "Cántico: BENEFICIOS DE DIOS PARA CON SU PUEBLO Dt 32, 1-12"
+const dt_32_1_12 = `Escuchad, cielos, y hablaré;
+oye, tierra, los dichos de mi boca;
+descienda como lluvia mi doctrina,
+destile como rocío mi palabra;
+como llovizna sobre la hierba,
+como sereno sobre el césped;
+voy a proclamar el nombre del Señor:
+dad gloria a nuestro Dios.
+
+Él es la Roca, sus obras son perfectas,
+sus caminos son justos,
+es un Dios fiel, sin maldad;
+es justo y recto.
+
+Hijos degenerados, se portaron mal con él,
+generación malvada y pervertida.
+¿Así le pagas al Señor,
+pueblo necio e insensato?
+¿no es él tu padre y tu creador,
+el que te hizo y te constituyó?
+
+Acuérdate de los días remotos,
+considera las edades pretéritas,
+pregunta a tu padre y te lo contará,
+a tus ancianos y te lo dirán:
+
+Cuando el Altísimo daba a cada pueblo su heredad,
+y distribuía a los hijos de Adán,
+trazando las fronteras de las naciones,
+según el número de los hijos de Dios,
+la porción del Señor fue su pueblo,
+Jacob fue la parte de su heredad.
+
+Lo encontró en una tierra desierta,
+en una soledad poblada de aullidos:
+lo rodeó cuidando de él,
+lo guardó como a las niñas de sus ojos.
+
+Como el águila incita a su nidada,
+revolando sobre los polluelos,
+así extendió sus alas, los tomó
+y los llevó sobre sus plumas.
+
+El Señor solo los condujo
+no hubo dioses extraños con él.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
 
 // 1ra de Samuel - Cántico: ALEGRIA DE LOS HUMILDES EN DIOS 1S 2,1-10
 const ISa2_1_10t = "Cántico: ALEGRIA DE LOS HUMILDES EN DIOS 1S 2,1-10" 
@@ -170,8 +263,8 @@ Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
 
 //Salmo 5, 2-10. 12-13 - ORACIÓN DE LA MAÑANA DE UN JUSTO PERSEGUIDO
-const Salmo5_2_10_12_13t = "Salmo 5, 2-10. 12-13 - ORACIÓN DE LA MAÑANA DE UN JUSTO PERSEGUIDO"
-const Salmo5_2_10_12_13 = `Señor, escucha mis palabras,
+const salmo_5_2_10_12_13t = "Salmo 5, 2-10. 12-13 - ORACIÓN DE LA MAÑANA DE UN JUSTO PERSEGUIDO"
+const salmo_5_2_10_12_13 = `Señor, escucha mis palabras,
 atiende a mis gemidos,
 haz caso de mis gritos de auxilio,
 Rey mío y Dios mío.
@@ -214,6 +307,40 @@ y como un escudo lo rodea tu favor.
 
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+//Salmo 8 MAJESTAD DEL SEÑOR Y DIGNIDAD DEL HOMBRE.
+const salmo8t = "Salmo 8 MAJESTAD DEL SEÑOR Y DIGNIDAD DEL HOMBRE."
+const salmo8 = `Señor, dueño nuestro,
+¡que admirable es tu nombre
+en toda la tierra!
+
+Ensalzaste tu majestad sobre los cielos.
+De la boca de los niños de pecho
+has sacado una alabanza contra tus enemigos,
+para reprimir al adversario y al rebelde.
+
+Cuando contemplo el cielo, obra de tus manos;
+la luna y las estrellas que has creado,
+¿qué es el hombre, para que te acuerdes de él;
+el ser humano, para darle poder?
+
+Lo hiciste poco inferior a los ángeles,
+lo coronaste de gloria y dignidad,
+le diste el mando sobre las obras de tus manos,
+todo lo sometiste bajo sus pies:
+
+rebaños de ovejas y toros,
+y hasta las bestias del campo,
+las aves del cielo, los peces del mar,
+que trazan sendas por las aguas.
+
+Señor, dueño nuestro,
+¡que admirable es tu nombre
+en toda la tierra!
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
 
 //Salmo 23 - ENTRADA SOLEMNE DE DIOS EN SU TEMPLO
 const salmo23t = "Salmo 23 - ENTRADA SOLEMNE DE DIOS EN SU TEMPLO"
@@ -1002,6 +1129,48 @@ Y cantarán mientras danzan:
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
+//Salmo 91 - ALABANZA A DIOS QUE CON SABIDURÍA Y JUSTICIA DIRIGE LA VIDA DE LOS HOMBRES.
+const salmo91t = "Salmo 91 - ALABANZA A DIOS QUE CON SABIDURÍA Y JUSTICIA DIRIGE LA VIDA DE LOS HOMBRES."
+const salmo91 = `Es bueno dar gracias al Señor
+y tocar para tu nombre, oh Altísimo,
+proclamar por la mañana tu misericordia
+y de noche tu fidelidad,
+con arpas de diez cuerdas y laúdes
+sobre arpegios de cítaras.
+
+Tus acciones, Señor, son mi alegría,
+y mi júbilo, las obras de tus manos.
+¡Qué magníficas son tus obras, Señor,
+qué profundos tus designios!
+El ignorante no los entiende
+ni el necio se da cuenta.
+
+Aunque germinen como hierba los malvados
+y florezcan los malhechores,
+serán destruidos para siempre.
+Tú, en cambio, Señor,
+eres excelso por los siglos.
+
+Porque tus enemigos, Señor, perecerán,
+los malhechores serán dispersados;
+pero a mí me das la fuerza de un búfalo
+y me unges con aceite nuevo.
+Mis ojos no temerán a mis enemigos,
+mis oídos escucharán su derrota.
+
+El justo crecerá como una palmera
+y se alzará como un cedro del Líbano:
+plantado en la casa del Señor,
+crecerá en los atrios de nuestro Dios;
+
+en la vejez seguirá dando fruto
+y estará lozano y frondoso,
+para proclamar que el Señor es justo,
+que en mi Roca no existe la maldad.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
 
 // Salmo 92 - GLORIA DEL DIOS CREADOR
 const salmo92t = "Salmo 92 - GLORIA DEL DIOS CREADOR"
@@ -1367,6 +1536,17 @@ porque es eterna su misericordia.
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
+const salmo116t = "Salmo 116 - INVITACIÓN UNIVERSAL A LA ALABANZA DIVINA."
+const salmo116 = `Alabad al Señor, todas las naciones,
+aclamadlo, todos los pueblos:
+
+Firme es su misericordia con nosotros,
+su fidelidad dura por siempre.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+
 const salmo117t = "Salmo 117 - HIMNO DE ACCIÓN DE GRACIAS DESPUÉS DE LA VICTORIA."
 const salmo117 = `Dad gracias al Señor porque es bueno,
 porque es eterna su misericordia.
@@ -1515,6 +1695,32 @@ porque es eterna su misericordia.
 
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+
+//Salmo 118, 145-152 TE INVOCO DE TODO CORAZÓN
+const salmo_118_145_152t = "Salmo 118, 145-152 TE INVOCO DE TODO CORAZÓN"
+const salmo_118_145_152 = `Te invoco de todo corazón;
+respóndeme, Señor, y guardaré tus leyes;
+a ti grito: sálvame,
+y cumpliré tus decretos;
+me adelanto a la aurora pidiendo auxilio,
+esperando tus palabras.
+
+Mis ojos se adelantan a las vigilias de la noche,
+meditando tu promesa;
+escucha mi voz por tu misericordia,
+con tus mandamientos dame vida;
+ya se acercan mis inicuos perseguidores,
+están lejos de tu voluntad.
+
+Tú, Señor, estás cerca,
+y todos tus mandatos son estables;
+hace tiempo comprendí que tus preceptos
+los fundaste para siempre.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
 
 //Salmo 142, 1-11 - LAMENTACIÓN Y SÚPLICA ANTE LA ANGUSTIA
 const salmo142_1_11t = "Salmo 142, 1-11 - LAMENTACIÓN Y SÚPLICA ANTE LA ANGUSTIA"
@@ -1978,6 +2184,44 @@ alabando tu nombre glorioso.
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
+//Cántico: DAME SEÑOR, LA SABIDURÍA Sb 9, 1-6. 9-11
+const sb_9_1_6_9_11t = "Cántico: DAME SEÑOR, LA SABIDURÍA Sb 9, 1-6. 9-11"
+const sb_9_1_6_9_11 = `Dios de los padres y Señor de la misericordia,
+que con tu palabra hiciste todas las cosas,
+y en tu sabiduría formaste al hombre,
+para que dominase sobre tus creaturas,
+y para que rigiese el mundo con santidad y justicia
+y lo gobernase con rectitud de corazón.
+
+Dame la sabiduría asistente de tu trono
+y no me excluyas del número de tus siervos,
+porque siervo tuyo soy, hijo de tu sierva,
+hombre débil y de pocos años,
+demasiado pequeño para conocer el juicio y las leyes.
+
+Pues aunque uno sea perfecto
+entre los hijos de los hombres,
+sin la sabiduría, que procede de ti,
+será estimado en nada.
+
+Contigo está la sabiduría conocedora de tus obras,
+que te asistió cuando hacías el mundo,
+y que sabe lo que es grato a tus ojos
+y lo que es recto según tus preceptos.
+
+Mándala de tus santos cielos
+y de tu trono de gloria envíala
+para que me asista en mis trabajos
+y venga yo a saber lo que te es grato.
+
+Porque ella conoce y entiende todas las cosas,
+y me guiará prudentemente en mis obras,
+y me guardará en su esplendor.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+
 
 //Cántico: ACCION DE GRACIAS DEL PUEBLO SALVADO - Is 12, 1-6
 const is_12_1_6t = "Cántico: ACCION DE GRACIAS DEL PUEBLO SALVADO - Is 12, 1-6"
@@ -2010,8 +2254,8 @@ Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
 
 
 //Cántico: ANGUSTIA DE UN MORIBUNDO Y ALEGRÍA DE LA CURACIÓN Is 38, 10-14. 17-20
-const Is_26_1_4_7_9_12t = "Cántico: HIMNO DESPUÉS DE LA VICTORIA SOBRE EL ENEMIGO Is 26, 1-4. 7-9. 12"
-const Is_26_1_4_7_9_12 = `Tenemos una ciudad fuerte,
+const is_26_1_4_7_9_12t = "Cántico: HIMNO DESPUÉS DE LA VICTORIA SOBRE EL ENEMIGO Is 26, 1-4. 7-9. 12"
+const is_26_1_4_7_9_12 = `Tenemos una ciudad fuerte,
 ha puesto para salvarla murallas y baluartes:
 
 Abrid las puertas para que entre un pueblo justo,
@@ -2337,6 +2581,33 @@ y mi pueblo se saciará de mis bienes.
 
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
+//Cántico: DIOS RENOVARÁ A SU PUEBLO - Ez 36, 24-28
+const ez_36_24_28t = "Cántico: DIOS RENOVARÁ A SU PUEBLO - Ez 36, 24-28"
+const ez_36_24_28 = `Os recogeré de entre las naciones,
+os reuniré de todos los países,
+y os llevaré a vuestra tierra.
+
+Derramaré sobre vosotros un agua pura
+que os purificará:
+de todas vuestras inmundicias e idolatrías
+os he de purificar;
+y os daré un corazón nuevo,
+y os infundiré un espíritu nuevo;
+arrancaré de vuestra carne el corazón de piedra,
+y os daré un corazón de carne.
+
+Os infundiré mi espíritu,
+y haré que caminéis según mis preceptos,
+y que guardéis y cumpláis mis mandatos.
+
+Y habitaréis en la tierra que di a vuestros padres.
+Vosotros seréis mi pueblo
+y yo seré vuestro Dios.
+
+Gloria al Padre, y al Hijo, y al Espíritu Santo.
+Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.`
+
 
 //Cántico: JUICIO DE DIOS - Ha 3, 2-4. 13a. 15-19
 const ha3_2_4_13a_15_19t = "Cántico: JUICIO DE DIOS - Ha 3, 2-4. 13a. 15-19"
